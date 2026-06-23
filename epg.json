@@ -4203,6 +4203,90 @@
       "stop": "20260626000000 +0200",
       "title": "Senzi koktail",
       "desc": "Namiešame Vám mix najlepších šlágrov, dychoviek, popových piesní, ale aj folklóru od interprétov, ktorých máte radi."
+    },
+    {
+      "start": "20260626000000 +0200",
+      "stop": "20260626010000 +0200",
+      "title": "Piánko",
+      "desc": "Najviac zaľúbených pesničiek a príjemných romantických hitov na jednom mieste. Uvoľnite sa, relaxujte a ak máte niekoho pri sebe, tak mu povedzte, ako ho ľúbite... Tento čas je ideálny pre romantické vyznanie lásky, alebo pre Váš relax."
+    },
+    {
+      "start": "20260626010000 +0200",
+      "stop": "20260626020000 +0200",
+      "title": "Hráme na dobrú noc",
+      "desc": "Príjemné melódie Vás odprevadia aj do postele. Pokiaľ sa chystáte už spať, Televízia SENZI bude Vašim spoločníkom aj pri zaspávaní."
+    },
+    {
+      "start": "20260626020000 +0200",
+      "stop": "20260626040000 +0200",
+      "title": "Galavečer hviezd",
+      "desc": "Hudobno-zábavný program s hviezdami Televízie SENZI a moderátorom Jánom Žitňanským. www.senzi.sk."
+    },
+    {
+      "start": "20260626040000 +0200",
+      "stop": "20260626050000 +0200",
+      "title": "Senzi noc",
+      "desc": "Aj noc môže byť čarovná. Zmes všetkých žánrov pre všetkých, čo zostávajú aj v noci s nami. Nebuďte sami - buďte s nami celú noc."
+    },
+    {
+      "start": "20260626050000 +0200",
+      "stop": "20260626060000 +0200",
+      "title": "Najlepšie ľudovky a dychovky",
+      "desc": "Urobte si čas pre seba a započúvajte sa do hudby v podaní najlepších dychoviek. Pôvodné ľudové piesne, ale aj originálne úpravy známych hitov v dychovom prevedení."
+    },
+    {
+      "start": "20260626060000 +0200",
+      "stop": "20260626090000 +0200",
+      "title": "Senzi ráno",
+      "desc": "Zobúdzajte sa s Televíziou Senzi! Najviac rytmických pesničiek, ktoré Vás postavia na nohy Vám hráme každé ráno."
+    },
+    {
+      "start": "20260626090000 +0200",
+      "stop": "20260626100000 +0200",
+      "title": "Najlepšie ľudovky a dychovky",
+      "desc": "Urobte si čas pre seba a započúvajte sa do hudby v podaní najlepších dychoviek. Pôvodné ľudové piesne, ale aj originálne úpravy známych hitov v dychovom prevedení."
+    },
+    {
+      "start": "20260626100000 +0200",
+      "stop": "20260626120000 +0200",
+      "title": "Senzi šlágre",
+      "desc": "Výborné pesničky pre dobrú náladu, ktoré si budete s nami spievať! Najlepšie slovenské, české a svetové šlágre, repete-hity a evergreeny na jednom mieste."
+    },
+    {
+      "start": "20260626120000 +0200",
+      "stop": "20260626130000 +0200",
+      "title": "Piánko",
+      "desc": "Najviac zaľúbených pesničiek a príjemných romantických hitov na jednom mieste. Uvoľnite sa, relaxujte a ak máte niekoho pri sebe, tak mu povedzte, ako ho ľúbite... Tento čas je ideálny pre romantické vyznanie lásky, alebo pre Váš relax."
+    },
+    {
+      "start": "20260626130000 +0200",
+      "stop": "20260626140000 +0200",
+      "title": "Hit za hitom",
+      "desc": "Každá kapela, každý spevák či speváčka majú svoj veľký hit. My Vám ich teraz zahráme pekne za sebou. Len samé hity celú hodinu."
+    },
+    {
+      "start": "20260626140000 +0200",
+      "stop": "20260626180000 +0200",
+      "title": "Senzi šlágre",
+      "desc": "Výborné pesničky pre dobrú náladu, ktoré si budete s nami spievať! Najlepšie slovenské, české a svetové šlágre, repete-hity a evergreeny na jednom mieste."
+    },
+    {
+      "start": "20260626180000 +0200",
+      "stop": "20260626200000 +0200",
+      "title": "Najlepšie ľudovky a dychovky",
+      "desc": "Urobte si čas pre seba a započúvajte sa do hudby v podaní najlepších dychoviek. Pôvodné ľudové piesne, ale aj originálne úpravy známych hitov v dychovom prevedení."
+    },
+    {
+      "start": "20260626200000 +0200",
+      "stop": "20260626220000 +0200",
+      "title": "Senzi repete",
+      "desc": ""
+    },
+    {
+      "start": "20260626220000 +0200",
+      "stop": "20260627000000 +0200",
+      "title": "Senzi párty",
+      "desc": "Najlepšie párty hity pre dobrú náladu hrá Televízia Senzi."
     }
   ],
   "Óčko (540p)": [
@@ -6457,6 +6541,144 @@
     {
       "start": "20260625230500 +0200",
       "stop": "20260626000500 +0200",
+      "title": "Aféry - neuvěřitelné životní příběhy",
+      "desc": "Šokující partnerské vztahy, nevěry, podrazy. Jak daleko se dá zajít ve vztahu a jak moc si partneři dokážou ublížit."
+    },
+    {
+      "start": "20260626000500 +0200",
+      "stop": "20260626035000 +0200",
+      "title": "Badatelé",
+      "desc": "Reportér Jaroslav Mareš je na stopách největších záhad, nevysvětlených jevů a zapomenutých příběhů (skryté titulky)."
+    },
+    {
+      "start": "20260626035000 +0200",
+      "stop": "20260626041500 +0200",
+      "title": "Ostříháno",
+      "desc": "Čtyři kadeřníci v soutěži na ostří nůžek (skryté titulky)."
+    },
+    {
+      "start": "20260626041500 +0200",
+      "stop": "20260626043600 +0200",
+      "title": "Na plac!",
+      "desc": "Šance pro herce z ulice (skryté titulky)."
+    },
+    {
+      "start": "20260626043600 +0200",
+      "stop": "20260626060000 +0200",
+      "title": "Konec vysílání",
+      "desc": ""
+    },
+    {
+      "start": "20260626060000 +0200",
+      "stop": "20260626070000 +0200",
+      "title": "Soudkyně Barbara",
+      "desc": "V manželství je nesmírně důležité, aby k sobě byli partneři tolerantní a akceptovali svoje koníčky. Petr Vaněček propadl neškodné zálibě - myslivosti a lovectví, ale jeho manželka tvrdí, že je to nepřekonatelný problém. Skutečně jí tak vadí srnčí guláš a paroží v ložnici, anebo je problém úplně jinde a zvířata v tom jsou nevinně."
+    },
+    {
+      "start": "20260626070000 +0200",
+      "stop": "20260626074500 +0200",
+      "title": "Šťastná 7",
+      "desc": "Nová zábavná soutěž plná zajímavých otázek a ještě zajímavějších odpovědí. Pořadem vás provede Vlasta Korec."
+    },
+    {
+      "start": "20260626074500 +0200",
+      "stop": "20260626085000 +0200",
+      "title": "Záchranáři",
+      "desc": "Nikdo nezná tenkou hranici mezi životem a smrtí tak dobře jako oni. Záchranáři. V situacích, kdy jde doslova o všechno. Čtyři příběhy, čtyři výjezdy. Buďte s námi u toho."
+    },
+    {
+      "start": "20260626085000 +0200",
+      "stop": "20260626091500 +0200",
+      "title": "Co bude dnes k večeři?",
+      "desc": "Kuchařku zahoďte, vařte s televizí Barrandov."
+    },
+    {
+      "start": "20260626091500 +0200",
+      "stop": "20260626112500 +0200",
+      "title": "Josef Klíma: Jak jsem přežil devadesátky",
+      "desc": "Prostituce 2 Josef Klíma ve svém novém pořadu JAK JSEM PŘEŽIL DEVADESÁTKY vypráví o tom, jak dobrodružné a často i nebezpečné tehdy bylo dělat novináře. O tajných schůzkách s mafiány, o rozhovorech s lidmi, jako byli Ivan Jonák, orličtí vrazi, Radovan Krejčíř a další. I o tom, jak se měnilo české podsvětí. Osobní zpověď reportéra, který se stal také symbolem této divoké doby. Ovšem na opačné straně než zločinci."
+    },
+    {
+      "start": "20260626112500 +0200",
+      "stop": "20260626114000 +0200",
+      "title": "Co bude dnes k večeři?",
+      "desc": "Jak vyřešit každodenní problém mnoha domácností \"Co bude dnes k večeři?\" Recept na webových stránkách TV Barrandov, suroviny na stole a může se začít. Rychlý, praktický a cenově dostupný způsob, jak bezstarostně uvařit originalní a dobrou večeři pro celou rodinu. Světová i domácí kuchyně a pravidelné sladké zpestření. Do kuchyně se postaví mistr kuchař Radek Kašpárek. V pondělí - pátek na Barrandově."
+    },
+    {
+      "start": "20260626114000 +0200",
+      "stop": "20260626121500 +0200",
+      "title": "Co dům dal",
+      "desc": "Máte doma prostřeno? A k tomu prázdnou ledničku a žádný nápad, co uvařit k večeři? Pozvěte si domů tým Televize Barrandov a oni vám uvaří. A nejen to! Ještě se budete královsky bavit! Znáte to všichni, sedíte doma na gauči u televize a koukáte na pořad, kde někdo něco vaří. A najednou zjišťujete, že to, z čeho luxusní pokrm vzniká, doma zkrátka nemáte. A přitom si můžete přichystat báječnou hostinu i z toho mála, co váš dům dal. A šoumeni Karel Zima a Jarmil Škvrna vám ukážou jak."
+    },
+    {
+      "start": "20260626121500 +0200",
+      "stop": "20260626130500 +0200",
+      "title": "Česká tajenka",
+      "desc": "Pro všechny příznivce přísloví a slovních hříček startuje každý všední den odpoledne zábavná soutěž Česká tajenka. Na soutěžící čekají nejen záludné hádanky, které si připravil moderátor Vlasta Korec, ale také řada zajímavých cen."
+    },
+    {
+      "start": "20260626130500 +0200",
+      "stop": "20260626141000 +0200",
+      "title": "Soudce Alexandr",
+      "desc": "Na obrazovku se vrací spravedlnost v mužské podobě soudce Alexandra. Řešit se budou především peníze. Dluhy, exekuce, zpronevěry, podvody a již brzy také vážnější případy trestního práva. Ublížení na zdraví, krádeže a jiné trestné činy."
+    },
+    {
+      "start": "20260626141000 +0200",
+      "stop": "20260626151000 +0200",
+      "title": "Soudkyně Barbara",
+      "desc": "Skutečné příběhy ze soudních síní. Nesmlouvavá, neomylná a spravedlivá - soudkyně Barbara rozhoduje, kde je pravda."
+    },
+    {
+      "start": "20260626151000 +0200",
+      "stop": "20260626161000 +0200",
+      "title": "Soudce Alexandr",
+      "desc": "Na obrazovku se vrací spravedlnost v mužské podobě soudce Alexandra. Řešit se budou především peníze. Dluhy, exekuce, zpronevěry, podvody a již brzy také vážnější případy trestního práva. Ublížení na zdraví, krádeže a jiné trestné činy."
+    },
+    {
+      "start": "20260626161000 +0200",
+      "stop": "20260626171000 +0200",
+      "title": "Soudkyně Barbara",
+      "desc": "Když člověku chybí zdraví, nebaví ho život. A pokud jde o dlouhodobou nemoc, potom se není co divit, že takový pacient hledá všechny možné cesty, jak se zbavit choroby, bolesti a omezení, která mu to přináší. V dobré víře se do rukou léčitele svěřila i paní Marta. Uvěřila jeho slovům, že na každou bolest existuje lék."
+    },
+    {
+      "start": "20260626171000 +0200",
+      "stop": "20260626180500 +0200",
+      "title": "Soudce Alexandr",
+      "desc": "Na obrazovku se vrací spravedlnost v mužské podobě soudce Alexandra. Řešit se budou především peníze. Dluhy, exekuce, zpronevěry, podvody a již brzy také vážnější případy trestního práva. Ublížení na zdraví, krádeže a jiné trestné činy."
+    },
+    {
+      "start": "20260626180500 +0200",
+      "stop": "20260626191000 +0200",
+      "title": "Záchranáři",
+      "desc": "Nikdo nezná tenkou hranici mezi životem a smrtí tak dobře jako oni. Záchranáři. V situacích, kdy jde doslova o všechno. Čtyři příběhy, čtyři výjezdy. Buďte s námi u toho."
+    },
+    {
+      "start": "20260626191000 +0200",
+      "stop": "20260626200500 +0200",
+      "title": "Česká tajenka",
+      "desc": "Pro všechny příznivce přísloví a slovních hříček startuje každý všední den odpoledne zábavná soutěž Česká tajenka. Na soutěžící čekají nejen záludné hádanky, které si připravil moderátor Vlasta Korec, ale také řada zajímavých cen."
+    },
+    {
+      "start": "20260626200500 +0200",
+      "stop": "20260626210000 +0200",
+      "title": "Josef Klíma: Jak jsem přežil devadesátky",
+      "desc": "Komu a čemu jsem pomohl? Josef Klíma ve svém novém pořadu JAK JSEM PŘEŽIL DEVADESÁTKY vypráví o tom, jak dobrodružné a často i nebezpečné tehdy bylo dělat novináře. O tajných schůzkách s mafiány, o rozhovorech s lidmi, jako byli Ivan Jonák, orličtí vrazi, Radovan Krejčíř a další. I o tom, jak se měnilo české podsvětí. Osobní zpověď reportéra, který se stal také symbolem této divoké doby. Ovšem na opačné straně než zločinci. (skryté titulky)."
+    },
+    {
+      "start": "20260626210000 +0200",
+      "stop": "20260626221000 +0200",
+      "title": "Politická střelnice",
+      "desc": "Satirický pořad Zuzany Bubílkové."
+    },
+    {
+      "start": "20260626221000 +0200",
+      "stop": "20260626232000 +0200",
+      "title": "Zločin",
+      "desc": "Seriál se zabývá jediným případem vraždy. Dvacet dílů je rozloženo do dvaceti dnů vyšetřování. Studentka Nanna Birk Larsen je nalezena mrtvá v autě na dně řeky. Soudní pitva prokáže, že dívka byla před smrtí mučena a znásilněna. Vyšetřování se ujímá komisařka Sarah Lund. Měl to být její poslední den v kodaňské mordpartě. Má se stěhovat za přítelem do Švédska. Na oddělení je už její nástupce Jan Meyer. Lund však obětuje své soukromí, je odhodlána najít vraha."
+    },
+    {
+      "start": "20260626232000 +0200",
+      "stop": "20260627032000 +0200",
       "title": "Aféry - neuvěřitelné životní příběhy",
       "desc": "Šokující partnerské vztahy, nevěry, podrazy. Jak daleko se dá zajít ve vztahu a jak moc si partneři dokážou ublížit."
     }
