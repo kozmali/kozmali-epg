@@ -1,0 +1,31 @@
+name: Generovanie EPG a GitHub Pages
+
+on:
+  schedule:
+    - cron: '30 2 * * *' # Spustí sa o 4:30 nášho času
+  workflow_dispatch: # Povolí ti spustiť to manuálne
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Stiahnutie repozitára
+      uses: actions/checkout@v4
+
+    - name: 🐍 Nastavenie Pythonu
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: ⚙️ Spustenie EPG skriptu
+      run: python generator_epg.py
+
+    - name: 💾 Commit a Push epg.json späť do repozitára
+      run: |
+        git config --global user.name "GitHub Action Bot"
+        git config --global user.email "action@github.com"
+        git add epg.json
+        # Uloží to len vtedy, ak sa súbor reálne zmenil
+        git diff --quiet && git diff --staged --quiet || git commit -m "Aktualizácia EPG dát"
+        git push
