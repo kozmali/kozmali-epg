@@ -2,8 +2,14 @@ name: Generovanie EPG a GitHub Pages
 
 on:
   schedule:
-    - cron: '30 2 * * *' # Spustí sa o 4:30 nášho času
-  workflow_dispatch: # Povolí ti spustiť to manuálne
+    - cron: '30 2 * * *' # Každé ráno o 4:30 nášho času
+  workflow_dispatch: # Pre manuálne spustenie
+
+# Pridávame potrebné povolenia pre zápis do repozitára aj priamo na GitHub Pages web
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build-and-deploy:
@@ -26,6 +32,16 @@ jobs:
         git config --global user.name "GitHub Action Bot"
         git config --global user.email "action@github.com"
         git add epg.json
-        # Uloží to len vtedy, ak sa súbor reálne zmenil
         git diff --quiet && git diff --staged --quiet || git commit -m "Aktualizácia EPG dát"
         git push
+
+    - name: 🛠️ Nastavenie GitHub Pages
+      uses: actions/configure-pages@v5
+
+    - name: 📦 Nahratie súborov pre web
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: '.' # Nahrá celý priečinok vrátane nového epg.json
+
+    - name: 🚀 Publikovanie na GitHub Pages web
+      uses: actions/deploy-pages@v4
