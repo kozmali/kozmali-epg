@@ -20,6 +20,8 @@ TARGET_CHANNELS = {
     "ČT.sport.cz": "ČT Sport",
     "Senzi.sk": "Senzi",
     "Óčko.cz": "Óčko (540p)",
+    "Prima.ZOOM.cz": "Prima ZOOM",
+    "Disney.Channel.cz": "Disney Channel",
 # Trik: Obe oddelené ČT stanice zlúčime pod jeden názov
     "ČT.:D.cz": "ČT :D / ČT art",
     "ČT.art.cz": "ČT :D / ČT art",
