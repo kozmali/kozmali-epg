@@ -11,7 +11,7 @@ SOURCES = [
     "https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz"
 ]
 
-# PRESNÉ IDčka vytiahnuté z tvojho pátračského testu
+# PRESNÉ IDčka vytiahnuté z tvojho pátračského testu najdi_id.py
 TARGET_CHANNELS = {
     "Minimax.cz": "Minimax",
     "Prima.cz": "Prima",
@@ -21,6 +21,12 @@ TARGET_CHANNELS = {
     "Senzi.sk": "Senzi",
     "Óčko.cz": "Óčko (540p)",
     "Prima.ZOOM.cz": "Prima ZOOM",
+    "Prima.COOL.SK.cz": "Prima COOL SK",
+    "Óčko.Black.cz": "Óčko Black",
+    "AXN.Black.cz": "AXN Blackno",
+    "Noe+.cz": "Noe+",
+    "Sporty.TV.cz": "Sporty TV",
+    "Golf.Channel.cz": "Golf Channel",
     "Disney.Channel.cz": "Disney Channel",
 # Trik: Obe oddelené ČT stanice zlúčime pod jeden názov
     "ČT.:D.cz": "ČT :D / ČT art",
