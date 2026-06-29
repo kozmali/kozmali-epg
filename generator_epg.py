@@ -23,7 +23,7 @@ TARGET_CHANNELS = {
     "Prima.ZOOM.cz": "Prima ZOOM",
     "Prima.COOL.SK.cz": "Prima COOL SK",
     "Óčko.Black.cz": "Óčko Black",
-    "AXN.Black.cz": "AXN Blackno",
+    "AXN.Black.cz": "AXN Black",
     "Noe+.cz": "Noe+",
     "Sporty.TV.cz": "Sporty TV",
     "Golf.Channel.cz": "Golf Channel",
