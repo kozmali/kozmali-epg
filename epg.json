@@ -1,444 +1,6 @@
 {
   "Minimax": [
     {
-      "start": "20261011000500 +0200",
-      "stop": "20261011001500 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011001500 +0200",
-      "stop": "20261011002500 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011002500 +0200",
-      "stop": "20261011003500 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011003500 +0200",
-      "stop": "20261011004500 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011004500 +0200",
-      "stop": "20261011005500 +0200",
-      "title": "Garfieldova show III",
-      "desc": "(The Garfield Show III) (2012). Garfield je líný, sobecký a tlustý oranžový mourek. K jeho hlavním koníčkům patří lenošení, spánek, sledování televize, pojídání pizzy a zábava… Ale jinak má srdce ze zlata. Přestože se vždy zpočátku chová svým obvyklým sobeckým způsobem, díky své vynalézavosti dokáže zachránit situaci a dokonce dostat i Odieho z nesnází."
-    },
-    {
-      "start": "20261011005500 +0200",
-      "stop": "20261011010500 +0200",
-      "title": "Garfieldova show III",
-      "desc": "(The Garfield Show III) (2012). Garfield je líný, sobecký a tlustý oranžový mourek. K jeho hlavním koníčkům patří lenošení, spánek, sledování televize, pojídání pizzy a zábava… Ale jinak má srdce ze zlata. Přestože se vždy zpočátku chová svým obvyklým sobeckým způsobem, díky své vynalézavosti dokáže zachránit situaci a dokonce dostat i Odieho z nesnází."
-    },
-    {
-      "start": "20261011010500 +0200",
-      "stop": "20261011011500 +0200",
-      "title": "Garfieldova show III",
-      "desc": "(The Garfield Show III) (2012). Garfield je líný, sobecký a tlustý oranžový mourek. K jeho hlavním koníčkům patří lenošení, spánek, sledování televize, pojídání pizzy a zábava… Ale jinak má srdce ze zlata. Přestože se vždy zpočátku chová svým obvyklým sobeckým způsobem, díky své vynalézavosti dokáže zachránit situaci a dokonce dostat i Odieho z nesnází."
-    },
-    {
-      "start": "20261011011500 +0200",
-      "stop": "20261011013000 +0200",
-      "title": "Garfieldova show III",
-      "desc": "(The Garfield Show III) (2012). Garfield je líný, sobecký a tlustý oranžový mourek. K jeho hlavním koníčkům patří lenošení, spánek, sledování televize, pojídání pizzy a zábava… Ale jinak má srdce ze zlata. Přestože se vždy zpočátku chová svým obvyklým sobeckým způsobem, díky své vynalézavosti dokáže zachránit situaci a dokonce dostat i Odieho z nesnází."
-    },
-    {
-      "start": "20261011013000 +0200",
-      "stop": "20261011014000 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011014000 +0200",
-      "stop": "20261011015500 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011015500 +0200",
-      "stop": "20261011022000 +0200",
-      "title": "H2O Podmořská dobrodružství",
-      "desc": ""
-    },
-    {
-      "start": "20261011022000 +0200",
-      "stop": "20261011023000 +0200",
-      "title": "Lego Friends: Nová kapitola",
-      "desc": ""
-    },
-    {
-      "start": "20261011023000 +0200",
-      "stop": "20261011024000 +0200",
-      "title": "Lego Friends: Nová kapitola",
-      "desc": ""
-    },
-    {
-      "start": "20261011024000 +0200",
-      "stop": "20261011030500 +0200",
-      "title": "Barbie: Dreamhouse Adventures",
-      "desc": ""
-    },
-    {
-      "start": "20261011030500 +0200",
-      "stop": "20261011032500 +0200",
-      "title": "Ulička záhad I",
-      "desc": "(Mystery Lane I) (2023). V Londýně se dějí podivné věci.Pouze jediné zvíře je schopné těmto záhadám, které hraničí s nadpřirozenem, čelit: křeček detektiv Clever. Je obdařena úžasným pozorovacím smyslem a logickou dedukcí, z nichž dalším zvířatům zůstává rozum stát.Někdy však věci nejdou podle plánu... V tom případě se může spolehnout na svého horkokrevného bratříčka Brata, který je vždy připraven riskovat a útočit na protivníky mnohem větší, než je on sám. Zvítězí v případech, které stále matou Scotland Yard."
-    },
-    {
-      "start": "20261011032500 +0200",
-      "stop": "20261011033500 +0200",
-      "title": "Upovídaný Tom a přátelé",
-      "desc": ""
-    },
-    {
-      "start": "20261011033500 +0200",
-      "stop": "20261011034500 +0200",
-      "title": "Upovídaný Tom a přátelé",
-      "desc": ""
-    },
-    {
-      "start": "20261011034500 +0200",
-      "stop": "20261011040000 +0200",
-      "title": "Upovídaný Tom a přátelé",
-      "desc": ""
-    },
-    {
-      "start": "20261011040000 +0200",
-      "stop": "20261011041000 +0200",
-      "title": "Garfieldova show II",
-      "desc": "(The Garfield Show II) (2011). Garfield je líný, sobecký a tlustý oranžový mourek. K jeho hlavním koníčkům patří lenošení, spánek, sledování televize, pojídání pizzy a zábava… Ale jinak má srdce ze zlata. Přestože se vždy zpočátku chová svým obvyklým sobeckým způsobem, díky své vynalézavosti dokáže zachránit situaci a dokonce dostat i Odieho z nesnází."
-    },
-    {
-      "start": "20261011041000 +0200",
-      "stop": "20261011042000 +0200",
-      "title": "Garfieldova show II",
-      "desc": "(The Garfield Show II) (2011). Garfield je líný, sobecký a tlustý oranžový mourek. K jeho hlavním koníčkům patří lenošení, spánek, sledování televize, pojídání pizzy a zábava… Ale jinak má srdce ze zlata. Přestože se vždy zpočátku chová svým obvyklým sobeckým způsobem, díky své vynalézavosti dokáže zachránit situaci a dokonce dostat i Odieho z nesnází."
-    },
-    {
-      "start": "20261011042000 +0200",
-      "stop": "20261011043000 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011043000 +0200",
-      "stop": "20261011044500 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011044500 +0200",
-      "stop": "20261011051000 +0200",
-      "title": "H2O Podmořská dobrodružství",
-      "desc": ""
-    },
-    {
-      "start": "20261011051000 +0200",
-      "stop": "20261011052000 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011052000 +0200",
-      "stop": "20261011053500 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011053500 +0200",
-      "stop": "20261011060000 +0200",
-      "title": "Zvědavý George",
-      "desc": ""
-    },
-    {
-      "start": "20261011060000 +0200",
-      "stop": "20261011062500 +0200",
-      "title": "Zvědavý George",
-      "desc": ""
-    },
-    {
-      "start": "20261011062500 +0200",
-      "stop": "20261011063500 +0200",
-      "title": "Lego Friends: Nová kapitola",
-      "desc": ""
-    },
-    {
-      "start": "20261011063500 +0200",
-      "stop": "20261011065000 +0200",
-      "title": "Lego Friends: Nová kapitola",
-      "desc": ""
-    },
-    {
-      "start": "20261011065000 +0200",
-      "stop": "20261011065500 +0200",
-      "title": "Byla jednou jedna… Věc I",
-      "desc": "(Once upon a time… the Objects I) (2023). Byly jednou jedny... Věci, které spojuje množství přesných vědeckých informací doprovázených charakteristickým humorným tónem, který zajistil dlouholetou oblíbenost a úspěch původní série."
-    },
-    {
-      "start": "20261011065500 +0200",
-      "stop": "20261011070500 +0200",
-      "title": "Garfieldova show I",
-      "desc": "(The Garfield Show I) (2009). Garfield je líný, sobecký a tlustý oranžový mourek. K jeho hlavním koníčkům patří lenošení, spánek, sledování televize, pojídání pizzy a zábava… Ale jinak má srdce ze zlata. Přestože se vždy zpočátku chová svým obvyklým sobeckým způsobem, díky své vynalézavosti dokáže zachránit situaci a dokonce dostat i Odieho z nesnází."
-    },
-    {
-      "start": "20261011070500 +0200",
-      "stop": "20261011072500 +0200",
-      "title": "Garfieldova show I",
-      "desc": "(The Garfield Show I) (2009). Garfield je líný, sobecký a tlustý oranžový mourek. K jeho hlavním koníčkům patří lenošení, spánek, sledování televize, pojídání pizzy a zábava… Ale jinak má srdce ze zlata. Přestože se vždy zpočátku chová svým obvyklým sobeckým způsobem, díky své vynalézavosti dokáže zachránit situaci a dokonce dostat i Odieho z nesnází."
-    },
-    {
-      "start": "20261011072500 +0200",
-      "stop": "20261011073500 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011073500 +0200",
-      "stop": "20261011074500 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011074500 +0200",
-      "stop": "20261011080000 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011080000 +0200",
-      "stop": "20261011093000 +0200",
-      "title": "Barbie jako Princezna a Švadlenka",
-      "desc": "(Barbie As Princess And The Pauper) (2004). V tomto kouzelném hudebním dobrodružství hraje Barbie roli Tori™, která jako laskavá princezna Meribelly raději tráví čas zpěvem a tancem než plněním vladařských povinností. Když její oblíbená pop star Keira™ navštíví její království, obě děvčata zjistí, že toho mají spoustu společného, a později je kouzlo změní tak, že jsou obě navlas stejné. Vymění si úlohy, ale to se zdá být dobrým nápadem jen do té doby, dokud obě nepřijdou na to, že ta druhá má život lehčí pouze zdánlivě. Ovšem i... Meribella má svoje čarovné tajemství, které náhle zmizí, a proto se celé království dostane do velkých pot íží. Dokáže pravé přátelství situaci zachránit? Tento muzikál, plný fantastických písniček, pohádkové módy a zábavných nových kamarádů, nás poučí, že je vždycky nejlepší zůstat tím, kým jsme."
-    },
-    {
-      "start": "20261011093000 +0200",
-      "stop": "20261011105500 +0200",
-      "title": "Barbie™ in Rock ‘n Royals",
-      "desc": "(Barbie In Rock'n Royals) (2015). Připravte se na rock'n'roll! V tomto dynamickém muzikálu ztělesňuje Barbie moderní princeznu Courtney, v jejímž životě nastane naprostý chaos, když si vymění místo se slavnou rockovou hvězdou Erikou. Dochází ke střetu dvou naprosto rozdílných světů, neboť po záměně osob se princezna Courtney ocitne v táboře populární hudby a Erika v princeznině táboře. Zatímco vedoucí rivalizujících táborů zkoušejí hrozící zmatek udržet na uzdě, Courtney a Erika se naučí, jak se mohou druhému táboru... přizpůsobit a výborně se baví. Dokonce uzavírají zcela nečekaně nová přátelství. Když se dívky doslechnou, ž e oběma táborům hrozí zavření a zrušení, nezbývá jim, než aby navzájem akceptovaly své rozdílné rysy a každá musí najít svůj pravý hlas, aby se mohly spojit pro velký písňový turnaj. Ten má potvrdit, že člověku se může podařit všechno, pokud jsou jeho sny dostatečně odvážné."
-    },
-    {
-      "start": "20261011105500 +0200",
-      "stop": "20261011110500 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011110500 +0200",
-      "stop": "20261011111500 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011111500 +0200",
-      "stop": "20261011114000 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011114000 +0200",
-      "stop": "20261011115000 +0200",
-      "title": "Byla jednou jedna… Věc I",
-      "desc": "(Once upon a time… the Objects I) (2023). Byly jednou jedny... Věci, které spojuje množství přesných vědeckých informací doprovázených charakteristickým humorným tónem, který zajistil dlouholetou oblíbenost a úspěch původní série."
-    },
-    {
-      "start": "20261011115000 +0200",
-      "stop": "20261011121500 +0200",
-      "title": "Zvědavý George",
-      "desc": ""
-    },
-    {
-      "start": "20261011121500 +0200",
-      "stop": "20261011122500 +0200",
-      "title": "Garfieldova show I",
-      "desc": "(The Garfield Show I) (2009). Garfield je líný, sobecký a tlustý oranžový mourek. K jeho hlavním koníčkům patří lenošení, spánek, sledování televize, pojídání pizzy a zábava… Ale jinak má srdce ze zlata. Přestože se vždy zpočátku chová svým obvyklým sobeckým způsobem, díky své vynalézavosti dokáže zachránit situaci a dokonce dostat i Odieho z nesnází."
-    },
-    {
-      "start": "20261011122500 +0200",
-      "stop": "20261011124000 +0200",
-      "title": "Garfieldova show I",
-      "desc": "(The Garfield Show I) (2009). Garfield je líný, sobecký a tlustý oranžový mourek. K jeho hlavním koníčkům patří lenošení, spánek, sledování televize, pojídání pizzy a zábava… Ale jinak má srdce ze zlata. Přestože se vždy zpočátku chová svým obvyklým sobeckým způsobem, díky své vynalézavosti dokáže zachránit situaci a dokonce dostat i Odieho z nesnází."
-    },
-    {
-      "start": "20261011124000 +0200",
-      "stop": "20261011125000 +0200",
-      "title": "ALVINNN!!! A Chipmunkové",
-      "desc": ""
-    },
-    {
-      "start": "20261011125000 +0200",
-      "stop": "20261011130000 +0200",
-      "title": "ALVINNN!!! A Chipmunkové",
-      "desc": "Čipmánkové se ujmou zatoulaného psa, ale musí štěně schovávat před Davidem, který jim domácí mazlíčky nepovolil. Theodor si objedná dračí vejce a doufá, že se z něj vylíhne opravdový drak."
-    },
-    {
-      "start": "20261011130000 +0200",
-      "stop": "20261011131000 +0200",
-      "title": "ALVINNN!!! A Chipmunkové",
-      "desc": "Alvin pomůže \"matletům\", aby se postavili školní šikaně. Ale ve výsledku právě oni začnou šikanovat. Alvin se skamarádí s novým osamělým spolužákem, ale Theodor zjistí, že nový student možná není tím, kdo říká, že je."
-    },
-    {
-      "start": "20261011131000 +0200",
-      "stop": "20261011132000 +0200",
-      "title": "ALVINNN!!! A Chipmunkové",
-      "desc": "Když si Alvin dělá legraci ze Simonova magického vystoupení, vyzve ho Simon na kouzelnický souboj. Alvin se neochotně zaváže k doučování hudebního kroužku, ale zjistí, že ho najednou spolužáci začínají brát jako učitele."
-    },
-    {
-      "start": "20261011132000 +0200",
-      "stop": "20261011134000 +0200",
-      "title": "ALVINNN!!! A Chipmunkové",
-      "desc": "Ale všichni si představují jiný typ filmu. Čipmánkové sledují Davida a zděsí se, že se zamiloval do ženy, která z něj chce udělat voskovou figurínu."
-    },
-    {
-      "start": "20261011134000 +0200",
-      "stop": "20261011140500 +0200",
-      "title": "H2O Podmořská dobrodružství",
-      "desc": ""
-    },
-    {
-      "start": "20261011140500 +0200",
-      "stop": "20261011143000 +0200",
-      "title": "Ulička záhad I",
-      "desc": "(Mystery Lane I) (2023). V Londýně se dějí podivné věci.Pouze jediné zvíře je schopné těmto záhadám, které hraničí s nadpřirozenem, čelit: křeček detektiv Clever. Je obdařena úžasným pozorovacím smyslem a logickou dedukcí, z nichž dalším zvířatům zůstává rozum stát.Někdy však věci nejdou podle plánu... V tom případě se může spolehnout na svého horkokrevného bratříčka Brata, který je vždy připraven riskovat a útočit na protivníky mnohem větší, než je on sám. Zvítězí v případech, které stále matou Scotland Yard."
-    },
-    {
-      "start": "20261011143000 +0200",
-      "stop": "20261011144000 +0200",
-      "title": "Sestry IV",
-      "desc": "(The Sisters IV) (2025). Wendy a Marine jsou dvě sestry, které spolu vycházejí skvěle a sdílejí všechna svá malá tajemství. Rády si ale také navzájem dobírají nebo využívají svou neomezenou energii k nejrůznějším lumpárnám."
-    },
-    {
-      "start": "20261011144000 +0200",
-      "stop": "20261011145000 +0200",
-      "title": "Sestry IV",
-      "desc": "(The Sisters IV) (2025). Wendy a Marine jsou dvě sestry, které spolu vycházejí skvěle a sdílejí všechna svá malá tajemství. Rády si ale také navzájem dobírají nebo využívají svou neomezenou energii k nejrůznějším lumpárnám."
-    },
-    {
-      "start": "20261011145000 +0200",
-      "stop": "20261011150000 +0200",
-      "title": "Sestry IV",
-      "desc": "(The Sisters IV) (2025). Wendy a Marine jsou dvě sestry, které spolu vycházejí skvěle a sdílejí všechna svá malá tajemství. Rády si ale také navzájem dobírají nebo využívají svou neomezenou energii k nejrůznějším lumpárnám."
-    },
-    {
-      "start": "20261011150000 +0200",
-      "stop": "20261011152500 +0200",
-      "title": "Sestry IV",
-      "desc": "(The Sisters IV) (2025). Wendy a Marine jsou dvě sestry, které spolu vycházejí skvěle a sdílejí všechna svá malá tajemství. Rády si ale také navzájem dobírají nebo využívají svou neomezenou energii k nejrůznějším lumpárnám."
-    },
-    {
-      "start": "20261011152500 +0200",
-      "stop": "20261011155500 +0200",
-      "title": "Molly z Denali",
-      "desc": ""
-    },
-    {
-      "start": "20261011155500 +0200",
-      "stop": "20261011162000 +0200",
-      "title": "Poznáváme přírodu",
-      "desc": ""
-    },
-    {
-      "start": "20261011162000 +0200",
-      "stop": "20261011163000 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011163000 +0200",
-      "stop": "20261011164000 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011164000 +0200",
-      "stop": "20261011170000 +0200",
-      "title": "Příhody bílého delfína",
-      "desc": ""
-    },
-    {
-      "start": "20261011170000 +0200",
-      "stop": "20261011181500 +0200",
-      "title": "Barbie™ Ve Světě Her",
-      "desc": "Animovaný seriál o panence Barbie."
-    },
-    {
-      "start": "20261011181500 +0200",
-      "stop": "20261011182500 +0200",
-      "title": "Psík jménem Pat I",
-      "desc": "(Pat the Dog I) (2017). Pat je malý pejsek od vedle. Přítel, o kterém od mala sníte! Se svým velkým čenichem nevypadá nic moc. Ale je oddaný a statečný. Pat by udělal cokoli, aby zachránil svoji paničku Lolu. A tak překonává nemožné, díky svým improvizovaným plánům a jeho psí genialitě."
-    },
-    {
-      "start": "20261011182500 +0200",
-      "stop": "20261011183500 +0200",
-      "title": "Lego Friends: Nová kapitola",
-      "desc": "Každý z nich je jiný, a přesně to je spojuje. V Heartlake City vzniká nová parta středoškoláků, kterou pojí přátelství i společný cíl. Aliya, Autumn, Leo, Zac, Nova, Paisley, Olly a Liann se snaží zorientovat v prvním ročníku na střední škole a navzájem se spřátelí. Během prvního roku teenageři zachrání zchátralou budovu a udělají z ní komunitní centrum."
-    },
-    {
-      "start": "20261011183500 +0200",
-      "stop": "20261011185500 +0200",
-      "title": "Lego Friends: Nová kapitola",
-      "desc": "Každý z nich je jiný, a přesně to je spojuje. V Heartlake City vzniká nová parta středoškoláků, kterou pojí přátelství i společný cíl. Aliya, Autumn, Leo, Zac, Nova, Paisley, Olly a Liann se snaží zorientovat v prvním ročníku na střední škole a navzájem se spřátelí. Během prvního roku teenageři zachrání zchátralou budovu a udělají z ní komunitní centrum."
-    },
-    {
-      "start": "20261011185500 +0200",
-      "stop": "20261011190500 +0200",
-      "title": "Garfieldova show III",
-      "desc": "(The Garfield Show III) (2012). Garfield je líný, sobecký a tlustý oranžový mourek. K jeho hlavním koníčkům patří lenošení, spánek, sledování televize, pojídání pizzy a zábava… Ale jinak má srdce ze zlata. Přestože se vždy zpočátku chová svým obvyklým sobeckým způsobem, díky své vynalézavosti dokáže zachránit situaci a dokonce dostat i Odieho z nesnází."
-    },
-    {
-      "start": "20261011190500 +0200",
-      "stop": "20261011191500 +0200",
-      "title": "Garfieldova show III",
-      "desc": "(The Garfield Show III) (2012). Garfield je líný, sobecký a tlustý oranžový mourek. K jeho hlavním koníčkům patří lenošení, spánek, sledování televize, pojídání pizzy a zábava… Ale jinak má srdce ze zlata. Přestože se vždy zpočátku chová svým obvyklým sobeckým způsobem, díky své vynalézavosti dokáže zachránit situaci a dokonce dostat i Odieho z nesnází."
-    },
-    {
-      "start": "20261011191500 +0200",
-      "stop": "20261011193000 +0200",
-      "title": "Garfieldova show I",
-      "desc": "(The Garfield Show I) (2009). Garfield je líný, sobecký a tlustý oranžový mourek. K jeho hlavním koníčkům patří lenošení, spánek, sledování televize, pojídání pizzy a zábava… Ale jinak má srdce ze zlata. Přestože se vždy zpočátku chová svým obvyklým sobeckým způsobem, díky své vynalézavosti dokáže zachránit situaci a dokonce dostat i Odieho z nesnází."
-    },
-    {
-      "start": "20261011193000 +0200",
-      "stop": "20261011200000 +0200",
-      "title": "Molly z Denali",
-      "desc": ""
-    },
-    {
-      "start": "20261011200000 +0200",
-      "stop": "20261011212500 +0200",
-      "title": "Pettson a Fiškus",
-      "desc": "Farmář Pettson žije na své malé farmě, obhospodařuje svá pole a stará se o svá zvířata. Jeho nejvěrnějším zvířecím průvodcem je kocour Fiškus, který Pettsonovi přináší mnoho potěšení a se kterým prožívá mnohá dobrodružství. Fiškus samozřejmě způsobuje hodnému farmáři svým zlobením mnoho problémů. Farmář a kocour spolu zažívají nejedno dobrodružství. Bylo, nebylo. A není to tak dávno, žil stařík jménem Pettson. Žil sám a neměl příliš rád společnost. Ale pak, jednoho krásného dne mu sousedka přinesla krabici a v ní malé kotě. Animovaný film o farmáři Pettsonovi a jeho kocourovi Fiškusovi, který mu dělá rozpustilého a veselého společníka a zažívají spolu nejedno dobrodružství."
-    },
-    {
-      "start": "20261011212500 +0200",
-      "stop": "20261011224500 +0200",
-      "title": "Barbie™ Tajná Agentka",
-      "desc": "(Barbie In Spy Squad) (2016). V tomto vzrušujícím a akčním dobrodtužství se Barbie a její nejlepší kamarádky Teresa a Renee změní z tvrdě trénujících gymnastek na tajné agentky. Když si jejich úžasných gymnastických dovedností všimne supertajná špionážní služba, dívky začnou brzy sledovat stopy kočičího zloděje drahokamů, který zatím všem detektivům unikal. Dokážou se svými chytrými přístroji, elegantními převleky a roztomilými robotími zvířátky, že chytrost a týmová spolupráce vede ke splnění úkolu? Do záchranné akce se... zapojuje dívčí síla."
-    },
-    {
-      "start": "20261011224500 +0200",
-      "stop": "20261011231500 +0200",
-      "title": "H2O Podmořská dobrodružství",
-      "desc": ""
-    },
-    {
-      "start": "20261011231500 +0200",
-      "stop": "20261011234000 +0200",
-      "title": "LEGO Friends: Nová kapitola",
-      "desc": ""
-    },
-    {
-      "start": "20261011234000 +0200",
-      "stop": "20261012000500 +0200",
-      "title": "Ulička záhad I",
-      "desc": "(Mystery Lane I) (2023). V Londýně se dějí podivné věci.Pouze jediné zvíře je schopné těmto záhadám, které hraničí s nadpřirozenem, čelit: křeček detektiv Clever. Je obdařena úžasným pozorovacím smyslem a logickou dedukcí, z nichž dalším zvířatům zůstává rozum stát.Někdy však věci nejdou podle plánu... V tom případě se může spolehnout na svého horkokrevného bratříčka Brata, který je vždy připraven riskovat a útočit na protivníky mnohem větší, než je on sám. Zvítězí v případech, které stále matou Scotland Yard."
-    },
-    {
       "start": "20261012000500 +0200",
       "stop": "20261012001500 +0200",
       "title": "Příhody bílého delfína",
@@ -1335,168 +897,6 @@
   ],
   "Prima": [
     {
-      "start": "20261011004500 +0200",
-      "stop": "20261011024500 +0200",
-      "title": "V zajetí mysli",
-      "desc": "Město terorizuje sériový vrah, a policie je bezmocná. Požádá proto o pomoc uvězněného sériového zabijáka známého pod přezdívkou Umělec. Jeho brilantní mysl má pomoci vytvořit profil nebezpečného muže, který podle všeho nehodlá se zabíjením jen tak přestat. Město terorizuje sériový vrah a policie je bezmocná. Úřady si neumí dát rady a požádají o pomoc uvězněného sériového vraha, kterého všichni znají pod přezdívkou Umělec. Brilantní mysl jim pomáhá přiblížit se k psychice vraha, který si vybírá další oběti. Dvojice detektivů, která se na případu podílí, se dostává stále více pod vliv Umělce a zdá se, že v této hře na kočku a myš události neřídí detektivové."
-    },
-    {
-      "start": "20261011024500 +0200",
-      "stop": "20261011045500 +0200",
-      "title": "Nezvěstní v boji",
-      "desc": "Po osmi letech zajetí se plukovníku Braddockovi podaří uprchnout z vietnamského tábora pro americké válečné zajatce. Jeho otřesné informace se ve Státech setkají s naprostou lhostejností úřadů. Rozhodne se proto osvobodit americké zajatce na vlastní pěst. Pomůže mu Tuck, starý kamarád z armády, který obchoduje se zbraněmi na černém trhu. V napínavých scénách vrací film diváka do období konce vietnamské války, kdy Vietnamci drželi dlouho poté mnoho amerických vojáků v zajateckých táborech za... krutých podmínek. Po ôsmich rokoch zajatia sa plukovníkovi Braddockovi podarí uprchnúť z vietnamského tábora pre amerických vojnových zajatcov. Jeho svedectvo ootrasných zločinoch sa v Štátoch stretnú s absolútnou ľahostajnosťou úradov. Rozhodne sa preto oslobodiť amerických zajatcov na vlastnú päsť. Pomôže mu Tuck, starý kamarát z armády, ktorý obchoduje so zbraňami na čiernom trhu."
-    },
-    {
-      "start": "20261011045500 +0200",
-      "stop": "20261011060000 +0200",
-      "title": "Rozpal to, šéfe",
-      "desc": "Motorkáři Zdeněk Pohlreich opět na svém statku! Rozpálí gril, rozvášní chuťové buňky, uvaří pro vás i své přátele. Jednoduše, s nápadem i vtipem, prostě nejlíp."
-    },
-    {
-      "start": "20261011060000 +0200",
-      "stop": "20261011061500 +0200",
-      "title": "Příhody Bolka a Lolka",
-      "desc": "Bolek a Lolek se s námi podělí o své dobrodružství. Bolek a Lolek se nikdy nenudí a prožívají různá dobrodružství."
-    },
-    {
-      "start": "20261011061500 +0200",
-      "stop": "20261011064500 +0200",
-      "title": "M*A*S*H",
-      "desc": ""
-    },
-    {
-      "start": "20261011064500 +0200",
-      "stop": "20261011072000 +0200",
-      "title": "M*A*S*H",
-      "desc": ""
-    },
-    {
-      "start": "20261011072000 +0200",
-      "stop": "20261011075000 +0200",
-      "title": "M*A*S*H",
-      "desc": ""
-    },
-    {
-      "start": "20261011075000 +0200",
-      "stop": "20261011082000 +0200",
-      "title": "M*A*S*H",
-      "desc": ""
-    },
-    {
-      "start": "20261011082000 +0200",
-      "stop": "20261011085500 +0200",
-      "title": "M*A*S*H",
-      "desc": ""
-    },
-    {
-      "start": "20261011085500 +0200",
-      "stop": "20261011093000 +0200",
-      "title": "Prima ČESKO",
-      "desc": "Cestujte s námi po Česku a poznejte nejzajímavější místa naší země."
-    },
-    {
-      "start": "20261011093000 +0200",
-      "stop": "20261011100000 +0200",
-      "title": "Prima SVĚT",
-      "desc": "To nejzajímavější ze světa. Už od roku 1995."
-    },
-    {
-      "start": "20261011100000 +0200",
-      "stop": "20261011110000 +0200",
-      "title": "Norské domy snů",
-      "desc": ""
-    },
-    {
-      "start": "20261011110000 +0200",
-      "stop": "20261011122000 +0200",
-      "title": "Partie Terezie Tománkové",
-      "desc": ""
-    },
-    {
-      "start": "20261011122000 +0200",
-      "stop": "20261011132500 +0200",
-      "title": "Receptář prima nápadů",
-      "desc": "Legendární magazín pro pěstitele, chovatele, chalupáře a kutily. Pro všechny, kdo chtějí úspěšně zahradničit, pohodlně bydlet, zdravě žít a pečovat o svůj domov. Zábava a inspirace s Oldřichem Navrátilem a Pepou Libickým v pravé nedělní poledne."
-    },
-    {
-      "start": "20261011132500 +0200",
-      "stop": "20261011141000 +0200",
-      "title": "Libovky Pepy Libického",
-      "desc": "Libová jízda s Pepou Libickým! Tradiční i nevšední realizace, povedené renovace, návštěvy zajímavých staveb, představení moderních technologií a materiálů. Pořad plný nápadů a odborných rad, který vám usnadní budování, zařizování i opravy vašeho domova."
-    },
-    {
-      "start": "20261011141000 +0200",
-      "stop": "20261011145000 +0200",
-      "title": "Zahradnice po ruce",
-      "desc": "Nejlepší restaurace na světě? Podle Lenky Eywy – zdravá jedlá zahrada! Zahradnice po ruce vás provede zahradou ve všech ročních obdobích, od semínka až po sklizeň. Se spoustou skvělých nápadů, respektem k půdě a bez zbytečné dřiny. Zbavte se starých zahradnických dogmat a začněte důvěřovat přírodě i své intuici! Vytvořte si vlastní kousek světa, kde všechno dává smysl, a navíc skvěle chutná."
-    },
-    {
-      "start": "20261011145000 +0200",
-      "stop": "20261011152000 +0200",
-      "title": "Vychytávky Ládi Hrušky",
-      "desc": "Kdo jiný než Láďa Hruška?! Pobaví, poradí, sežene, vyzkouší, vymyslí, předvede, ušetří, uvaří... Přijede k vám na zahradu, do dílny i do kuchyně! Triky, rady, vychytávky a cenné rodinné recepty přímo z vašich domovů. A protože záleží i na pohybu, ukáže vám cviky, které zvládnete přímo u televize – pohodlně, bez vybavení, rovnou z obýváku."
-    },
-    {
-      "start": "20261011152000 +0200",
-      "stop": "20261011163000 +0200",
-      "title": "Jak se staví sen - extra",
-      "desc": "Zajíčkovi Věrka Zajíčková, mladá maminka dvou dětí, je po mozkové mrtvici. Pracuje jako vedoucí Sokola Karlín a je aktivní sokolka. Vede i cvičení pro děti ve vedlejší vsi a v družině. Ve vesnici pomáhala zakládat komunitní školu. Část jejího domu využívá i malotřídka školy. V rámci sdružení ICTUS, sdružení lidí po mozkové mrtvici, jezdí na pobyty, kde pomáhá rozcvičit a rozplavat lidi se stejným hendikepem. Co ale ona sama? Jaké jsou její sny? Co by jí usnadnilo život? Pokusíme se... Věrce zlepšit životní prostor a také poděkovat za všechny, kterým pomáhá ona."
-    },
-    {
-      "start": "20261011163000 +0200",
-      "stop": "20261011185200 +0200",
-      "title": "Hodinový manžel",
-      "desc": "Čtyři kamarádi provozují plavecký bazén, který jim zavře hygienička. Zůstávají jim dluhy, a tak založí firmu na drobné domácí opravy s názvem Hodinový manžel. Firma se rychle rozjede, ale zákaznice začnou brzy chtít víc než jen řemeslné práce. Filmový debut divadelního režiséra a scénáristy Tomáše Svobody vypráví příběh čtyř přátel, vášnivých hráčů vodního póla, kteří společně provozují bazén. Ten jim jednoho dne jako nevyhovující vypustí hygiena a čtveřice se tak rázem ocitá doslova na dně. Jeden z nich pak na dně bazénu začne dokonce i bydlet, když se pohádá s manželkou a uražen odejde z domova. Z nedostatku příležitostí začnou chlapi podnikat jako hodinoví manželé a zakrátko si najdou klientelu mezi místními dámami. Každý z... nich má svou pravidelnou zákaznici, ale ty mají kromě oprav často i velmi specifická přání a potřeby. T o se však pomalu přestává líbit partnerkám a manželkám našich hrdinů. Takto rozehraný příběh pak graduje nečekanou cestou do Tater, kde se vše pořádně zamotá, aby nakonec vše dospělo do zdárného konce, který slibuje nejedno překvapení."
-    },
-    {
-      "start": "20261011185200 +0200",
-      "stop": "20261011185500 +0200",
-      "title": "Počasí",
-      "desc": ""
-    },
-    {
-      "start": "20261011185500 +0200",
-      "stop": "20261011193200 +0200",
-      "title": "HLAVNÍ ZPRÁVY",
-      "desc": "Ty nejdůležitější aktuální zprávy z domova i ze světa v hlavní zpravodajské relaci. Atraktivně a srozumitelně."
-    },
-    {
-      "start": "20261011193200 +0200",
-      "stop": "20261011194500 +0200",
-      "title": "Losování loterie Megamaxa",
-      "desc": ""
-    },
-    {
-      "start": "20261011194500 +0200",
-      "stop": "20261011195500 +0200",
-      "title": "Sportovní zprávy",
-      "desc": ""
-    },
-    {
-      "start": "20261011195500 +0200",
-      "stop": "20261011201500 +0200",
-      "title": "SHOWTIME",
-      "desc": "Exkluzivní zákulisí života celebrit – luxusní večírky, žhavé drby, slavnostní premiéry a módní trendy."
-    },
-    {
-      "start": "20261011201500 +0200",
-      "stop": "20261011215500 +0200",
-      "title": "Zrádci",
-      "desc": "Zrádci jsou zpět! Na hradě Křivoklát rozehraje moderátor Vojtěch Kotek novou partii plnou lží, manipulací a nečekaných zvratů. Každý tah rozhoduje a nikdo si nemůže být jistý, komu věřit. Přelstí Zrádci všechny ostatní, nebo Věrní odhalí jejich identitu dřív, než bude pozdě."
-    },
-    {
-      "start": "20261011215500 +0200",
-      "stop": "20261011224500 +0200",
-      "title": "Zrádci: Ze záhrobí",
-      "desc": "To nejdůležitější se někdy odehraje až po hře. Daniela Brzobohatá a Čestmír Strakatý vás zavedou do Záhrobí Zrádců. Rozhovory s hráči. Neodvysílané scény. Nové souvislosti. Odhalení, která mění pohled na právě skončenou epizodu."
-    },
-    {
-      "start": "20261011224500 +0200",
-      "stop": "20261012002500 +0200",
-      "title": "96 hodin",
-      "desc": "Bývalý špión Bryan svolí s cestou své sedmnáctileté dcery Kim do Paříže pouze pod podmínkou, že se mu bude pravidelně hlásit. Při jednom takovém telefonátu se ale stává svědkem jejího únosu. Využije všech svých schopností a zjistí, že padla do rukou obchodníků s bílým masem. Nečeká na nic a vezme spravedlnost do svých rukou.. Bývalý americký tajný agent ve výslužby Bryan žije sám, přestěhoval se, aby byl co nejblíže své dceři, která bydlí se svou matkou. Příliš toho zažil, než aby se o svou sedmnáctiletou dceru Kim neustále nestrachoval. Když ho Kim požádá o dovolení jet do Evropy na koncertní turné skupiny U2, okamžitě odmítne. Ale osamělý otec, čekající na jakýkoliv projev dceřiny blízkosti a přízně, nakonec podlehne jejímu citovému vydírání. Dcera sice slíbí, že bude dodržovat otcova \"bezpečnostní\" pravidla,... ale přitom poruší to základní ještě v Americe. Neřekne totiž otci o svém výletu úplnou pravdu. Když se jí Bryan konečně do Paříže dovolá, je pozdě. Dvě nezkušené lehkovážné Američanky neunikly členům mafie obchodující s bílým masem. Bryan začne okamžitě jednat, požádá o pomoc své bývalé kolegy a sám vyrazí do Paříže."
-    },
-    {
       "start": "20261012002500 +0200",
       "stop": "20261012023000 +0200",
       "title": "V objetí ďábla",
@@ -1817,138 +1217,6 @@
   ],
   "Prima star": [
     {
-      "start": "20261011001500 +0200",
-      "stop": "20261011011000 +0200",
-      "title": "Norské zločiny",
-      "desc": "Pohled na některé norské kriminální případy, jak vyřešené, tak nevyřešené. Odhalte zákulisí nejznámějších norských kriminálních případů. Skrze výpovědí lidí, kteří byli událostem nejblíže, nahlédnete do napínavého vyšetřování i neúnavného honu na pachatele."
-    },
-    {
-      "start": "20261011011000 +0200",
-      "stop": "20261011021000 +0200",
-      "title": "Norské zločiny",
-      "desc": "Pohled na některé norské kriminální případy, jak vyřešené, tak nevyřešené. Odhalte zákulisí nejznámějších norských kriminálních případů. Skrze výpovědí lidí, kteří byli událostem nejblíže, nahlédnete do napínavého vyšetřování i neúnavného honu na pachatele."
-    },
-    {
-      "start": "20261011021000 +0200",
-      "stop": "20261011031500 +0200",
-      "title": "Velmi křehké vztahy",
-      "desc": "Ilonka prosí Petra, aby jí pomohl usvědčit Simonu. Petr je rád, že za ním přišla, bez ní se dědictví nedá uzavřít. Chce hlavně znát pravdu, a proto poprosí Annu, aby zkusila zjistit, jestli se ke složce genetických testů Ilonky nemohl dostat Krátký. Anna však zjišťuje, že informace o těchto testech neexistují. Petr nechce chodit kolem horké kaše, chce se zeptat rovnou Krátkého. Jan zuří kvůli tomu, že ho Dagmar obešla a kontaktovala přímo Rubeše. Nejraději by ji potrestal,... ale Dagmar ví, že nemůže, protože její návrhy, které má několik dní na stole, se ani neobtěžoval přečí st. Honza Dagmaru podezírá z toho, že se chce dostat na jeho místo. Dagmar ho ale uklidňuje, že o jeho místo jí vůbec nejde. Jan si její návrh konečně přečte a musí uznat, že sám by to nevypracoval líp. Wagnerová se snaží vysvětlit dědovi Raisovi, že by neměl zůstávat sám. Děda se bojí, aby se k němu nechtěla nastěhovat, a proto si vymyslí, že se k němu Petr zase stěhuje zpět. Wagnerová se chopí iniciativy a vysvětluje Petrovi, že chce s jeho dědou žít jako žena s mužem. Anna se raduje, doktoři jí potvrdili, že stav Peškové se zlepšil, a ona se těší, že se matka probere... Rubešová se s Filipem vrací do vily, pobyt na chalupě jí evidentně nepomohl a hledání dědice ji velmi stresuje.."
-    },
-    {
-      "start": "20261011031500 +0200",
-      "stop": "20261011042500 +0200",
-      "title": "Velmi křehké vztahy",
-      "desc": "Anna je zdrcena. Obviní Kratochvíla a Strnada, že jí lhali. Petr se Strnada ptá, co mu Pešková svěřila ohledně Annina otce. Strnad se na něj zlobí a málem se poperou... Rubešová nejvíc lituje toho, že se nemá komu svěřit. Prosí Andreu, aby se s Filipem o dědictví rozdělila, ale nevysvětlí jí proč. Kristýna se moc těší na společné bydlení s Maxem v Ivanině vile. Dokonce slibuje, že půjde na Davidovy narozeniny. Andrea je v šoku, že Kratochvíl... jede s Davidem a Martou do Rakouska. Kristýna ale matku ujišťuje, že ji Kratochvíl miluje a že se nemá čeho bát. Andrea závidí Rubešové, že ona nemusela celý život nic řešit, že byla šťastná s tátou. Rubešová jí oponuje, i ona má svá tajemství.."
-    },
-    {
-      "start": "20261011042500 +0200",
-      "stop": "20261011062000 +0200",
-      "title": "Hádej, kdo jsem",
-      "desc": "Zábavná show, ve které profese hrají prim. Uvádí Petr Vondráček. Režie J. Sládek."
-    },
-    {
-      "start": "20261011062000 +0200",
-      "stop": "20261011065000 +0200",
-      "title": "Hrdina kuchyně",
-      "desc": "Kdo je skutečným hrdinou kuchyně? Přece kvalitní surovina! A jako správný „hrdina“ má i ona svůj příběh! S herečkou Marií Doležalovou a kuchařem Martinem Škodou budeme proto nejen vařit, ale vypravíme se i za farmáři! Zjistíme, co obnáší chovat krůty, králíky, ovce... Jak vyrobit kozí sýr nebo třeba vypěstovat dýni. Nenechejte si ujít nový lifestylový magazín plný nejen skvělých receptů! Radost z jídla může být totiž o to větší, když víme, z čeho vaříme."
-    },
-    {
-      "start": "20261011065000 +0200",
-      "stop": "20261011075000 +0200",
-      "title": "Kriminálka Kraj",
-      "desc": "Vyšetřovatelé postupně odhalují komplikované vztahy mezi lidmi ve štábu, kde panuje dobře skrývaná zášť, rivalita a žárlivost. Policie má několik stop, ale vrah je rychlejší a ve štábu přibývají další oběti. Motivů je mnoho, podezřelých také. Jako by toho nebylo málo, vyšetřovatelka Adéla Lukáčová je předvolána na policejní ředitelství na kobereček. Nové části, nové postavy, nové případy a stará známá dvojice vyšetřovatelů zločinů v kraji, který žije svým vlastním tempem, má svou vlastní... chuť a vůni. I zde dochází k závažným zločinům, které vyšetřují zkušení kriminalisté Zuzana Vicenová a Jano Tesár. Přináší zajímavé případy, v nichž závažné trestné činy sice páchají obyčejní lidé, ale na jejich realizaci či zahlazení stop vynaloží mimořádnou námahu. Dvojice vyšetřovatelů tak vždy stojí proti inteligentnímu pachateli. Kriminalisté Zuzana Vicenová a Jano Tesár přitom nejsou žádní superhrdinové, ale běžní lidé se svými osobními i pracovními problémy. Stejnými, jaké mají i oběti a pachatelé zločinů, které musí vypátrat a usvědčit. Každý díl seriálu přinese nový případ, který bude vyšetřen a uzavřen. Zároveň nám dovolí nahlédnout i do soukromých životů hlavních hrdinů a jejich vztahů."
-    },
-    {
-      "start": "20261011075000 +0200",
-      "stop": "20261011094500 +0200",
-      "title": "Vraždy ve Splitu",
-      "desc": "Chorvatští detektivové v čele se Staschou Novakovou řeší vražedný útok, ke kterému došlo při přísně utajovaném natáčení videoklipu populární zpěvačky. Vyšetřování postupně odkrývá síť rodinných křivd a tajemství."
-    },
-    {
-      "start": "20261011094500 +0200",
-      "stop": "20261011103500 +0200",
-      "title": "Námořní vyšetřovací služba: Začátky",
-      "desc": "Předtím, než se Leroy Jethro Gibbs stal legendou NCIS, byl jen mladým agentem, který se snažil najít své místo ve světě poznačeném osobní tragédií. Píše se rok 1991 a mladý Leroy Jethro Gibbs nastupuje do služby. Pod vedením zkušeného agenta Mika Frankse řeší své první případy, poznává tvrdou realitu vyšetřování a formuje se v legendárního agenta NCIS."
-    },
-    {
-      "start": "20261011103500 +0200",
-      "stop": "20261011113000 +0200",
-      "title": "Námořní vyšetřovací služba: Začátky",
-      "desc": "Předtím, než se Leroy Jethro Gibbs stal legendou NCIS, byl jen mladým agentem, který se snažil najít své místo ve světě poznačeném osobní tragédií. Píše se rok 1991 a mladý Leroy Jethro Gibbs nastupuje do služby. Pod vedením zkušeného agenta Mika Frankse řeší své první případy, poznává tvrdou realitu vyšetřování a formuje se v legendárního agenta NCIS."
-    },
-    {
-      "start": "20261011113000 +0200",
-      "stop": "20261011123500 +0200",
-      "title": "Všechny barvy lásky",
-      "desc": ""
-    },
-    {
-      "start": "20261011123500 +0200",
-      "stop": "20261011133500 +0200",
-      "title": "Všechny barvy lásky",
-      "desc": ""
-    },
-    {
-      "start": "20261011133500 +0200",
-      "stop": "20261011145000 +0200",
-      "title": "Velmi křehké vztahy",
-      "desc": "Andreu šokuje, co se dozvěděla od Rubešové. Nechápe, jak to mohla po celou dobu tajit, ale je přesvědčená, že by si Filip zasloužil znát pravdu. Všechno slyší Simona... Cesta Kratochvílových do Rakouska je plná zmatků a dohadů. Kratochvílové je líto, že pozdě pochopila, že k sobě patří. Davidovi se výlet moc líbí... Anna říká Petrovi, že matka si přála být rozptýlena v Paříži. Petr ji upozorňuje, že by na to měli mít povolení. Přemlouvá ji, aby zašla za... Strnadem a konečně zjistila pravdu o svém otci... Andrea navrhuje opatrně Simoně, že by od ní odkoupila podíl v salonu. Simona souhlasí s čímkoliv. Andree je jasné, že se dozvěděla, jak to má být s dědictvím.."
-    },
-    {
-      "start": "20261011145000 +0200",
-      "stop": "20261011155500 +0200",
-      "title": "Velmi křehké vztahy",
-      "desc": "David řekl matce, že chce bydlet s tátou a Andreou. Pro Martu je to šok. Odejde tajně z hotelu a napíše pro Davida a Kratochvíla vysvětlující dopis... Krátký nechápe, jak by ho Simona mohla opustit. Vyhrožuje jí, že ji u Rubešových prozradí. Myslel, že k němu Simona něco cítí, ta s ním ale bez citu zamete... Anna se bojí jít na pohřeb své matky, má pocit, že to nezvládne. Strnad ji odváží z pohřbu a chce jí říct tajemství, které mu Pešková svěřila... Zika zuří, když zjistí, že se Ziková od něj stěhuje. Hanka chce být samostatná, ale Zikovi dá vá ještě jednu šanci. Zika zase podezírá Skálu, že chce, aby se k němu Hanka vrátila... Petr přinesl Rubešovi genetické testy Ilonky. Simona tvrdí, že ji Ilonka podvedla, a dál se dožaduje půlky dědictví, které náleží Filipovi. Andrea ji varuje, že se pouští na tenký led.."
-    },
-    {
-      "start": "20261011155500 +0200",
-      "stop": "20261011171000 +0200",
-      "title": "Nikdo není dokonalý - Speciál",
-      "desc": "Nevěříte? Přesvědčte se sami! Ke sledování úspěšného a oblíbeného pořadu vás zve Jiří Krampol a jeho hosté K. Issová a J. Hřebejk."
-    },
-    {
-      "start": "20261011171000 +0200",
-      "stop": "20261011181000 +0200",
-      "title": "Hádej, kdo jsem",
-      "desc": "Zábavná show, ve které profese hrají prim. Uvádí Petr Vondráček. Režie J. Adamec."
-    },
-    {
-      "start": "20261011181000 +0200",
-      "stop": "20261011191000 +0200",
-      "title": "Hádej, kdo jsem",
-      "desc": "Zábavná show, ve které profese hrají prim. Uvádí Petr Vondráček. Režie J. Adamec."
-    },
-    {
-      "start": "20261011191000 +0200",
-      "stop": "20261011201000 +0200",
-      "title": "Jake a tlusťoch",
-      "desc": "Derekova bývalá snoubenka Amanda a její muž vystoupí jako korunní svědci v procesu s nebezpečným mafiánským bossem. V zájmu vlastní bezpečnosti dostávají od FBI novou identitu a jejich život se vrací do starých kolejí. Po několika letech se však Amanda náhodně střetne na ulici s jedním ze souzených mafiánů a ten jí okamžitě pozná. Poté, co je její muž zastřelen, Amanda se s prosbou o pomoc uchýlí k Derekovi. Ten je však vzápětí unesen.."
-    },
-    {
-      "start": "20261011201000 +0200",
-      "stop": "20261011211000 +0200",
-      "title": "Norské zločiny",
-      "desc": "Pohled na některé norské kriminální případy, jak vyřešené, tak nevyřešené. Odhalte zákulisí nejznámějších norských kriminálních případů. Skrze výpovědí lidí, kteří byli událostem nejblíže, nahlédnete do napínavého vyšetřování i neúnavného honu na pachatele."
-    },
-    {
-      "start": "20261011211000 +0200",
-      "stop": "20261011220500 +0200",
-      "title": "Norské zločiny",
-      "desc": "Pohled na některé norské kriminální případy, jak vyřešené, tak nevyřešené. Odhalte zákulisí nejznámějších norských kriminálních případů. Skrze výpovědí lidí, kteří byli událostem nejblíže, nahlédnete do napínavého vyšetřování i neúnavného honu na pachatele."
-    },
-    {
-      "start": "20261011220500 +0200",
-      "stop": "20261011232500 +0200",
-      "title": "Nikdo není dokonalý - Speciál",
-      "desc": "Nevěříte? Přesvědčte se sami! Ke sledování úspěšného a oblíbeného pořadu vás zve Jiří Krampol a jeho hosté K. Issová a J. Hřebejk."
-    },
-    {
-      "start": "20261011232500 +0200",
-      "stop": "20261012001500 +0200",
-      "title": "Jak se staví sen",
-      "desc": "Rady, tipy, triky a k tomu design! Uvádí P. Cejnar."
-    },
-    {
       "start": "20261012001500 +0200",
       "stop": "20261012011000 +0200",
       "title": "Norské zločiny",
@@ -2227,138 +1495,6 @@
   ],
   "Prima Love": [
     {
-      "start": "20261011000000 +0200",
-      "stop": "20261011010000 +0200",
-      "title": "Velvet",
-      "desc": "Od smrti Alberta uplynulo päť rokov a život plynie ďalej. Z Any sa stala medzinárodne uznávaná módna návrhárka a svoj čas venuje práci a synovi, ktorého vychováva s pomocou strýka. Samu seba presviedča, že už na Alberta zabudla, a tak opäť chodí s Carlosom. Tento pokoj však naruší príchod Cristiny. Tvrdí, že vojnová sekera medzi nimi dvoma je už zakopaná, ale Ana jej neverí. Ana sa rozhodla presadiť nový projekt, zaviesť do ponuky Velvetu konfekciu. Marco Cafiero je zásadne proti. Ana... požiada o pomoc Matea. Jeho život sa za posledné roky drasticky zmenil. Pracuje vo vydavateľstve a jeho vz ťah s Clarou sa rozpadol. Zmenil sa aj život Pedra a Rity, sú spolu, šťastní a vyčerpaní. Napriek pôvodnému presvedčeniu, že je neplodná, sú dnes rodičmi mimoriadne živých dvojičiek. Všetko navyše naznačuje, že je tehotná znova. Jonás v sebe za posledné roky objavil túžbu začať sa venovať šitiu. Uvedomuje si však ako by na to reagoval Pedro a vlastne celé jeho okolie. Aspoň Raúl De La Riva je ale ochotný pomôcť mu a dať mu šancu ako asistentovi. Práve pánska móda sa stala centrom záujmu Enriqueho a Patricie. Hľadajú spôsob, ako získať pre kolekciu čo najviac publicity a nájdu dokonalého kandidáta na tvár značky - herca Humberta Santamaríu. Ich pomer trvá celé roky a Valentin ani len netuší, čo sa deje medzi jeho ženou a mužom, ktorého považuje za dobrého priateľa."
-    },
-    {
-      "start": "20261011010000 +0200",
-      "stop": "20261011015500 +0200",
-      "title": "Velvet",
-      "desc": "Od smrti Alberta uplynulo päť rokov a život plynie ďalej. Z Any sa stala medzinárodne uznávaná módna návrhárka a svoj čas venuje práci a synovi, ktorého vychováva s pomocou strýka. Samu seba presviedča, že už na Alberta zabudla, a tak opäť chodí s Carlosom. Tento pokoj však naruší príchod Cristiny. Tvrdí, že vojnová sekera medzi nimi dvoma je už zakopaná, ale Ana jej neverí. Ana sa rozhodla presadiť nový projekt, zaviesť do ponuky Velvetu konfekciu. Marco Cafiero je zásadne proti. Ana... požiada o pomoc Matea. Jeho život sa za posledné roky drasticky zmenil. Pracuje vo vydavateľstve a jeho vz ťah s Clarou sa rozpadol. Zmenil sa aj život Pedra a Rity, sú spolu, šťastní a vyčerpaní. Napriek pôvodnému presvedčeniu, že je neplodná, sú dnes rodičmi mimoriadne živých dvojičiek. Všetko navyše naznačuje, že je tehotná znova. Jonás v sebe za posledné roky objavil túžbu začať sa venovať šitiu. Uvedomuje si však ako by na to reagoval Pedro a vlastne celé jeho okolie. Aspoň Raúl De La Riva je ale ochotný pomôcť mu a dať mu šancu ako asistentovi. Práve pánska móda sa stala centrom záujmu Enriqueho a Patricie. Hľadajú spôsob, ako získať pre kolekciu čo najviac publicity a nájdu dokonalého kandidáta na tvár značky - herca Humberta Santamaríu. Ich pomer trvá celé roky a Valentin ani len netuší, čo sa deje medzi jeho ženou a mužom, ktorého považuje za dobrého priateľa."
-    },
-    {
-      "start": "20261011015500 +0200",
-      "stop": "20261011025000 +0200",
-      "title": "Ve hře je láska",
-      "desc": "Mama Türkan a Esra sa veľmi chystajú na večerné kúpanie. Odkaz schovaný do rukáva kabátu Ömera spôsobí nedorozumenie, a tak sa na moste v dohodnutom čase objavia viacerí. Konečne sa podarí dávno očakávaný spoločný program vo dvojici pre Ömera a Defne. Türkan a Endam sa pohádajú."
-    },
-    {
-      "start": "20261011025000 +0200",
-      "stop": "20261011035000 +0200",
-      "title": "Ve hře je láska",
-      "desc": "Ömer zoberie Defne do domu jeho rodičov, kde sa cítia spoločne veľmi dobre. Neriman má obavy, lebo ani jeden z nich neberie telefón. Nálada medzi Serdarom a Nihan je napätá kvôli predchádzajúcim udalostiam. Koraya navštívi kamarátka Arzu."
-    },
-    {
-      "start": "20261011035000 +0200",
-      "stop": "20261011045000 +0200",
-      "title": "Jak se staví sen",
-      "desc": "Rady, tipy, triky a k tomu design! Uvádí P. Cejnar."
-    },
-    {
-      "start": "20261011045000 +0200",
-      "stop": "20261011060500 +0200",
-      "title": "Teď vaří šéf",
-      "desc": "Masové menu Tajemství dokonalých chutí! Tradiční i exotické recepty v rukou skutečného mistra Zdeňka Pohlreicha! Využijte šance vařit jako on! Sledujte nové díly oblíbeného pořadu Teď vaří šéf! Režie F. Majer."
-    },
-    {
-      "start": "20261011060500 +0200",
-      "stop": "20261011063500 +0200",
-      "title": "Karolína, domácí kuchařka",
-      "desc": "Rodinné stříbro Zažijte oslavu domácího vaření, ve kterém Karolína vychází z tradice našich babiček, sbírá nejrůznější recepty a vstřebává nové vlivy a inspirace. Objevte spoustu zapomenutých nápadů, surovin a praktických rad. Otevřete pokladnici plnou receptů a vařte s chutí a láskou."
-    },
-    {
-      "start": "20261011063500 +0200",
-      "stop": "20261011073500 +0200",
-      "title": "Jak se staví sen - extra",
-      "desc": "Beláňovi Paní Jana je vážně nemocná. O celou rodinu se vždy s velkou láskou starala, a tak se jí to všichni snaží vracet. Manžel Vlasta si život bez manželky nedokáže představit. A dcera Jana by mamince ráda splnila celoživotní přání, kterým je nová kuchyň. Zdeněk Pohlreich pozval manžele Beláňovy na oběd a my jsme si vzali na starost kuchyň."
-    },
-    {
-      "start": "20261011073500 +0200",
-      "stop": "20261011083500 +0200",
-      "title": "Ve hře je láska",
-      "desc": "Mama Türkan sa obáva, že Defne utiekla s jedným mužom. Sinan je zvedavý, prečo Defne a Ömer nie sú v kancelárii. Sinanovi oznámia správu o jednej smrti. Necmi by bol rád, keby Neriman skončila taktizovanie, keď už sa Ömer a Defne dali dokopy."
-    },
-    {
-      "start": "20261011083500 +0200",
-      "stop": "20261011093500 +0200",
-      "title": "Ve hře je láska",
-      "desc": "Sinan zavíta do domu Defne, aby videl, či sa tam zdržiava. Defne kvôli návrhu od Neriman sa rozhodne, že nebude pokračovať vo vzťahu s Ömerom, pretože už začala prechovávať skutočné city k chlapcovi. Správanie Neriman rozčuľuje Necmiho, a preto ju opustí. Podľa Defne by snáď bolo lepšie, keby sa Ömer dozvedel pravdu. Yasemin chýba Iso."
-    },
-    {
-      "start": "20261011093500 +0200",
-      "stop": "20261011102500 +0200",
-      "title": "Receptář prima nápadů",
-      "desc": "Legendární magazín pro pěstitele, chovatele, chalupáře, kutily a všechny, kdo chtějí úspěšně zahradničit, pohodlně bydlet, příjemně relaxovat, zdravě žít a hospodařit beze ztrát. Zábava a inspirace pod taktovkou Oldřicha Navrátila a Pepy Libického, se spoustou sezónních rad, tipů i názorných ukázek. Vaše chvíle pohody v pravé nedělní poledne."
-    },
-    {
-      "start": "20261011102500 +0200",
-      "stop": "20261011105500 +0200",
-      "title": "Zahradnice po ruce",
-      "desc": "Nejlepší restaurace na světě? Podle Lenky Eywy – zdravá jedlá zahrada! Zahradnice po ruce vás provede zahradou ve všech ročních obdobích, od semínka až po sklizeň. Se spoustou skvělých nápadů, respektem k půdě a bez zbytečné dřiny. Zbavte se starých zahradnických dogmat a začněte důvěřovat přírodě i své intuici! Vytvořte si vlastní kousek světa, kde všechno dává smysl, a navíc skvěle chutná."
-    },
-    {
-      "start": "20261011105500 +0200",
-      "stop": "20261011125500 +0200",
-      "title": "Plný byt",
-      "desc": "Když nedávno ovdověl, je těžké si zvyknout na nový život. To je případ Huberta Jacquina, který většinu času tráví ve svém obrovském bytě depresí u televize. Jednoho dne po nedorozumění, se jeho život změní. Hubert nedávno ovdověl a těžko si zvyká na nový osamělý život. Vše se změní, když mu jednoho dne zavolá mladá energická žena, která nemá kde bydlet. Zpočátku neochotný Hubert si na ni ale rychle zvykne a nechá se přesvědčit, aby u sebe ubytoval další dva lidi. Prázdný byt je tak najednou celkem přeplněný."
-    },
-    {
-      "start": "20261011125500 +0200",
-      "stop": "20261011140000 +0200",
-      "title": "Všechny barvy lásky",
-      "desc": ""
-    },
-    {
-      "start": "20261011140000 +0200",
-      "stop": "20261011150000 +0200",
-      "title": "Všechny barvy lásky",
-      "desc": ""
-    },
-    {
-      "start": "20261011150000 +0200",
-      "stop": "20261011163000 +0200",
-      "title": "Zoo",
-      "desc": "Pivoňka očividně něco skrývá a jde mu o hodně. Viky se dostane k novým zakázkám. Pechová chystá svatbu. Filip složil novou písničku. Charlieho pronásleduje Polák."
-    },
-    {
-      "start": "20261011163000 +0200",
-      "stop": "20261011175500 +0200",
-      "title": "Zoo",
-      "desc": "Haďáka překvapí kontrola z ministerstva. Josefína opouští Filipa. Za Elišku je potřeba sehnat náhradu. Marek se nemůže smířit s Terezinou minulostí, Dominika toho chce využít."
-    },
-    {
-      "start": "20261011175500 +0200",
-      "stop": "20261011185500 +0200",
-      "title": "Všechny barvy lásky",
-      "desc": ""
-    },
-    {
-      "start": "20261011185500 +0200",
-      "stop": "20261011201000 +0200",
-      "title": "Všechny barvy lásky",
-      "desc": ""
-    },
-    {
-      "start": "20261011201000 +0200",
-      "stop": "20261011220000 +0200",
-      "title": "Tichá hrozba",
-      "desc": "Když Lizu srazí řidič, který z místa činu utekl, její dcera Jessica se ocitne sama. Bohatá Eva se nabídne, že se o ni postará. Nic ale není takové, jaké se zdá. Jessica žije jen se svou matkou. Když matku jednoho dne srazí auto a skončí v nemocnici v kómatu, ujme se mladé dívky Eva, která se vydává za rodinnou známou. Jessica však postupem času začíná zjišťovat, že nic není, jak se zdá, a že její opatrovnice skrývá temné tajemství."
-    },
-    {
-      "start": "20261011220000 +0200",
-      "stop": "20261011230500 +0200",
-      "title": "Inkognito",
-      "desc": "V zábavné show Inkognito se čtveřice osobností snaží uhodnout profesi jednotlivých hostů nebo jejich identitu. Pobavte se nečekanými myšlenkami a hádejte společně s nimi. Moderuje Libor Bouček."
-    },
-    {
-      "start": "20261011230500 +0200",
-      "stop": "20261012001000 +0200",
-      "title": "Obchoďák",
-      "desc": "Jiří chce žít s Vandou. Ivanův svět se zhroutil a je bez domova. Vanda se chystá na kontrolu regionálního ředitele. Zatím netuší, že Monika a on jsou milenci. Monika Borisovi na Vandu donáší a vůbec se jí nelíbí, jakým způsobem vede obchodní centrum. Ambiciózní Monika má jediný cíl - nahradit Vandu ve vedení centra... Vandin otec nastoupil do OC jako zdravotník a hned se ukáže, že je to muž na svém místě, když pomůže zákazníkovi, který při nákupech zkolaboval... Ivan je po tragických událostech bez domova, nemá ani kde spát. Marek mu nabídne... nocleh. Simona si o Ivana dělá velké starosti a Marek konečně pochopí, že jeho milovat nikdy nebude ... Doubravce se podaří odhalit, jakým způsobem servírky Radka okrádají. Ten je jí vděčný a svěří jí celý provoz kavárny... Jiří najde na pohovce kalhotky, které mu tam nastražila Olga. Je u toho i Jiřího exmanželka Zuzana. Ta Olgu nesnáší a přispěje k tomu, že se Jiří konečně rozhoupe k činu a žádá po Olze, aby mu vrátila klíče od bytu."
-    },
-    {
       "start": "20261012001000 +0200",
       "stop": "20261012010500 +0200",
       "title": "Velvet",
@@ -2625,90 +1761,6 @@
   ],
   "ČT Sport": [
     {
-      "start": "20261011011000 +0200",
-      "stop": "20261011012500 +0200",
-      "title": "Branky, body, vteřiny",
-      "desc": ""
-    },
-    {
-      "start": "20261011012500 +0200",
-      "stop": "20261011025000 +0200",
-      "title": "Dostihy: Křišťálový pohár města Pardubic",
-      "desc": "Dostihy ČR 2026 Záznam z dostihového odpoledne."
-    },
-    {
-      "start": "20261011025000 +0200",
-      "stop": "20261011034500 +0200",
-      "title": "Silniční cyklistika: CRO Race",
-      "desc": "Kolem Chorvatska 2026 Sestřih celého závodu."
-    },
-    {
-      "start": "20261011034500 +0200",
-      "stop": "20261011040000 +0200",
-      "title": "Branky, body, vteřiny",
-      "desc": ""
-    },
-    {
-      "start": "20261011040000 +0200",
-      "stop": "20261011082500 +0200",
-      "title": "Gravel: MS Austrálie",
-      "desc": "MS v gravelu 2026 Přímý přenos závodu mužů (Západní Austrálie, Nannup)."
-    },
-    {
-      "start": "20261011082500 +0200",
-      "stop": "20261011085000 +0200",
-      "title": "Panorama",
-      "desc": "Aktuální povětrnostní zpravodajství pohledem panoramatických kamer."
-    },
-    {
-      "start": "20261011085000 +0200",
-      "stop": "20261011090000 +0200",
-      "title": "BBV po 25 letech",
-      "desc": "Takové bylo sportovní zpravodajství před čtvrtstoletím.."
-    },
-    {
-      "start": "20261011090000 +0200",
-      "stop": "20261011092500 +0200",
-      "title": "Archiv D",
-      "desc": "Petr Čech - Říkají mu \"The Wall\" Portrét z roku 2005 věnovaný slavnému fotbalovému brankáři, jenž v té době hájil v anglické Premier League barvy Chelsea FC."
-    },
-    {
-      "start": "20261011092500 +0200",
-      "stop": "20261011103000 +0200",
-      "title": "Motorismus: Svět motorů",
-      "desc": "Aktuality z domácího i světového motorsportu."
-    },
-    {
-      "start": "20261011103000 +0200",
-      "stop": "20261011163000 +0200",
-      "title": "Dostihy: 136. Velká pardubická se Slavia pojišťovnou",
-      "desc": "Velká pardubická 2026 Přímý přenos nejtěžšího evropského překážkového dostihu."
-    },
-    {
-      "start": "20261011163000 +0200",
-      "stop": "20261011200500 +0200",
-      "title": "Hokej: BYD Energie Karlovy Vary - Rytíři Kladno",
-      "desc": "Tipsport ELH 2026/2027 Přímý přenos utkání 10. kola nejvyšší ligy mužů."
-    },
-    {
-      "start": "20261011200500 +0200",
-      "stop": "20261011215500 +0200",
-      "title": "Fotbal: Anglie - Česko",
-      "desc": "Liga národů UEFA mužů 2026/2027 Záznam utkání 4. kola Ligy A (Londýn, Wembley) - jen hra."
-    },
-    {
-      "start": "20261011215500 +0200",
-      "stop": "20261011221500 +0200",
-      "title": "Archiv D",
-      "desc": "Petr Čech - Říkají mu \"The Wall\" Portrét z roku 2005 věnovaný slavnému fotbalovému brankáři, jenž v té době hájil v anglické Premier League barvy Chelsea FC."
-    },
-    {
-      "start": "20261011221500 +0200",
-      "stop": "20261012001500 +0200",
-      "title": "Hokej: BYD Energie Karlovy Vary - Rytíři Kladno",
-      "desc": "Tipsport ELH 2026/2027 Záznam utkání 10. kola nejvyšší ligy mužů - jen hra."
-    },
-    {
       "start": "20261012001500 +0200",
       "stop": "20261012003000 +0200",
       "title": "Branky, body, vteřiny",
@@ -2968,96 +2020,6 @@
     }
   ],
   "Senzi": [
-    {
-      "start": "20261011000000 +0200",
-      "stop": "20261011010000 +0200",
-      "title": "Piánko",
-      "desc": "Najviac zaľúbených pesničiek a príjemných romantických hitov na jednom mieste. Uvoľnite sa, relaxujte a ak máte niekoho pri sebe, tak mu povedzte, ako ho ľúbite... Tento čas je ideálny pre romantické vyznanie lásky, alebo pre Váš relax."
-    },
-    {
-      "start": "20261011010000 +0200",
-      "stop": "20261011020000 +0200",
-      "title": "Hráme na dobrú noc",
-      "desc": "Príjemné melódie Vás odprevadia aj do postele. Pokiaľ sa chystáte už spať, Televízia SENZI bude Vašim spoločníkom aj pri zaspávaní."
-    },
-    {
-      "start": "20261011020000 +0200",
-      "stop": "20261011040000 +0200",
-      "title": "Galavečer hviezd",
-      "desc": "Hudobno-zábavný program s hviezdami Televízie SENZI a moderátorom Jánom Žitňanským. www.senzi.sk."
-    },
-    {
-      "start": "20261011040000 +0200",
-      "stop": "20261011050000 +0200",
-      "title": "Senzi noc",
-      "desc": "Aj noc môže byť čarovná. Zmes všetkých žánrov pre všetkých, čo zostávajú aj v noci s nami. Nebuďte sami - buďte s nami celú noc."
-    },
-    {
-      "start": "20261011050000 +0200",
-      "stop": "20261011060000 +0200",
-      "title": "Najlepšie ľudovky a dychovky",
-      "desc": "Urobte si čas pre seba a započúvajte sa do hudby v podaní najlepších dychoviek. Pôvodné ľudové piesne, ale aj originálne úpravy známych hitov v dychovom prevedení."
-    },
-    {
-      "start": "20261011060000 +0200",
-      "stop": "20261011090000 +0200",
-      "title": "Senzi ráno",
-      "desc": "Zobúdzajte sa s Televíziou Senzi! Najviac rytmických pesničiek, ktoré Vás postavia na nohy Vám hráme každé ráno."
-    },
-    {
-      "start": "20261011090000 +0200",
-      "stop": "20261011100000 +0200",
-      "title": "Najlepšie ľudovky a dychovky",
-      "desc": "Urobte si čas pre seba a započúvajte sa do hudby v podaní najlepších dychoviek. Pôvodné ľudové piesne, ale aj originálne úpravy známych hitov v dychovom prevedení."
-    },
-    {
-      "start": "20261011100000 +0200",
-      "stop": "20261011120000 +0200",
-      "title": "Senzi svet s Bašou",
-      "desc": "Barbora Balúchová nazerá do sveta osobností a umelcov v hudobno-zábavnej talkshow. www.senzi.sk."
-    },
-    {
-      "start": "20261011120000 +0200",
-      "stop": "20261011130000 +0200",
-      "title": "Piánko",
-      "desc": "Najviac zaľúbených pesničiek a príjemných romantických hitov na jednom mieste. Uvoľnite sa, relaxujte a ak máte niekoho pri sebe, tak mu povedzte, ako ho ľúbite... Tento čas je ideálny pre romantické vyznanie lásky, alebo pre Váš relax."
-    },
-    {
-      "start": "20261011130000 +0200",
-      "stop": "20261011150000 +0200",
-      "title": "Galavečer hviezd",
-      "desc": "Hudobno-zábavný program s hviezdami Televízie SENZI a moderátorom Jánom Žitňanským. www.senzi.sk."
-    },
-    {
-      "start": "20261011150000 +0200",
-      "stop": "20261011180000 +0200",
-      "title": "Senzi šlágre",
-      "desc": "Výborné pesničky pre dobrú náladu, ktoré si budete s nami spievať! Najlepšie slovenské, české a svetové šlágre, repete-hity a evergreeny na jednom mieste."
-    },
-    {
-      "start": "20261011180000 +0200",
-      "stop": "20261011200000 +0200",
-      "title": "Najlepšie ľudovky a dychovky",
-      "desc": "Urobte si čas pre seba a započúvajte sa do hudby v podaní najlepších dychoviek. Pôvodné ľudové piesne, ale aj originálne úpravy známych hitov v dychovom prevedení."
-    },
-    {
-      "start": "20261011200000 +0200",
-      "stop": "20261011220000 +0200",
-      "title": "Otto Weiter Show",
-      "desc": "Televízia SENZI a jej osobnosti sú Vám na dosah aj pri živých koncertoch vo vybraných mestách. Pozrite sa, ako Vás bavia tí najlepší zabávači, humoristi, speváci a hudobné skupiny. A to všetko pod taktovkou Otta Weitera."
-    },
-    {
-      "start": "20261011220000 +0200",
-      "stop": "20261011230000 +0200",
-      "title": "To najlepšie z televíznej zábavy",
-      "desc": "Vyberáme najlepšie pesničky z našich zábavných programov, ktoré Vás roztancujú. www.senzi.sk."
-    },
-    {
-      "start": "20261011230000 +0200",
-      "stop": "20261012000000 +0200",
-      "title": "Senzi koktail",
-      "desc": "Namiešame Vám mix najlepších šlágrov, dychoviek, popových piesní, ale aj folklóru od interprétov, ktorých máte radi."
-    },
     {
       "start": "20261012000000 +0200",
       "stop": "20261012010000 +0200",
@@ -3321,123 +2283,99 @@
       "stop": "20261015000000 +0200",
       "title": "Senzi koktail",
       "desc": "Namiešame Vám mix najlepších šlágrov, dychoviek, popových piesní, ale aj folklóru od interprétov, ktorých máte radi."
+    },
+    {
+      "start": "20261015000000 +0200",
+      "stop": "20261015010000 +0200",
+      "title": "Piánko",
+      "desc": "Najviac zaľúbených pesničiek a príjemných romantických hitov na jednom mieste. Uvoľnite sa, relaxujte a ak máte niekoho pri sebe, tak mu povedzte, ako ho ľúbite... Tento čas je ideálny pre romantické vyznanie lásky, alebo pre Váš relax."
+    },
+    {
+      "start": "20261015010000 +0200",
+      "stop": "20261015020000 +0200",
+      "title": "Hráme na dobrú noc",
+      "desc": "Príjemné melódie Vás odprevadia aj do postele. Pokiaľ sa chystáte už spať, Televízia SENZI bude Vašim spoločníkom aj pri zaspávaní."
+    },
+    {
+      "start": "20261015020000 +0200",
+      "stop": "20261015040000 +0200",
+      "title": "Senzi svet s Bašou",
+      "desc": "Barbora Balúchová nazerá do sveta osobností a umelcov v hudobno-zábavnej talkshow. www.senzi.sk."
+    },
+    {
+      "start": "20261015040000 +0200",
+      "stop": "20261015050000 +0200",
+      "title": "Senzi noc",
+      "desc": "Aj noc môže byť čarovná. Zmes všetkých žánrov pre všetkých, čo zostávajú aj v noci s nami. Nebuďte sami - buďte s nami celú noc."
+    },
+    {
+      "start": "20261015050000 +0200",
+      "stop": "20261015060000 +0200",
+      "title": "Najlepšie ľudovky a dychovky",
+      "desc": "Urobte si čas pre seba a započúvajte sa do hudby v podaní najlepších dychoviek. Pôvodné ľudové piesne, ale aj originálne úpravy známych hitov v dychovom prevedení."
+    },
+    {
+      "start": "20261015060000 +0200",
+      "stop": "20261015090000 +0200",
+      "title": "Senzi ráno",
+      "desc": "Zobúdzajte sa s Televíziou Senzi! Najviac rytmických pesničiek, ktoré Vás postavia na nohy Vám hráme každé ráno."
+    },
+    {
+      "start": "20261015090000 +0200",
+      "stop": "20261015100000 +0200",
+      "title": "Najlepšie ľudovky a dychovky",
+      "desc": "Urobte si čas pre seba a započúvajte sa do hudby v podaní najlepších dychoviek. Pôvodné ľudové piesne, ale aj originálne úpravy známych hitov v dychovom prevedení."
+    },
+    {
+      "start": "20261015100000 +0200",
+      "stop": "20261015120000 +0200",
+      "title": "Senzi šlágre",
+      "desc": "Výborné pesničky pre dobrú náladu, ktoré si budete s nami spievať! Najlepšie slovenské, české a svetové šlágre, repete-hity a evergreeny na jednom mieste."
+    },
+    {
+      "start": "20261015120000 +0200",
+      "stop": "20261015130000 +0200",
+      "title": "Piánko",
+      "desc": "Najviac zaľúbených pesničiek a príjemných romantických hitov na jednom mieste. Uvoľnite sa, relaxujte a ak máte niekoho pri sebe, tak mu povedzte, ako ho ľúbite... Tento čas je ideálny pre romantické vyznanie lásky, alebo pre Váš relax."
+    },
+    {
+      "start": "20261015130000 +0200",
+      "stop": "20261015140000 +0200",
+      "title": "Hit za hitom",
+      "desc": "Každá kapela, každý spevák či speváčka majú svoj veľký hit. My Vám ich teraz zahráme pekne za sebou. Len samé hity celú hodinu."
+    },
+    {
+      "start": "20261015140000 +0200",
+      "stop": "20261015180000 +0200",
+      "title": "Senzi šlágre",
+      "desc": "Výborné pesničky pre dobrú náladu, ktoré si budete s nami spievať! Najlepšie slovenské, české a svetové šlágre, repete-hity a evergreeny na jednom mieste."
+    },
+    {
+      "start": "20261015180000 +0200",
+      "stop": "20261015200000 +0200",
+      "title": "Najlepšie ľudovky a dychovky",
+      "desc": "Urobte si čas pre seba a započúvajte sa do hudby v podaní najlepších dychoviek. Pôvodné ľudové piesne, ale aj originálne úpravy známych hitov v dychovom prevedení."
+    },
+    {
+      "start": "20261015200000 +0200",
+      "stop": "20261015220000 +0200",
+      "title": "Hudba hraj",
+      "desc": ""
+    },
+    {
+      "start": "20261015220000 +0200",
+      "stop": "20261015230000 +0200",
+      "title": "Senzi šlágre",
+      "desc": "Výborné pesničky pre dobrú náladu, ktoré si budete s nami spievať! Najlepšie slovenské, české a svetové šlágre, repete-hity a evergreeny na jednom mieste."
+    },
+    {
+      "start": "20261015230000 +0200",
+      "stop": "20261016000000 +0200",
+      "title": "Senzi koktail",
+      "desc": "Namiešame Vám mix najlepších šlágrov, dychoviek, popových piesní, ale aj folklóru od interprétov, ktorých máte radi."
     }
   ],
   "Óčko (540p)": [
-    {
-      "start": "20261011060000 +0200",
-      "stop": "20261011100000 +0200",
-      "title": "RANNÍ FRESH",
-      "desc": "Nová svěží muzika ke vstávání."
-    },
-    {
-      "start": "20261011100000 +0200",
-      "stop": "20261011113000 +0200",
-      "title": "ÓČKO CHART",
-      "desc": "Hitparáda dle hlasování fans na ocko.tv."
-    },
-    {
-      "start": "20261011113000 +0200",
-      "stop": "20261011130000 +0200",
-      "title": "ÓČKO HITY",
-      "desc": "Klipy nonstop."
-    },
-    {
-      "start": "20261011130000 +0200",
-      "stop": "20261011140000 +0200",
-      "title": "SOUNDTRACKY",
-      "desc": "Top hity z filmů a seriálů."
-    },
-    {
-      "start": "20261011140000 +0200",
-      "stop": "20261011155000 +0200",
-      "title": "RADIO TOP 25",
-      "desc": "Žebříček nejhranějších songů v českém éteru všech cz rádií dle IFPI."
-    },
-    {
-      "start": "20261011155000 +0200",
-      "stop": "20261011160000 +0200",
-      "title": "ÓČKO HITY",
-      "desc": "Klipy nonstop."
-    },
-    {
-      "start": "20261011160000 +0200",
-      "stop": "20261011163000 +0200",
-      "title": "BEST OF TEREZA KERNDLOVÁ",
-      "desc": "Užij si dojezd včerejšího koncertu ve Foru Karlín."
-    },
-    {
-      "start": "20261011163000 +0200",
-      "stop": "20261011170000 +0200",
-      "title": "ÓČKO HITY",
-      "desc": "Klipy nonstop."
-    },
-    {
-      "start": "20261011170000 +0200",
-      "stop": "20261011171500 +0200",
-      "title": "BRUNO MARS WEEK: TOP 3 TIPY",
-      "desc": "Dej si tři nej klipy, které vybrali fanoušci na instáči Óčka."
-    },
-    {
-      "start": "20261011171500 +0200",
-      "stop": "20261011180000 +0200",
-      "title": "ÓČKO HITY",
-      "desc": "Klipy nonstop."
-    },
-    {
-      "start": "20261011180000 +0200",
-      "stop": "20261011190000 +0200",
-      "title": "CZ & SK",
-      "desc": "české a slovenské klipy."
-    },
-    {
-      "start": "20261011190000 +0200",
-      "stop": "20261011192000 +0200",
-      "title": "TOP 4 ÓČKO CHART",
-      "desc": "První čtyři místa v hitparádě diváků Óčka. Chceš je udržet či změnit? Tak hlasuj na www.ocko.tv."
-    },
-    {
-      "start": "20261011192000 +0200",
-      "stop": "20261011200000 +0200",
-      "title": "ÓČKO HITY",
-      "desc": "Klipy nonstop."
-    },
-    {
-      "start": "20261011200000 +0200",
-      "stop": "20261011203000 +0200",
-      "title": "O BLACK FRESH",
-      "desc": "Výběr z fresh novinek z O BLACK TV."
-    },
-    {
-      "start": "20261011203000 +0200",
-      "stop": "20261011210000 +0200",
-      "title": "ÓČKO HITY",
-      "desc": "Klipy nonstop."
-    },
-    {
-      "start": "20261011210000 +0200",
-      "stop": "20261011213000 +0200",
-      "title": "KOŤÁK LIVE",
-      "desc": "Late night talkshow plná rozhovorů, zábavy a drzého humoru – tak, jak to umí jedině Koťák."
-    },
-    {
-      "start": "20261011213000 +0200",
-      "stop": "20261011220000 +0200",
-      "title": "KOŤÁK LIVE",
-      "desc": "Late night talkshow plná rozhovorů, zábavy a drzého humoru – tak, jak to umí jedině Koťák."
-    },
-    {
-      "start": "20261011220000 +0200",
-      "stop": "20261011230000 +0200",
-      "title": "KlenotTV",
-      "desc": "Elegance za dostupnou cenu. Teleshoppingové vysílání."
-    },
-    {
-      "start": "20261011230000 +0200",
-      "stop": "20261012060000 +0200",
-      "title": "ÓČKO FLIRT",
-      "desc": "Proud klipů a sexy vzkazy diváků Óčka."
-    },
     {
       "start": "20261012060000 +0200",
       "stop": "20261012100000 +0200",
@@ -3674,168 +2612,6 @@
     }
   ],
   "Prima ZOOM": [
-    {
-      "start": "20261011000500 +0200",
-      "stop": "20261011011000 +0200",
-      "title": "Neuvěřitelné železnice",
-      "desc": ""
-    },
-    {
-      "start": "20261011011000 +0200",
-      "stop": "20261011021000 +0200",
-      "title": "Úžasná zemská přitažlivost",
-      "desc": ""
-    },
-    {
-      "start": "20261011021000 +0200",
-      "stop": "20261011030500 +0200",
-      "title": "Tajemství vesmíru",
-      "desc": "Vydejte se do světa planet, komet, hvězd, souhvězdí a galaxií! Na cestě od středu sluneční soustavy až k okrajům vesmíru nahlédneme do jeho nejskrytějších tajemství."
-    },
-    {
-      "start": "20261011030500 +0200",
-      "stop": "20261011041000 +0200",
-      "title": "NASA: Vynálezy a inovace",
-      "desc": ""
-    },
-    {
-      "start": "20261011041000 +0200",
-      "stop": "20261011044500 +0200",
-      "title": "Prima ČESKO",
-      "desc": "Cestujte s námi po Česku a poznejte nejzajímavější místa naší země."
-    },
-    {
-      "start": "20261011044500 +0200",
-      "stop": "20261011052000 +0200",
-      "title": "Prima SVĚT",
-      "desc": "To nejzajímavější ze světa. Už od roku 1995."
-    },
-    {
-      "start": "20261011052000 +0200",
-      "stop": "20261011060000 +0200",
-      "title": "Ptačí říše",
-      "desc": ""
-    },
-    {
-      "start": "20261011060000 +0200",
-      "stop": "20261011062000 +0200",
-      "title": "Ptačí říše",
-      "desc": ""
-    },
-    {
-      "start": "20261011062000 +0200",
-      "stop": "20261011064500 +0200",
-      "title": "Hausbot Petra Horkého",
-      "desc": "John Mattone - kouč Steva Jobse 2/2 John Mattone je světovou špičkou v oblasti leadershipu a exekutivního koučinku. Je úspěšným podnikatelem a filantropem a také byl osobním koučem Steva Jobse. Poznejte jednoho z nejlepších leadership expertů na světě v Hausbotu Petra Horkého 2. část."
-    },
-    {
-      "start": "20261011064500 +0200",
-      "stop": "20261011074000 +0200",
-      "title": "Když žraloci útočí: 360 stupňů",
-      "desc": ""
-    },
-    {
-      "start": "20261011074000 +0200",
-      "stop": "20261011084500 +0200",
-      "title": "V říši manty obrovské",
-      "desc": "(Alien Contact: The Other Worldly Intelligence of Giant Manta Rays) Skrývají manty obrovské ve svých podivných tělech více inteligence, než bychom čekali? Naučily se od potápěčů vyžadovat bublinkové masáže a nebojí se přiblížit k lidem, když potřebují pomoc. Mohou to být nejchytřejší ryby v moři... Německý dokument (2023)."
-    },
-    {
-      "start": "20261011084500 +0200",
-      "stop": "20261011094500 +0200",
-      "title": "Vlakem kolem světa",
-      "desc": ""
-    },
-    {
-      "start": "20261011094500 +0200",
-      "stop": "20261011104000 +0200",
-      "title": "Nevysvětlitelná tajemství s Williamem Shatnerem",
-      "desc": ""
-    },
-    {
-      "start": "20261011104000 +0200",
-      "stop": "20261011114000 +0200",
-      "title": "Tajné složky UFO",
-      "desc": "Přinejmenším od roku 2004 piloti amerického námořnictva několikrát během cvičení sledovali a fotografovali UFO zblízka. O těchto incidentech mlčeli, aby se vyhnuli posměchu a zničení své kariéry. To se dramaticky změnilo v roce 2017, kdy uniklé videozáznamy zveřejnil deník New York Times. Pentagon poté senzačně potvrdil pravost záběrů. V roce 2023 se konala slyšení v americkém Kongresu a promluvili svědci. Chybí však odpověď na základní otázky, jak tyto objekty dosahují svých neuvěřitelných... výkonů a odkud se berou."
-    },
-    {
-      "start": "20261011114000 +0200",
-      "stop": "20261011124500 +0200",
-      "title": "Podzim: Svět barev",
-      "desc": "(Autumn – World of Colours) Podzim, doba, kdy se příroda a její obyvatelé loučí s teplem a hojností potravy, bývá přesto považován díky své barvitosti za nejkrásnější roční období. Jak se na zimu připravují někteří živočichové?... Německý dokument (2018)."
-    },
-    {
-      "start": "20261011124500 +0200",
-      "stop": "20261011134500 +0200",
-      "title": "Když žraloci útočí",
-      "desc": ""
-    },
-    {
-      "start": "20261011134500 +0200",
-      "stop": "20261011145500 +0200",
-      "title": "Skutečná Kniha džunglí",
-      "desc": "Vydejte se do indické džungle po stopách dnešních následovníků hrdinů Kiplingovy Knihy džunglí. Poznejte každodenní boj o přežití hrdinů tohoto mistrovského díla v moderním světě. Časy se možná změnily, ale stejně jako kdysi tu stále platí neměnné zákony džungle. Před 125 lety napsal Rudyard Kipling, Angličan narozený v Indii, sbírku povídek, kterou nazval Kniha džunglí a která se čte dodnes. Příběhy vyprávějí o malém chlapci vychovávaném vlky. Kipling vytvořil pomyslný zákon džungle, který musí všechna zvířata dodržovat, jinak zemřou. V podstatě šlo o přežití nejpřizpůsobivějších, ale za fikcí se skrývají fakta. V Indii stále žijí vlci, kteří loví ve vyprahlých rovinách, tygři, kteří se prohánějí po ubývajících lesích, a sloni, kteří šlapou po... starých stezkách jako generace před nimi. Natáčelo se výhradně v Indii a my tak můžeme sledovat každodenn í i sezónní boje živých zvířecích předobrazů, které Kipling popsal a jež se všechna řídí nepsaným zákonem džungle a snaží se vychovat novou generaci."
-    },
-    {
-      "start": "20261011145500 +0200",
-      "stop": "20261011155500 +0200",
-      "title": "Zabijáci v divočině",
-      "desc": "Dnes vám představíme zvířata s nejdivočejším kousnutím, jako jsou medvědi grizzly, velcí žraloci bílí, krokodýli i aligátoři. Jejich ostré zuby a silný skus jsou ideální nejen pro vzájemný boj, ale také pro lov kořisti. Určitě byste se nechtěli ocitnout tváří v tvář některému z těchto zvířat. Dnes si predstavíme zvieratá s tým najzúrivejším uhryznutím, ako sú medvede grizly, žraloky belavé, krokodíly a aligátory. Ich prenikavé zuby a silný zhryz je perfektný nielen pre vzájomný boj, ale aj lov koristi. Určite by ste sa nechceli ocitnúť tvárou v tvár žiadnemu z týchto zvierat."
-    },
-    {
-      "start": "20261011155500 +0200",
-      "stop": "20261011165000 +0200",
-      "title": "Poslední Hitlerův útok",
-      "desc": "V dubnu 1945 se nadporučík Vernon Baker a vojáci z jednotky amerických Buffalo Soldiers ocitli na nepřátelském území poblíž nacisty okupovaného italského hradu. K útoku však budou potřebovat posily."
-    },
-    {
-      "start": "20261011165000 +0200",
-      "stop": "20261011175000 +0200",
-      "title": "Válečné továrny",
-      "desc": ""
-    },
-    {
-      "start": "20261011175000 +0200",
-      "stop": "20261011182500 +0200",
-      "title": "Prima ČESKO",
-      "desc": "Cestujte s námi po Česku a poznejte nejzajímavější místa naší země."
-    },
-    {
-      "start": "20261011182500 +0200",
-      "stop": "20261011185500 +0200",
-      "title": "Prima SVĚT",
-      "desc": "To nejzajímavější ze světa. Už od roku 1995."
-    },
-    {
-      "start": "20261011185500 +0200",
-      "stop": "20261011200000 +0200",
-      "title": "Ve stopách Odyssea",
-      "desc": "Herec Richard Grant se vydává po stopách epické cesty Homérova legendárního hrdiny Odyssea. Poznává nádhernou středomořskou krajinu a odhaluje hranici mezi fakty a fikcí."
-    },
-    {
-      "start": "20261011200000 +0200",
-      "stop": "20261011220000 +0200",
-      "title": "Ocelová srdce: Morlock Motors",
-      "desc": ""
-    },
-    {
-      "start": "20261011220000 +0200",
-      "stop": "20261011230500 +0200",
-      "title": "Neuvěřitelné železnice",
-      "desc": ""
-    },
-    {
-      "start": "20261011230500 +0200",
-      "stop": "20261011235500 +0200",
-      "title": "V továrně na Spitfiry",
-      "desc": ""
-    },
-    {
-      "start": "20261011235500 +0200",
-      "stop": "20261012010000 +0200",
-      "title": "Vražedné počasí",
-      "desc": ""
-    },
     {
       "start": "20261012010000 +0200",
       "stop": "20261012020500 +0200",
@@ -4126,204 +2902,6 @@
     }
   ],
   "Prima COOL SK": [
-    {
-      "start": "20261011002000 +0200",
-      "stop": "20261011011000 +0200",
-      "title": "Prima Partička",
-      "desc": "Obľúbená a nespútaná Partička! Sledujte show, ktorá srší humorom, improvizáciou a neskutočnými momentmi, za ktorými budú tentokrát stáť Michal Suchánek, Richard Genzer, Daniel Dangl, Jakub Kohák a Michal Novotný spoločne so špeciálnymi hosťami."
-    },
-    {
-      "start": "20261011011000 +0200",
-      "stop": "20261011015500 +0200",
-      "title": "Prima Partička",
-      "desc": "(Prima Partička 2022) Obľúbená a nespútaná Partička! Sledujte show, ktorá srší humorom, improvizáciou a neskutočnými momentmi, za ktorými aj tentokrát stoja Michal Suchánek, Richard Genzer, Daniel Dangl, Igor Chmela a Michal Novotný."
-    },
-    {
-      "start": "20261011015500 +0200",
-      "stop": "20261011021500 +0200",
-      "title": "Comedy Club",
-      "desc": "Moderátor Tomáš Jeřábek privíta obľúbených interpretov aj zatiaľ neznáme talenty, aby počas polhodiny ukázal, že veselosť sa dá prejaviť mnohými spôsobmi – od tichého chichotania až po rehot, z ktorého vás budú chytať kŕče. Český komediálny program (2016)."
-    },
-    {
-      "start": "20261011021500 +0200",
-      "stop": "20261011024000 +0200",
-      "title": "Comedy Club",
-      "desc": "Moderátor Tomáš Jeřábek privíta obľúbených interpretov aj zatiaľ neznáme talenty, aby počas polhodiny ukázal, že veselosť sa dá prejaviť mnohými spôsobmi – od tichého chichotania až po rehot, z ktorého vás budú chytať kŕče. Český komediálny program (2016)."
-    },
-    {
-      "start": "20261011024000 +0200",
-      "stop": "20261011032500 +0200",
-      "title": "Policie v akci",
-      "desc": "Štyri prípady, štyri ľudské osudy. Reálni policajti, prípady ukazujúce skutočný život a volanie o pomoc. Program je opatrený skrytými titulkami (ST)."
-    },
-    {
-      "start": "20261011032500 +0200",
-      "stop": "20261011040500 +0200",
-      "title": "Policie v akci",
-      "desc": "Štyri prípady, štyri ľudské osudy. Reálni policajti, prípady ukazujúce skutočný život a volanie o pomoc. Program je opatrený skrytými titulkami (ST)."
-    },
-    {
-      "start": "20261011040500 +0200",
-      "stop": "20261011045500 +0200",
-      "title": "Autosalon",
-      "desc": "Svetové novinky, neľútostné testy či koncepty budúcnosti v tradičnom motoristickom magazíne."
-    },
-    {
-      "start": "20261011045500 +0200",
-      "stop": "20261011053000 +0200",
-      "title": "Partička",
-      "desc": "Improvizačná show, v ktorej je zábava tak hustá, že by sa dala krájať. Nenechajte si ujsť jedinečnú príležitosť vidieť, ako si konečne niekto robí srandu aj z Genzera a Suchánka. Konkrétne teda ich kolegovia Igor Chmela, Ondřej Sokol a samozrejme, Dano Dangl. A ako také trápenie známych zabávačov vyzerá? Uvidíte v Partičke."
-    },
-    {
-      "start": "20261011053000 +0200",
-      "stop": "20261011060000 +0200",
-      "title": "Cyklosalon.tv",
-      "desc": "Týždenník zo sveta bicyklov i príbuzných približovadiel, pre začiatočníkov, hobíkov i profi cyklistov! Informácie o nových modeloch, trasách na výlet aj do práce, ako jazdiť bezpečne, ako sa o svoj bicykel starať aj čo si vziať na seba a so sebou. Cyklosalon.tv sú aj vzrušujúce výzvy, zaujímavé súťaže, mimoriadne výhry a nevšední hostia! Či ste len praktický užívateľ, výletník alebo ste cyklistikou priamo posadnutí, Cyklosalon.tv vám poskytne aktuálne informácie, zábavu aj pocit bezpečia."
-    },
-    {
-      "start": "20261011060000 +0200",
-      "stop": "20261011062000 +0200",
-      "title": "Vlakem přes Labské údolí",
-      "desc": ""
-    },
-    {
-      "start": "20261011062000 +0200",
-      "stop": "20261011072500 +0200",
-      "title": "Top Gear",
-      "desc": "The Stig puts the power of the new Porsche 911 Carrera S to the test on the test track. Jeremy has to eat more than his words over the new Vauxhall Astra. Britain takes on America and Australia when James drives a Vauxhall Monaro VRX, Jeremy drives a Chrysler 300C and Richard drives a Jaguar S-Type R. Bill Bailey is the Star In A Reasonably Priced Car."
-    },
-    {
-      "start": "20261011072500 +0200",
-      "stop": "20261011082500 +0200",
-      "title": "Prima Partička",
-      "desc": "Obľúbená a nespútaná Partička! Sledujte show, ktorá srší humorom, improvizáciou a neskutočnými momentmi, za ktorými budú tentokrát stáť Michal Suchánek, Richard Genzer, Daniel Dangl, Jakub Kohák a Michal Novotný spoločne so špeciálnymi hosťami."
-    },
-    {
-      "start": "20261011082500 +0200",
-      "stop": "20261011092000 +0200",
-      "title": "Policie v akci",
-      "desc": "Štyri prípady, štyri ľudské osudy. Reálni policajti, prípady ukazujúce skutočný život a volanie o pomoc. Program je opatrený skrytými titulkami (ST)."
-    },
-    {
-      "start": "20261011092000 +0200",
-      "stop": "20261011103500 +0200",
-      "title": "Autosalon",
-      "desc": "Svetové novinky, neľútostné testy či koncepty budúcnosti v tradičnom motoristickom magazíne."
-    },
-    {
-      "start": "20261011103500 +0200",
-      "stop": "20261011110500 +0200",
-      "title": "Comedy Club",
-      "desc": "Moderátor Tomáš Jeřábek privíta obľúbených interpretov aj zatiaľ neznáme talenty, aby počas polhodiny ukázal, že veselosť sa dá prejaviť mnohými spôsobmi – od tichého chichotania až po rehot, z ktorého vás budú chytať kŕče. Český komediálny program (2016)."
-    },
-    {
-      "start": "20261011110500 +0200",
-      "stop": "20261011113000 +0200",
-      "title": "Comedy Club",
-      "desc": "Moderátor Tomáš Jeřábek privíta obľúbených interpretov aj zatiaľ neznáme talenty, aby počas polhodiny ukázal, že veselosť sa dá prejaviť mnohými spôsobmi – od tichého chichotania až po rehot, z ktorého vás budú chytať kŕče. Český komediálny program (2016)."
-    },
-    {
-      "start": "20261011113000 +0200",
-      "stop": "20261011123000 +0200",
-      "title": "Prima Partička",
-      "desc": "(Prima Partička 2022) Obľúbená a nespútaná Partička! Sledujte show, ktorá srší humorom, improvizáciou a neskutočnými momentmi, za ktorými aj tentokrát stoja Michal Suchánek, Richard Genzer, Daniel Dangl, Igor Chmela a Michal Novotný."
-    },
-    {
-      "start": "20261011123000 +0200",
-      "stop": "20261011132000 +0200",
-      "title": "Partička",
-      "desc": "Improvizačná show, v ktorej je zábava tak hustá, že by sa dala krájať. Nenechajte si ujsť jedinečnú príležitosť vidieť, ako si konečne niekto robí srandu aj z Genzera a Suchánka. Konkrétne teda ich kolegovia Igor Chmela, Ondřej Sokol a samozrejme, Dano Dangl. A ako také trápenie známych zabávačov vyzerá? Uvidíte v Partičke."
-    },
-    {
-      "start": "20261011132000 +0200",
-      "stop": "20261011134500 +0200",
-      "title": "Simpsonovi",
-      "desc": "Speluji, jak nejrychleji dovedu."
-    },
-    {
-      "start": "20261011134500 +0200",
-      "stop": "20261011141000 +0200",
-      "title": "Simpsonovi",
-      "desc": "Do života Neda Flanderse opět vstoupí žena. A ne jen tak ledajaká žena - přímo filmová hvězda! A její sympatie k Nedovi jsou tak silné, že je dokonce ochotná žít s ním ve Springfieldu."
-    },
-    {
-      "start": "20261011141000 +0200",
-      "stop": "20261011150500 +0200",
-      "title": "Policie v akci",
-      "desc": "Štyri prípady, štyri ľudské osudy. Reálni policajti, prípady ukazujúce skutočný život a volanie o pomoc. Program je opatrený skrytými titulkami (ST)."
-    },
-    {
-      "start": "20261011150500 +0200",
-      "stop": "20261011160000 +0200",
-      "title": "Policie v akci",
-      "desc": "Štyri prípady, štyri ľudské osudy. Reálni policajti, prípady ukazujúce skutočný život a volanie o pomoc. Program je opatrený skrytými titulkami (ST)."
-    },
-    {
-      "start": "20261011160000 +0200",
-      "stop": "20261011170500 +0200",
-      "title": "Autosalon",
-      "desc": "Svetové novinky, neľútostné testy či koncepty budúcnosti v tradičnom motoristickom magazíne."
-    },
-    {
-      "start": "20261011170500 +0200",
-      "stop": "20261011182000 +0200",
-      "title": "Top Gear",
-      "desc": ""
-    },
-    {
-      "start": "20261011182000 +0200",
-      "stop": "20261011185000 +0200",
-      "title": "Simpsonovi",
-      "desc": "Když springfieldská letecká společnost změní letové trasy, život rodiny Simpsonových se mění v peklo. Dům se nedaří prodat, společnost jejich stížnosti ignoruje - a tak se rozhodnou obrátit přímo na Kongres. Jako nejvhodnější kandidát za Springfield se jeví - šáša Krusty. Správně vedená volební kampaň splní svůj účel, ale prosadit zákon o změně letových tras není tak jednoduchá a přímočará záležitost."
-    },
-    {
-      "start": "20261011185000 +0200",
-      "stop": "20261011191500 +0200",
-      "title": "Simpsonovi",
-      "desc": "Náhoda přivede otce Simpsona do kurzu asertivity - a vyklube se z něj nečekaně vnímavý žák. Každý den dělá pokroky a my máme brzy před sebou úplně jiného Homera: Homera rázného, Homera snaživého, Homera workoholika."
-    },
-    {
-      "start": "20261011191500 +0200",
-      "stop": "20261011201500 +0200",
-      "title": "Prima Partička",
-      "desc": "Obľúbená a nespútaná Partička! Sledujte show, ktorá srší humorom, improvizáciou a neskutočnými momentmi, za ktorými budú tentokrát stáť Michal Suchánek, Richard Genzer, Daniel Dangl, Jakub Kohák a Michal Novotný spoločne so špeciálnymi hosťami."
-    },
-    {
-      "start": "20261011201500 +0200",
-      "stop": "20261011214500 +0200",
-      "title": "Prima Partička XXL",
-      "desc": "Obľúbená a nespútaná Partička! Sledujte show, ktorá srší humorom, improvizáciou a neskutočnými momentmi, za ktorými aj tentokrát budú stáť Michal Suchánek, Richard Genzer, Daniel Dangl, Igor Chmela a Michal Novotný spoločne so špeciálnymi hosťami."
-    },
-    {
-      "start": "20261011214500 +0200",
-      "stop": "20261011222000 +0200",
-      "title": "Comedy Club",
-      "desc": "Moderátor Tomáš Jeřábek privíta obľúbených interpretov aj zatiaľ neznáme talenty, aby počas polhodiny ukázal, že veselosť sa dá prejaviť mnohými spôsobmi – od tichého chichotania až po rehot, z ktorého vás budú chytať kŕče. Český komediálny program (2016)."
-    },
-    {
-      "start": "20261011222000 +0200",
-      "stop": "20261011225000 +0200",
-      "title": "Comedy Club",
-      "desc": "Moderátor Tomáš Jeřábek privíta obľúbených interpretov aj zatiaľ neznáme talenty, aby počas polhodiny ukázal, že veselosť sa dá prejaviť mnohými spôsobmi – od tichého chichotania až po rehot, z ktorého vás budú chytať kŕče. Český komediálny program (2016)."
-    },
-    {
-      "start": "20261011225000 +0200",
-      "stop": "20261011231500 +0200",
-      "title": "Simpsonovi",
-      "desc": "Když springfieldská letecká společnost změní letové trasy, život rodiny Simpsonových se mění v peklo. Dům se nedaří prodat, společnost jejich stížnosti ignoruje - a tak se rozhodnou obrátit přímo na Kongres. Jako nejvhodnější kandidát za Springfield se jeví - šáša Krusty. Správně vedená volební kampaň splní svůj účel, ale prosadit zákon o změně letových tras není tak jednoduchá a přímočará záležitost."
-    },
-    {
-      "start": "20261011231500 +0200",
-      "stop": "20261011234000 +0200",
-      "title": "Simpsonovi",
-      "desc": "Náhoda přivede otce Simpsona do kurzu asertivity - a vyklube se z něj nečekaně vnímavý žák. Každý den dělá pokroky a my máme brzy před sebou úplně jiného Homera: Homera rázného, Homera snaživého, Homera workoholika."
-    },
-    {
-      "start": "20261011234000 +0200",
-      "stop": "20261012004000 +0200",
-      "title": "Top Gear",
-      "desc": ""
-    },
     {
       "start": "20261012004000 +0200",
       "stop": "20261012012500 +0200",
@@ -4687,66 +3265,6 @@
   ],
   "Óčko Black": [
     {
-      "start": "20261011010000 +0200",
-      "stop": "20261011070000 +0200",
-      "title": "SLEEPIN",
-      "desc": "Noční proud rapových a R&B klipů.Úterý 10.9.2024."
-    },
-    {
-      "start": "20261011070000 +0200",
-      "stop": "20261011110000 +0200",
-      "title": "MORNIN",
-      "desc": "Same Sh#t, Different Day. Probuzení do nového dne za zvuku toho nejlepšího rapu a R&B."
-    },
-    {
-      "start": "20261011110000 +0200",
-      "stop": "20261011120000 +0200",
-      "title": "CZECH SPOTIFY LIST",
-      "desc": "Co aktuálně nejvíc streamujete na Spotify v hodinovém playlistu."
-    },
-    {
-      "start": "20261011120000 +0200",
-      "stop": "20261011140000 +0200",
-      "title": "WORKIN",
-      "desc": "Vybraná selekce aktuálních hitů i osvědčených klasik."
-    },
-    {
-      "start": "20261011140000 +0200",
-      "stop": "20261011150000 +0200",
-      "title": "O BLACK LIST",
-      "desc": "Patnáctka aktuálně nejhranějších klipů na Óčko BLACK."
-    },
-    {
-      "start": "20261011150000 +0200",
-      "stop": "20261011180000 +0200",
-      "title": "CHILLIN",
-      "desc": "Udělej si pohodlí s Óčko BLACK."
-    },
-    {
-      "start": "20261011180000 +0200",
-      "stop": "20261011190000 +0200",
-      "title": "B-DAY LIST: CARDI B",
-      "desc": "Jedna z nejvýraznějších ženských rapperek slaví narozeniny. Dej si hodinu jejího rapu."
-    },
-    {
-      "start": "20261011190000 +0200",
-      "stop": "20261011200000 +0200",
-      "title": "CZ&SK",
-      "desc": "Připomeň si klasickej českej a slovenskej rap a objev nový talenty na českym rapovym rybníčku."
-    },
-    {
-      "start": "20261011200000 +0200",
-      "stop": "20261011230000 +0200",
-      "title": "CHILLIN",
-      "desc": "Udělej si pohodlí s Óčko BLACK."
-    },
-    {
-      "start": "20261011230000 +0200",
-      "stop": "20261012000000 +0200",
-      "title": "ROOTS",
-      "desc": "Cesta do historie black music. Klasické R&B, funk nebo soul."
-    },
-    {
       "start": "20261012000000 +0200",
       "stop": "20261012070000 +0200",
       "title": "SLEEPIN",
@@ -4844,132 +3362,6 @@
     }
   ],
   "AXN Black": [
-    {
-      "start": "20261011004000 +0200",
-      "stop": "20261011031000 +0200",
-      "title": "Blade Runner 2049",
-      "desc": "Třicet let po událostech prvního filmu odhaluje nový Blade Runner a důstojník losangeleské policie K dlouho ukryté tajemství, které je natolik zásadní, že by mohlo zcela rozvrátit poslední zbytky lidské společnosti. Toto odhalení ho nutí zahájit pátrání po Rickovi Deckardovi, bývalém Blade Runnerovi losangeleské policie, který je už 30 let nezvěstný. Roku 2049 obývají planetu Zemi a přilehlé kolonie kromě lidí umělé bytosti označované jako replikanti. Likvidací starších modelů replikantů, kteří přestali plnit zadané příkazy, jsou pověřeni blade runneři. Mezi ně patří i policejní důstojník KD6, 3.7, jinak zvaný K. Během dalšího ze zdánlivě prostých případů vyřazování K objeví stopu, která naznačuje možnost, že replikanti se mohou biologicky rozmnožovat. Tato skutečnost by mohla mít nedozírné společenské dopady, a proto někdo tam nahoře... chce stejně jako K vypátrat ono zázračné dítě a důstojníka současně vyřadit ze hry. A zatímco nitky ve dou snad až k samotnému strůjci robotů, tajuplnému podnikateli Nianderu Wallaceovi, K se musí vydat vstříc vlastní minulosti a popasovat se s legendárním replikantem Rickem Deckardem, který je už 30 let nezvěstný."
-    },
-    {
-      "start": "20261011031000 +0200",
-      "stop": "20261011040000 +0200",
-      "title": "Ztracený svět",
-      "desc": ""
-    },
-    {
-      "start": "20261011040000 +0200",
-      "stop": "20261011062500 +0200",
-      "title": "Teleshop",
-      "desc": "Český teleshopping (2026)."
-    },
-    {
-      "start": "20261011062500 +0200",
-      "stop": "20261011073000 +0200",
-      "title": "Walker, Texas Ranger",
-      "desc": "Kandidát na mexického prezidenta Mendoza přijíždí do Dallasu. Během veřejného projevu se rangerům podaří zmařit atentát na jeho osobu. Nájemný vrah Philippe Brouchard je však jedním z nejlepších ve své brandži a je jisté, že se nevzdá, dokud nedosáhne svého cíle. Přesto Mendoza odmítá odvolat byť jen jediné ze svých vystoupení a Walker, Trivette a bezpečnostní šéf Rodriguez mají plné ruce práce. Domýšlivý agent Tackler je nakonec zbaví zodpovědnosti a sám se ujme řízení operace. Během... slavnostního banketu se Brouchardovi a skupině jeho mužů podaří vniknout do budovy a všichni hosté jsou vz ati jako rukojmí. Walker, který se nechce spoléhat na Tacklerovu pomoc, se na vlastní pěst pokusí vniknout do budovy, aby osvobodil všechny hosty a zachránil Mendozovi život."
-    },
-    {
-      "start": "20261011073000 +0200",
-      "stop": "20261011082500 +0200",
-      "title": "Walker, Texas Ranger",
-      "desc": "Nebezpečnému psychopatovi Maxu Kaleovi se podařilo uprchnout z vězení. Postupně se začíná mstít na všech, kdo měli prsty v jeho zatčení. První na řadě je soudce Hollister a explodující bomba zraní rovněž Trivetta. Další, koho šílenec ohrožuje, jsou Alex a soudcova manželka Angela. Walker, který je rovněž na Kaleově seznamu, se snaží varovat ostatní, zatímco další nálože stále explodují."
-    },
-    {
-      "start": "20261011082500 +0200",
-      "stop": "20261011092500 +0200",
-      "title": "Walker, Texas Ranger",
-      "desc": "Walker souhlasí, že pomůže kolegům z D.E.A., a v převleku za dealera kokainu se vydává do ulic Miami. Jeho úkolem je chytit místního drogového krále a osvobodit policistu, který byl gangstery zajat během poslední akce. Pomáhat mu má drsná důstojnice Cousinsová, kterou si zahrála mistryně světa v kickboxu Kathy Long."
-    },
-    {
-      "start": "20261011092500 +0200",
-      "stop": "20261011102000 +0200",
-      "title": "Walker, Texas Ranger",
-      "desc": "Dělník z blízkého ropného vrtu je nalezen mrtev. Walkerovi se podaří zjistit, že se na tomto pracovišti nejedná o ojedinělý případ. Zdánlivě nesouvisející nehody mají společnou příčinu - radikálního enviromentalistu Jerryho Lee Starka. Walker se pouští do riskantní operace. Davey Lee ja považovaný za reinkarnovaného tibetského lámu. Okamžite si ho všimne istý Chang, ktorý bol lámou pred tridsiatimi rokmi, no bol ponížený adlhé roky živený nenávisťou, ktorá sa premenila vposadnutosť. Walker bude mať plné ruky práce, aby ich udržal od seba."
-    },
-    {
-      "start": "20261011102000 +0200",
-      "stop": "20261011112000 +0200",
-      "title": "Walker, Texas Ranger",
-      "desc": "Den před svou svatbou s místním poslancem je Dory unesena. Pachatelem je její bývalý přítel a v současné době zločinec na útěku. Billy Cramer v Dory vidí Bonnie, která se podle jeho mínění náramně hodí k jeho clydeovskému formátu. Walker a C. D. sledují jejich krvavou stopu a společně s dalšími lovci lebek křižují téměř celý Texas."
-    },
-    {
-      "start": "20261011112000 +0200",
-      "stop": "20261011122000 +0200",
-      "title": "Ztracený svět",
-      "desc": "Challenger byl v džungli a sbíral brouky. Veronika se atarala o zahrádku, když v tom jí někdo napadl, nějaký asijský bojovník. Nechal vedle Veroniky nějakou tabulku se čínským znakem a nějakým obrazcem ve tvaru trojúhelníku. Marguerite to poznala. Na tabulce bylo napsáno Xan, to je chlap, kterému měl Marguerite něco dát. Ale něco za něco. Poté, co bojovník napadl i Challengera musela Marguerite s pravdou ven a řekla Roxtonovi pravý důvod, proč je na plošině."
-    },
-    {
-      "start": "20261011122000 +0200",
-      "stop": "20261011132000 +0200",
-      "title": "Ztracený svět",
-      "desc": "Challenger vymyslel způsob, jak se dostat z plošiny. V jeskyni, kde na stěně byly lesklé kameny se Challenger při 1. pokusu dostat ze jeskyně dostal do raptořího hnízda. Nakonec usoudil, že by se takhle mohli dostat do Londýna. Roxton nechtěl jít s ním kvůli Marguerite, ale nakonec šli všichni tři (Chall, Marg a Roxton). No nic se nestalo. Aspoň oni si to mysleli. Vylezli z jeskyně, kde jim všechno připadalo větší. Roxton šel na obhlídku, až došel k cestě a spatřil tabuli s názvem New... Amazons (Nová Amazonie), a poté ho přepadli chlapi v jedoucím autě, omráčili ho a odvezli pryč. Marg a Cha ll šli po Roxtonových stopách, až došli také k cestě. Našli Roxtonův klobouk a usoudili, že byl unešen. Z kopce pak viděli zaprášené město plné vysokých mrakodrapů. Byli v budoucnosti o 1OO let. Roxton se od svých věznitelů dozvěděl, že existuje nějaký chlap Claud (Klód) Jenkins, který chce všechny lidi na práci na ropných polích. A také, že je rok 2033. Roxton a spol pocházejí z roku 1922. Chall a Marg šli do jedné zchátralé budovy, kde je zajala neznámá dívka a pozor všichni představuji novou postavu 3. série FINN!! Měla na sobě černé kraťasy a tílko a v rukou kuši. Měla kratší blond vlasy. Vzala jim zbraně a poslala je pryč. Byla dost drzá. Finn přepadl její bývalý a chtěl jí odvézt pryč. Challengerovi to ale nedalo chtěl se pro ní vrátit. Marg byla proti. Finn jim totiž předtím vyprávěla, jak zemi zničila válka a chemikálie. A její rodiče zemřeli, když jí byly 4 roky. Všechny její přátelé a příbuzné zabili. Proto se mu Finn zželelo. Chall za ní šel a osvobodil jí od toho chlapa. Pak spolu s Marg běželi do jeskyně, kde na ně čekal Roxton. Chlapi je pronásledovali a Finn se s nimi bila. Roxton, Marg a Chall vběhli do jeskyně a Finn se k nim na poslední chvíli přidala. Marg byla naštvaná, že se k nim jakoby vtěrla. Vyšli z jeskyně a podle řevu T-rexe poznali, že jsou na plošině. Na jejich rtech se objevil úsmev. Teda kromě Finn. Finn s něma šla do skrýše, rozhlídla se a řekla: \"Tak kde mám pokoj?\" Marguerite, Challenger a Roxton se po sobě dloouze podívali."
-    },
-    {
-      "start": "20261011132000 +0200",
-      "stop": "20261011141500 +0200",
-      "title": "Ztracený svět",
-      "desc": ""
-    },
-    {
-      "start": "20261011141500 +0200",
-      "stop": "20261011151000 +0200",
-      "title": "Ztracený svět",
-      "desc": ""
-    },
-    {
-      "start": "20261011151000 +0200",
-      "stop": "20261011161000 +0200",
-      "title": "Ztracený svět",
-      "desc": ""
-    },
-    {
-      "start": "20261011161000 +0200",
-      "stop": "20261011171000 +0200",
-      "title": "Tým SEAL",
-      "desc": ""
-    },
-    {
-      "start": "20261011171000 +0200",
-      "stop": "20261011181000 +0200",
-      "title": "Dresden",
-      "desc": ""
-    },
-    {
-      "start": "20261011181000 +0200",
-      "stop": "20261011190500 +0200",
-      "title": "Dresden",
-      "desc": ""
-    },
-    {
-      "start": "20261011190500 +0200",
-      "stop": "20261011200000 +0200",
-      "title": "Dresden",
-      "desc": ""
-    },
-    {
-      "start": "20261011200000 +0200",
-      "stop": "20261011210000 +0200",
-      "title": "Dresden",
-      "desc": ""
-    },
-    {
-      "start": "20261011210000 +0200",
-      "stop": "20261011215500 +0200",
-      "title": "Námořní vyšetřovací služba: Havaj",
-      "desc": "Po nájdení mŕtveho bývalého agenta MI6 sa vynoria tajomstvá z Tennantovej minulosti a donútia ju konať na hranici svojich možností."
-    },
-    {
-      "start": "20261011215500 +0200",
-      "stop": "20261011225000 +0200",
-      "title": "Námořní vyšetřovací služba: Havaj",
-      "desc": "Keď sa z tieňa vynorí postava z Tennantovej pôsobenia v CIA, tím musí požiadať o pomoc z úplne neočakávaného miesta. Snažia sa zastaviť vraha, ktorý ohrozuje všetko, čo Tennantová doteraz vybudovala."
-    },
-    {
-      "start": "20261011225000 +0200",
-      "stop": "20261012004500 +0200",
-      "title": "Resident Evil: Raccoon City",
-      "desc": "V živořícím městečku Raccoon City se šíří smrtelné zlo. Skupina přeživších musí spolupracovat, aby odhalila pravdu o tajemné společnosti Umbrella Corporation a přežila noc. Raccoon City, kdysi prosperující sídlo farmaceutického gigantu Umbrella Corporation, je nyní upadajícím městem na středozápadě. Po odchodu společnosti z něj zůstala jen pustina... s temnými silami skrytými pod povrchem. Když se toto smrtící zlo uvolní, skupina přeživších musí spolupracovat, aby odhalila pravdu a přežila noc."
-    },
     {
       "start": "20261012004500 +0200",
       "stop": "20261012022000 +0200",
@@ -5267,90 +3659,6 @@
   ],
   "Noe+": [
     {
-      "start": "20261011082000 +0200",
-      "stop": "20261011091000 +0200",
-      "title": "Ohlédnutí za CSM Ostrava 2026",
-      "desc": "Sestřih průběhu letošního Celostátního setkání mládeže v Ostravě."
-    },
-    {
-      "start": "20261011091000 +0200",
-      "stop": "20261011092500 +0200",
-      "title": "Církev za oponou",
-      "desc": "Celibát Všechno, co jste kdy chtěli vědět o církvi, ale báli jste se zeptat."
-    },
-    {
-      "start": "20261011092500 +0200",
-      "stop": "20261011100000 +0200",
-      "title": "Večeře u Slováka",
-      "desc": "28. neděle v mezidobí - cyklus A Debata nad nedělním Božím slovem."
-    },
-    {
-      "start": "20261011100000 +0200",
-      "stop": "20261011111000 +0200",
-      "title": "Má vlast",
-      "desc": "Dubí u Teplic Záznam koncertu Václava Hudečka a jeho hostů z kostela Neposkvrněného početí Panny Marie v Dubí u Teplic."
-    },
-    {
-      "start": "20261011111000 +0200",
-      "stop": "20261011120500 +0200",
-      "title": "Bohém s Bohem",
-      "desc": "Lucie Žáčková Herečka Sarah Haváčová si do studia zve hosty, s kterými si povídá o zkušenostech života víry."
-    },
-    {
-      "start": "20261011120500 +0200",
-      "stop": "20261011134000 +0200",
-      "title": "Hrajže mi, muzička, hrajže mi hraj - Terchovský galaprogram",
-      "desc": "Jánošíkove dni v Terchovej 2024 Přenos Terchovskeho galaprogramu z amfiteátru Nad Bôrami v rámci MFF Jánošíkove dni v Terchove 2024."
-    },
-    {
-      "start": "20261011142500 +0200",
-      "stop": "20261011150500 +0200",
-      "title": "Mladí mladým - Symfonie č. 84 Es dur",
-      "desc": "Svatováclavský hudební festival 2022 Záznam části koncertu z kostela sv. Václava. V rámci Svatováclavského hudebního festivalu 2022 zaznělo dílo Josepha Haydna - Symfonie č. 84 Es dur."
-    },
-    {
-      "start": "20261011150500 +0200",
-      "stop": "20261011155500 +0200",
-      "title": "Cesta k andělům",
-      "desc": "Ivan Hubač - scenárista a dramaturg Otakáro Maria Schmidt a jeho talkshow – Cesta k andělům. Ivan Hubač je český scenárista, dramaturg a autor rozhlasových her."
-    },
-    {
-      "start": "20261011155500 +0200",
-      "stop": "20261011171000 +0200",
-      "title": "Outdoor Films s Marcelou Krplovou",
-      "desc": "Uganda, Rwanda Až do vzdálené střední a východní Afriky s podnikatelkou, cestovatelkou a nadšenou sportovkyní."
-    },
-    {
-      "start": "20261011171000 +0200",
-      "stop": "20261011172500 +0200",
-      "title": "Přejeme si.",
-      "desc": "Přání a písnička pro všechny, kteří jsou členy Klubu přátel televize Noe a dnes slaví své narozeniny."
-    },
-    {
-      "start": "20261011193500 +0200",
-      "stop": "20261011200500 +0200",
-      "title": "Můj chrám",
-      "desc": "Martina Vondrová, psychoterapeutka, poutní kostel Horní Police Cyklus rozhovorů a dokumentárních profilů významných osobností českého společenského života."
-    },
-    {
-      "start": "20261011200500 +0200",
-      "stop": "20261011214500 +0200",
-      "title": "(Ne)mocná Uganda",
-      "desc": "Dokumentární film (NE)Mocná Uganda přináší silný příběh českých a ugandských zdravotníků z projektu SSUUBO."
-    },
-    {
-      "start": "20261011214500 +0200",
-      "stop": "20261011234500 +0200",
-      "title": "Navždy budu vidět vaše tváře",
-      "desc": "Francouzské drama otevírá silné téma setkání obětí a pachatelů a ukazuje, jak může jediný rozhovor změnit lidské životy. Nedává jednoduché odpovědi, ale o to silněji se dotkne každého, kdo věří v sílu lidskosti. 2023."
-    },
-    {
-      "start": "20261011234500 +0200",
-      "stop": "20261012060500 +0200",
-      "title": "Jazz? Oh, Yes !",
-      "desc": "Kapela SharkBites Jaz Q Pořad nabízí příjemný odpočinek u kvalitní jazzové hudby a představuje talentované kapely i jejich tvorbu."
-    },
-    {
       "start": "20261012060500 +0200",
       "stop": "20261012071000 +0200",
       "title": "Muzikanti hrajte",
@@ -5564,48 +3872,6 @@
   "Sporty TV": [],
   "Golf Channel": [
     {
-      "start": "20261011000000 +0200",
-      "stop": "20261011043000 +0200",
-      "title": "Open de Espana presented by Madrid",
-      "desc": "3. kolo turnaje DP World Tour. Club de Campo Villa de Madrid."
-    },
-    {
-      "start": "20261011043000 +0200",
-      "stop": "20261011083000 +0200",
-      "title": "Alfred Dunhill Links Championship",
-      "desc": "Finálové kolo turnaje DP World Tour. Old Course St. Andrews, Scotland."
-    },
-    {
-      "start": "20261011083000 +0200",
-      "stop": "20261011123000 +0200",
-      "title": "Open de Espana presented by Madrid",
-      "desc": "3. kolo turnaje DP World Tour. Club de Campo Villa de Madrid."
-    },
-    {
-      "start": "20261011123000 +0200",
-      "stop": "20261011130000 +0200",
-      "title": "Cestování s golfem za zážitky",
-      "desc": "Azorské ostrovy."
-    },
-    {
-      "start": "20261011130000 +0200",
-      "stop": "20261011180000 +0200",
-      "title": "Open de Espana presented by Madrid",
-      "desc": "Finálové kolo turnaje DP World Tour. Club de Campo Villa de Madrid."
-    },
-    {
-      "start": "20261011180000 +0200",
-      "stop": "20261011230000 +0200",
-      "title": "Open de Espana presented by Madrid",
-      "desc": "Finálové kolo turnaje DP World Tour. Club de Campo Villa de Madrid."
-    },
-    {
-      "start": "20261011230000 +0200",
-      "stop": "20261012000000 +0200",
-      "title": "Sněhulák",
-      "desc": ""
-    },
-    {
       "start": "20261012000000 +0200",
       "stop": "20261012000000 +0200",
       "title": "Open de Espana presented by Madrid",
@@ -5709,378 +3975,6 @@
     }
   ],
   "Disney Channel": [
-    {
-      "start": "20261011001000 +0200",
-      "stop": "20261011003500 +0200",
-      "title": "Penny z M.A.R.Su",
-      "desc": ""
-    },
-    {
-      "start": "20261011003500 +0200",
-      "stop": "20261011005500 +0200",
-      "title": "Ghostforce",
-      "desc": ""
-    },
-    {
-      "start": "20261011005500 +0200",
-      "stop": "20261011012000 +0200",
-      "title": "Ghostforce",
-      "desc": ""
-    },
-    {
-      "start": "20261011012000 +0200",
-      "stop": "20261011014000 +0200",
-      "title": "Tým Tiki",
-      "desc": "Gavinda Teach přiměje Corto pochybovat o Kyt-teku."
-    },
-    {
-      "start": "20261011014000 +0200",
-      "stop": "20261011020000 +0200",
-      "title": "Tým Tiki",
-      "desc": "Míša musí dokázat otci, že je dronerkou celým srdcem."
-    },
-    {
-      "start": "20261011020000 +0200",
-      "stop": "20261011022500 +0200",
-      "title": "Tým Tiki",
-      "desc": "Aby vyhrála, ohrozí Mina pouto mezi Sunem a Corto.."
-    },
-    {
-      "start": "20261011022500 +0200",
-      "stop": "20261011024500 +0200",
-      "title": "Anna mezi obojživelníky",
-      "desc": ""
-    },
-    {
-      "start": "20261011024500 +0200",
-      "stop": "20261011031000 +0200",
-      "title": "Anna mezi obojživelníky",
-      "desc": ""
-    },
-    {
-      "start": "20261011031000 +0200",
-      "stop": "20261011033000 +0200",
-      "title": "Anna mezi obojživelníky",
-      "desc": ""
-    },
-    {
-      "start": "20261011033000 +0200",
-      "stop": "20261011035000 +0200",
-      "title": "Ghostforce",
-      "desc": ""
-    },
-    {
-      "start": "20261011035000 +0200",
-      "stop": "20261011041500 +0200",
-      "title": "Ghostforce",
-      "desc": ""
-    },
-    {
-      "start": "20261011041500 +0200",
-      "stop": "20261011043500 +0200",
-      "title": "Škola Vikingů",
-      "desc": "V lese se Ylva setkává s psancem Vargirem."
-    },
-    {
-      "start": "20261011043500 +0200",
-      "stop": "20261011050000 +0200",
-      "title": "Škola Vikingů",
-      "desc": "Celou Viking Skool zasáhne epidemie kozí chřipky."
-    },
-    {
-      "start": "20261011050000 +0200",
-      "stop": "20261011052000 +0200",
-      "title": "Anna mezi obojživelníky",
-      "desc": ""
-    },
-    {
-      "start": "20261011052000 +0200",
-      "stop": "20261011054500 +0200",
-      "title": "Anna mezi obojživelníky",
-      "desc": ""
-    },
-    {
-      "start": "20261011054500 +0200",
-      "stop": "20261011055000 +0200",
-      "title": "Taffy",
-      "desc": "Paní Bohatá při odjezdu na dovolenou omylem uvězní Taffyho a Bentleyho v domě. Aby se dostali ven, musí obelstít inteligentní bezpečnostní systém. Když už z toho začínají šílet a Bentley už chce sníst Taffyho, jsou zachráněni."
-    },
-    {
-      "start": "20261011055000 +0200",
-      "stop": "20261011060000 +0200",
-      "title": "Taffy",
-      "desc": "Když se paní Bohatá rozhodne proniknout do společnosti, Bentley je kvůli svým katastrofickým selfie vyhozen. Jeho pokusy o pomstu jen zlepší Taffyho postavení, až dokud se mu nepodaří obstarat mývalovi miliardy \"nelíbí se\"."
-    },
-    {
-      "start": "20261011060000 +0200",
-      "stop": "20261011063000 +0200",
-      "title": "Mickeyho Klubík Plus",
-      "desc": ""
-    },
-    {
-      "start": "20261011063000 +0200",
-      "stop": "20261011070000 +0200",
-      "title": "Mickeyho Klubík Plus",
-      "desc": ""
-    },
-    {
-      "start": "20261011070000 +0200",
-      "stop": "20261011070500 +0200",
-      "title": "Blue",
-      "desc": ""
-    },
-    {
-      "start": "20261011070500 +0200",
-      "stop": "20261011072000 +0200",
-      "title": "Blue",
-      "desc": ""
-    },
-    {
-      "start": "20261011072000 +0200",
-      "stop": "20261011075000 +0200",
-      "title": "Superčíči",
-      "desc": ""
-    },
-    {
-      "start": "20261011075000 +0200",
-      "stop": "20261011082000 +0200",
-      "title": "Superčíči",
-      "desc": ""
-    },
-    {
-      "start": "20261011082000 +0200",
-      "stop": "20261011085000 +0200",
-      "title": "Autoparta",
-      "desc": ""
-    },
-    {
-      "start": "20261011085000 +0200",
-      "stop": "20261011092000 +0200",
-      "title": "Spidey a jeho úžasní přátelé",
-      "desc": ""
-    },
-    {
-      "start": "20261011092000 +0200",
-      "stop": "20261011095000 +0200",
-      "title": "Spidey a jeho úžasní přátelé",
-      "desc": ""
-    },
-    {
-      "start": "20261011095000 +0200",
-      "stop": "20261011102000 +0200",
-      "title": "Sofie První: Královská kouzla",
-      "desc": "Seznamte se s nejnovější Disneyho princeznou v kouzelné pohádce o Sofii, obyčejné holčičce, jejíž život se náhle změní, když si její matka vezme krále a ona se tak stane princeznou."
-    },
-    {
-      "start": "20261011102000 +0200",
-      "stop": "20261011105000 +0200",
-      "title": "Nová dobrodružství Medvídka Pú",
-      "desc": "Rabbit has grown discontented with people constantly asking to borrow things from him, but when it seems that his friends have even forgotten his Birthday (due to an unforeseen accident involving Pooh.."
-    },
-    {
-      "start": "20261011105000 +0200",
-      "stop": "20261011111500 +0200",
-      "title": "Nová dobrodružství Medvídka Pú",
-      "desc": "\"Gone with the Wind\" After being battered about by very strong winds, Piglet decides that he will never come out from under his bed.."
-    },
-    {
-      "start": "20261011111500 +0200",
-      "stop": "20261011114500 +0200",
-      "title": "Nová dobrodružství Medvídka Pú",
-      "desc": "The gang put on a play titled, \"The Legend of Sheriff Piglet.\" After going through the desert, the group find themselves in the western town of Rickety Gulch.."
-    },
-    {
-      "start": "20261011114500 +0200",
-      "stop": "20261011115500 +0200",
-      "title": "Blue",
-      "desc": "Výřez ze života štěněte australského honáckého psa Blue Heeler, který se baví se svou rodinou a přáteli v každodenních situacích. Blue je modrá, čilá šestiletá fenka, která si ráda hraje a z každodenních činností si umí udělat pořádnou zábavu. Tím rozvíjí její představivost a mentální, fyzickou a emocionální odolnost."
-    },
-    {
-      "start": "20261011115500 +0200",
-      "stop": "20261011120000 +0200",
-      "title": "Blue",
-      "desc": ""
-    },
-    {
-      "start": "20261011120000 +0200",
-      "stop": "20261011121000 +0200",
-      "title": "Blue",
-      "desc": "Výřez ze života štěněte australského honáckého psa Blue Heeler, který se baví se svou rodinou a přáteli v každodenních situacích. Blue je modrá, čilá šestiletá fenka, která si ráda hraje a z každodenních činností si umí udělat pořádnou zábavu. Tím rozvíjí její představivost a mentální, fyzickou a emocionální odolnost."
-    },
-    {
-      "start": "20261011121000 +0200",
-      "stop": "20261011121500 +0200",
-      "title": "Blue",
-      "desc": "Výřez ze života štěněte australského honáckého psa Blue Heeler, který se baví se svou rodinou a přáteli v každodenních situacích. Blue je modrá, čilá šestiletá fenka, která si ráda hraje a z každodenních činností si umí udělat pořádnou zábavu. Tím rozvíjí její představivost a mentální, fyzickou a emocionální odolnost."
-    },
-    {
-      "start": "20261011121500 +0200",
-      "stop": "20261011123000 +0200",
-      "title": "Blue",
-      "desc": ""
-    },
-    {
-      "start": "20261011123000 +0200",
-      "stop": "20261011130000 +0200",
-      "title": "Mickeyho Klubík Plus",
-      "desc": ""
-    },
-    {
-      "start": "20261011130000 +0200",
-      "stop": "20261011133000 +0200",
-      "title": "Iron Man a jeho úžasní přátelé",
-      "desc": ""
-    },
-    {
-      "start": "20261011133000 +0200",
-      "stop": "20261011140000 +0200",
-      "title": "Iron Man a jeho úžasní přátelé",
-      "desc": ""
-    },
-    {
-      "start": "20261011140000 +0200",
-      "stop": "20261011140500 +0200",
-      "title": "Blue",
-      "desc": ""
-    },
-    {
-      "start": "20261011140500 +0200",
-      "stop": "20261011141000 +0200",
-      "title": "Blue",
-      "desc": ""
-    },
-    {
-      "start": "20261011141000 +0200",
-      "stop": "20261011142500 +0200",
-      "title": "Blue",
-      "desc": "Výřez ze života štěněte australského honáckého psa Blue Heeler, který se baví se svou rodinou a přáteli v každodenních situacích. Blue je modrá, čilá šestiletá fenka, která si ráda hraje a z každodenních činností si umí udělat pořádnou zábavu. Tím rozvíjí její představivost a mentální, fyzickou a emocionální odolnost."
-    },
-    {
-      "start": "20261011142500 +0200",
-      "stop": "20261011150000 +0200",
-      "title": "Sofie První: Královská kouzla",
-      "desc": "Seznamte se s nejnovější Disneyho princeznou v kouzelné pohádce o Sofii, obyčejné holčičce, jejíž život se náhle změní, když si její matka vezme krále a ona se tak stane princeznou."
-    },
-    {
-      "start": "20261011150000 +0200",
-      "stop": "20261011152500 +0200",
-      "title": "Kouzelná Beruška a Černý kocour",
-      "desc": ""
-    },
-    {
-      "start": "20261011152500 +0200",
-      "stop": "20261011155500 +0200",
-      "title": "Kouzelná Beruška a Černý kocour",
-      "desc": ""
-    },
-    {
-      "start": "20261011155500 +0200",
-      "stop": "20261011162500 +0200",
-      "title": "Phineas a Ferb",
-      "desc": ""
-    },
-    {
-      "start": "20261011162500 +0200",
-      "stop": "20261011165500 +0200",
-      "title": "Phineas a Ferb",
-      "desc": ""
-    },
-    {
-      "start": "20261011165500 +0200",
-      "stop": "20261011172500 +0200",
-      "title": "Zkázáci",
-      "desc": "Bobby je rozhodnutý dokázat, že nápadník jeho tety skrývá temné tajemství."
-    },
-    {
-      "start": "20261011172500 +0200",
-      "stop": "20261011175500 +0200",
-      "title": "Kouzelná Beruška a Černý kocour",
-      "desc": ""
-    },
-    {
-      "start": "20261011175500 +0200",
-      "stop": "20261011182500 +0200",
-      "title": "Greenovi ve velkoměstě",
-      "desc": ""
-    },
-    {
-      "start": "20261011182500 +0200",
-      "stop": "20261011185500 +0200",
-      "title": "Greenovi ve velkoměstě",
-      "desc": ""
-    },
-    {
-      "start": "20261011185500 +0200",
-      "stop": "20261011192500 +0200",
-      "title": "Spidey a jeho úžasní přátelé",
-      "desc": ""
-    },
-    {
-      "start": "20261011192500 +0200",
-      "stop": "20261011200000 +0200",
-      "title": "Blue",
-      "desc": "Dům Heelerových je na prodej."
-    },
-    {
-      "start": "20261011200000 +0200",
-      "stop": "20261011200500 +0200",
-      "title": "Blue",
-      "desc": "Blue a Bingo chtějí, aby tatínek hrál dvě různé hry."
-    },
-    {
-      "start": "20261011200500 +0200",
-      "stop": "20261011202000 +0200",
-      "title": "Blue",
-      "desc": ""
-    },
-    {
-      "start": "20261011202000 +0200",
-      "stop": "20261011205000 +0200",
-      "title": "Zombí – animáci",
-      "desc": "Addison režíruje školní hru. Wyatt má tajemství."
-    },
-    {
-      "start": "20261011205000 +0200",
-      "stop": "20261011212000 +0200",
-      "title": "Zombí – animáci",
-      "desc": "Bucky dostane nového mazlíčka. Wyattovi pomůže příšera."
-    },
-    {
-      "start": "20261011212000 +0200",
-      "stop": "20261011214500 +0200",
-      "title": "Kouzelníci po Waverly",
-      "desc": ""
-    },
-    {
-      "start": "20261011214500 +0200",
-      "stop": "20261011221500 +0200",
-      "title": "Kouzelníci po Waverly",
-      "desc": ""
-    },
-    {
-      "start": "20261011221500 +0200",
-      "stop": "20261011224500 +0200",
-      "title": "Tajný život K.C",
-      "desc": ""
-    },
-    {
-      "start": "20261011224500 +0200",
-      "stop": "20261011231500 +0200",
-      "title": "Jessie",
-      "desc": ""
-    },
-    {
-      "start": "20261011231500 +0200",
-      "stop": "20261011234500 +0200",
-      "title": "Jessie",
-      "desc": ""
-    },
-    {
-      "start": "20261011234500 +0200",
-      "stop": "20261012001000 +0200",
-      "title": "Penny z M.A.R.Su",
-      "desc": ""
-    },
     {
       "start": "20261012001000 +0200",
       "stop": "20261012003500 +0200",
@@ -6905,354 +4799,6 @@
     }
   ],
   "ČT :D / ČT art": [
-    {
-      "start": "20261011003500 +0200",
-      "stop": "20261011020300 +0200",
-      "title": "Rolling Stones: Sticky Fingers - Live at the Fonda Theatre",
-      "desc": "Koncert legendárních Rolling Stones doplněný o dokumentární vstupy, který v květnu 2015 odstartoval jejich americké turné. Vystoupení bylo mj. unikátní tím, že na něm skupina vůbec poprvé a naposled odehrála živě a v kompletní podobě jedno ze svých nejslavnějších alb - Sticky Fingers. Koncert legendárních Rolling Stones doplněný o dokumentární vstupy, který v květnu 2015 odstartoval jejich americké turné. Vystoupení bylo mj. unikátní tím, že na něm skupina vůbec poprvé a naposled odehrála živě a v kompletní podobě jedno ze svých nejslavnějších alb - Sticky Fingers Dvacátého května 2015 se ve Fonda Theatre v Hollywoodu uskutečnila jedinečná hudební událost. Ikoničtí Rolling Stones zde dosud poprvé, a zatím také naposledy, živě uvedli celé album Sticky Fingers. Tento... výjimečný koncert předcházel turné Zip Code, které se uskutečnilo v Severní Americe během následují cích dvou měsíců. V intimním prostředí Fonda Theatre měli diváci možnost zažít mnohem komornější atmosféru než ve velkých halách po zbytek turné. I díky tomu je televizní záznam tohoto koncertu zcela unikátní."
-    },
-    {
-      "start": "20261011020300 +0200",
-      "stop": "20261011030000 +0200",
-      "title": "Dobrý den, Saganová",
-      "desc": "(Bonjour Tristesse, Sagan By Sagan) Nový pohled na kdysi skandální literární prvotinu Françoise Saganové a díky zachovaným archivním materiálům i unikátní vhled do spisovatelčina života. Koprodukční dokument ARTE. Nový pohled na kdysi skandální literární prvotinu Françoise Saganové a díky zachovaným archivním materiálům i unikátní vhled do spisovatelčina života. Koprodukční dokument ARTE Když se jí po celý život ptali na skandál, který kniha \"Dobrý den, smutku\" vyvolala, Françoise Saganová, nikdy neskrývala údiv. Knihy se prodalo více než milion výtisků, slávu přiživila cenzura Vatikánu. Když román vyšel, Saganové bylo pouhých osmnáct let. Milovala whisky, noční život, kluky, rychlost a... svobodu. Román \"Dobrý den, smutku\", který vyšel v roce 1954, se trefil do své doby. Prvním poválečným bests ellerem se stal proto, že předjímá témata, která se do popředí dostanou později: sexuální svoboda, zpochybnění tradičního rodinného modelu, nebo feminismus."
-    },
-    {
-      "start": "20261011030000 +0200",
-      "stop": "20261011032000 +0200",
-      "title": "Chuť",
-      "desc": "O symbolech v mezilidské komunikaci a hledání skrytých významů věcí (2008). Režie: O. M. Schmidt."
-    },
-    {
-      "start": "20261011032000 +0200",
-      "stop": "20261011034600 +0200",
-      "title": "Uchem jehly",
-      "desc": "Setkání Zbigniewa Czendlika s novinářem, scenáristou a spisovatelem P. Kosatíkem (2019). Režie: L. Cmíral."
-    },
-    {
-      "start": "20261011034600 +0200",
-      "stop": "20261011040200 +0200",
-      "title": "Mojmír Mrva, chirurg a voják",
-      "desc": "Lékař, který prošel řadou válečných konfliktů, pohledem R. Moralese (2005)."
-    },
-    {
-      "start": "20261011040200 +0200",
-      "stop": "20261011043000 +0200",
-      "title": "Slovácký fenomén",
-      "desc": "O Uherském Hradišti, kde prý sídlí divadelní bůh (2013). Režie: P. Jirásek."
-    },
-    {
-      "start": "20261011043000 +0200",
-      "stop": "20261011044500 +0200",
-      "title": "Čtenářský deník",
-      "desc": "Petruška Šustrová uvádí J. Kratochvila a jeho dílo (2008)."
-    },
-    {
-      "start": "20261011044500 +0200",
-      "stop": "20261011051000 +0200",
-      "title": "Radiorock: Charlie Straight a Jan P. Muchow",
-      "desc": "Jak vzniká rocková nahrávka? Hudební pořad z legendárního studia 1 ČRo v Brně (2011). Režie: P. Jirásek."
-    },
-    {
-      "start": "20261011051000 +0200",
-      "stop": "20261011200000 +0200",
-      "title": "Události v kultuře",
-      "desc": "Každodenní souhrn nejdůležitějšího a nejzajímavějšího dění v naší i světové kultuře."
-    },
-    {
-      "start": "20261011060000 +0200",
-      "stop": "20261011060700 +0200",
-      "title": "Raníček",
-      "desc": "Velryba Decimálka Žralok a gramofon Animované pohádky o dvou malých tučňácích a velké rybě."
-    },
-    {
-      "start": "20261011060700 +0200",
-      "stop": "20261011061300 +0200",
-      "title": "Prasátko Peppa",
-      "desc": "Ráda se baví s přáteli, je zvědavá, má ráda dobroty, oslavy i výlety. Příběhy prasečí holčičky a její rodiny. Vaše kamarádka Peppa je malé roztomilé prasátko v červené sukni. Ráda se baví s přáteli, je zvědavá, má ráda čokoládové zákusky a narozeninové oslavy i výlety, na kterých se něco dobrého jí. Nejvíc ale miluje, když je pořádné bláto. Protože, co může být na světě lepší zábava, než je skákání v blátivých kalužích."
-    },
-    {
-      "start": "20261011061300 +0200",
-      "stop": "20261011061800 +0200",
-      "title": "Prasátko Peppa",
-      "desc": "Ráda se baví s přáteli, je zvědavá, má ráda dobroty, oslavy i výlety. Příběhy prasečí holčičky a její rodiny. Vaše kamarádka Peppa je malé roztomilé prasátko v červené sukni. Ráda se baví s přáteli, je zvědavá, má ráda čokoládové zákusky a narozeninové oslavy i výlety, na kterých se něco dobrého jí. Nejvíc ale miluje, když je pořádné bláto. Protože, co může být na světě lepší zábava, než je skákání v blátivých kalužích."
-    },
-    {
-      "start": "20261011061800 +0200",
-      "stop": "20261011062300 +0200",
-      "title": "Prasátko Peppa",
-      "desc": "Ráda se baví s přáteli, je zvědavá, má ráda dobroty, oslavy i výlety. Příběhy prasečí holčičky a její rodiny. Vaše kamarádka Peppa je malé roztomilé prasátko v červené sukni. Ráda se baví s přáteli, je zvědavá, má ráda čokoládové zákusky a narozeninové oslavy i výlety, na kterých se něco dobrého jí. Nejvíc ale miluje, když je pořádné bláto. Protože, co může být na světě lepší zábava, než je skákání v blátivých kalužích."
-    },
-    {
-      "start": "20261011062300 +0200",
-      "stop": "20261011064500 +0200",
-      "title": "Nová dobrodružství medvídka Pú",
-      "desc": "The gang put on a play titled, \"The Legend of Sheriff Piglet.\" After going through the desert, the group find themselves in the western town of Rickety Gulch.."
-    },
-    {
-      "start": "20261011064500 +0200",
-      "stop": "20261011070000 +0200",
-      "title": "Malý princ a přátelé",
-      "desc": "Kdo by neznal krásný příběh Antoina de Saint-Exupéryho o Malém princi? V novém seriálu se dvě děti vydávají na pohádkové cesty ke hvězdám s Malým princem a jeho fantastickou posádkou, Liškou a Růží."
-    },
-    {
-      "start": "20261011070000 +0200",
-      "stop": "20261011070700 +0200",
-      "title": "Ovečka Shaun",
-      "desc": "Zdálo by se, že Shaun je běžná ovce ze stáda - avšak ve skutečnosti je právě ona vede do malérů a rvaček a mír, který na louce v údolí vládne, mění ve zmatek. Shaun a ostatní ovečky hlídá ovčák Bitzer. Každý den přináší Shaun nová dobrodružství. Se Shaunem vládne na farmě chaos! Shaun rozhodně nejde se stádem - právě naopak, stádo se pod jeho vedením pouští do různých činností, které klidné údolí mění na pastvinu plnou zmatků. Shaun s kamarády nedávají šanci pasteveckému psu Bitzerovi, který se snaží utajit, co všechno se děje za farmárovými zády. Každý den přináší nové dobrodružství se Shaunem."
-    },
-    {
-      "start": "20261011070700 +0200",
-      "stop": "20261011073000 +0200",
-      "title": "Rubble a jeho parta",
-      "desc": "Štěněčí stavitel Rubble a jeho rodina usilovně pracují na tom, aby se jejich město stalo hezkým místem k životu. Štěně Rubble, jeden z hrdinů Tlapkové patroly a jeho rodina, teta, děda, bratranci a všichni ostatní, tvrdě pracují na tom, aby se jejich město stalo krásným místem k životu. Co je zábavnější než štěně ve stavebním vozidle? Spousta štěňat ve spoustě stavebních vozidel."
-    },
-    {
-      "start": "20261011073000 +0200",
-      "stop": "20261011090200 +0200",
-      "title": "Studio Kamarád",
-      "desc": "Kamarádi, máme vás rádi! Přijďte za námi na kouzelný palouček plný pohádek a zábavy."
-    },
-    {
-      "start": "20261011090200 +0200",
-      "stop": "20261011092500 +0200",
-      "title": "Draci v hrnci",
-      "desc": "Polévka je grunt, kdo ji nejí, bude špunt! Tak se pojďte podívat, jak ji vaří Oskar a jeho kouzelní dračí kamarádi."
-    },
-    {
-      "start": "20261011092500 +0200",
-      "stop": "20261011110300 +0200",
-      "title": "Doručovací služba čarodějky Kiki",
-      "desc": "Malá čarodějka se svým černým kocourem vyráží do světa na zkušenou. Věhlasné animační studio Ghibli, jehož jméno platí jako garant vysoké kvality filmů pro celou rodinu, přináší okouzlující vyprávění o třináctileté čarodějce jménem Kiki, která vyráží do světa na zkušenou. Jak káže tradice, každá dívka nadaná kouzlením musí v tomto věku odejít z domova do jiného města a prokázat, že se o sebe umí za pomoci kouzel sama postarat. Kiki tak spolu se svým černým kocourem Džidžim přesídlí do přímořského města, kde si za pomoci nových přátel najede ideální... uplatnění. Díky své schopnosti létat na koštěti si otevře doručovací službu. Jak bývá charakteristické pro pr odukci studia Ghibli, také v tomto filmu jsou fantaskní motivy harmonicky vsazené do každodenního civilně vyznívajícího světa. Doručovací služba čarodějky Kiki tak v prvé řadě uhrane malebnou atmosférou ústředního města, které v sobě spojuje architektonické elementy severoevropských metropolí."
-    },
-    {
-      "start": "20261011110300 +0200",
-      "stop": "20261011111200 +0200",
-      "title": "Pat a Mat",
-      "desc": "A bike tour can become a nightmare if you wanna take too much with a you and if you're not able to ride a bike."
-    },
-    {
-      "start": "20261011111200 +0200",
-      "stop": "20261011112700 +0200",
-      "title": "Elin supertajný deník",
-      "desc": ""
-    },
-    {
-      "start": "20261011112700 +0200",
-      "stop": "20261011114200 +0200",
-      "title": "Operace JAUU! Zkus to doma III",
-      "desc": "Doktoři Chris a Xand vás uvítají ve své laboratoři a prozradí vám mnohá tajemství! Britský cyklus. Doktoři Chris a Xand vás uvítají ve své laboratoři a prozradí vám mnohá tajemství! Britský cyklus Časy lockdownu, kdy nikdo nikam nesměl a kdy se zastavilo dokonce i natáčení Operace JAUU! jsou naštěstí dávnou minulostí, ale svérázní doktoři neztratili nic na nápaditosti a hravosti... A proto hurá do kuchyně, tedy vlastně do laboratoře! Připravit vajíčka, mouku, cedníky a trychtýře a potravinářské barvivo... Na co? Přece na báječné pokusy, při nichž se nejen pořádně zapatláme, ale... hlavně se dozvíme spoustu zajímavých věcí ze světa medicíny. Chcete se naučit dělat umělé nudle? Nebo p ochopit, jak fungují mozkové blány? Pokud ano, vítejte ve výzkumné laboratoři, v níž vám tentokrát nikdo neřekne tu nepopulární větu \"Tohle doma nezkoušejte\"."
-    },
-    {
-      "start": "20261011114200 +0200",
-      "stop": "20261011120300 +0200",
-      "title": "Kámoši v kuchyni",
-      "desc": "Při vaření se dá s překvapivými hosty zažít spousta zábavy a dozvědět se tolik zajímavých věcí! Britským kuchařským pořadem provází Buddy Oliver, syn světoznámého šéfkuchaře Jamieho Olivera."
-    },
-    {
-      "start": "20261011120300 +0200",
-      "stop": "20261011123000 +0200",
-      "title": "Svědectví barevného ostrova",
-      "desc": ""
-    },
-    {
-      "start": "20261011123000 +0200",
-      "stop": "20261011124200 +0200",
-      "title": "Moucha Loyd",
-      "desc": "Lloyd žije se svými rodiči, malou sestrou a jejich 225 červími sourozenci v kompostovacím koši, kterému říkají domov. Loyd je mladý muší sameček, který žije se svými rodiči, malou sestrou a jejich 225 červími sourozenci v kompostovacím koši, kterému říkají domov."
-    },
-    {
-      "start": "20261011124200 +0200",
-      "stop": "20261011131100 +0200",
-      "title": "Operace Jauu! XII",
-      "desc": "Trochu doktoři, trochu kašpaři, legrace i medicína se jim vždycky podaří. Britský cyklus. Trochu doktoři, trochu kašpaři, legrace i medicína se jim vždycky podaří. Britský cyklus A jsou tu zas! Už podvanácté. Svérázní, leč opravdoví lékaři, dvojčata Chris a Xand, jejich kamarádka doktorka Ronx a celá řada osobností ze světa medicíny, jejichž úkolem je přiblížit dětem svět, jehož se většina z nich stále tak trochu bojí. A protože v jedenácté řadě už všichni celkem bezpečně rozpoznají Chrise od Xanda a naopak, čekají nás pravidelná setkání s dalšími doktorskými dvojčaty,... Rafem a Danem. Oba mají červené uniformy a oba skvěle tančí. Víc, než tancem se ale budou zabývat vyvra cením různých mýtů ohledně zdraví, kterými nás zásobují babičky, tetičky a další příbuzenstvo. Raf a Dan odhalí, zda jde o fakta či o PO-VY-DO, tedy o pověry vytvořené dospělými. A ani tentokrát nebudou chybět oblíbené návštěvy laboratoře, doktorské kvízy a mnoho dalšího."
-    },
-    {
-      "start": "20261011131100 +0200",
-      "stop": "20261011133500 +0200",
-      "title": "AZ kvíz junior",
-      "desc": "Zábavná vědomostní soutěž pro zvídavé děti. Zábavná vědomostní soutěž pro zvídavé děti (Premiéra) Čtyři nejúspěšnější soutěžící z předchozích dvou dílů vědomostní soutěže AZ kvíz junior před branami Superfinále! Kuba, Vilém, Filip, Marek - kdo z nich se tentokrát probojuje ke kýženému Cenomatu a získá skvělé ceny."
-    },
-    {
-      "start": "20261011133500 +0200",
-      "stop": "20261011134000 +0200",
-      "title": "V divočině, tam to žije",
-      "desc": "Objevte s námi fascinující život zvířecích obyvatel dánských lesů, vod i měst. Přírodopisný dokumentární cyklus."
-    },
-    {
-      "start": "20261011134000 +0200",
-      "stop": "20261011134700 +0200",
-      "title": "V divočině, tam to žije",
-      "desc": "Objevte s námi fascinující život zvířecích obyvatel dánských lesů, vod i měst. Přírodopisný dokumentární cyklus."
-    },
-    {
-      "start": "20261011134700 +0200",
-      "stop": "20261011141600 +0200",
-      "title": "Nahoď styl",
-      "desc": "S novým ven a se starým dovnitř. Mladí módní návrháři soutěží o předvedení vlastní kolekce na londýnském týdnu módy."
-    },
-    {
-      "start": "20261011141600 +0200",
-      "stop": "20261011143900 +0200",
-      "title": "Rubble a jeho parta",
-      "desc": "Štěněčí stavitel Rubble a jeho rodina usilovně pracují na tom, aby se jejich město stalo hezkým místem k životu. Štěně Rubble, jeden z hrdinů Tlapkové patroly a jeho rodina, teta, děda, bratranci a všichni ostatní, tvrdě pracují na tom, aby se jejich město stalo krásným místem k životu. Co je zábavnější než štěně ve stavebním vozidle? Spousta štěňat ve spoustě stavebních vozidel."
-    },
-    {
-      "start": "20261011143900 +0200",
-      "stop": "20261011150100 +0200",
-      "title": "Rubble a jeho parta",
-      "desc": "Štěněčí stavitel Rubble a jeho rodina usilovně pracují na tom, aby se jejich město stalo hezkým místem k životu. Štěně Rubble, jeden z hrdinů Tlapkové patroly a jeho rodina, teta, děda, bratranci a všichni ostatní, tvrdě pracují na tom, aby se jejich město stalo krásným místem k životu. Co je zábavnější než štěně ve stavebním vozidle? Spousta štěňat ve spoustě stavebních vozidel."
-    },
-    {
-      "start": "20261011150100 +0200",
-      "stop": "20261011152500 +0200",
-      "title": "Nová dobrodružství medvídka Pú",
-      "desc": ""
-    },
-    {
-      "start": "20261011152500 +0200",
-      "stop": "20261011154600 +0200",
-      "title": "Lví hlídka",
-      "desc": "Simbův synek Kion pomalu dospívá, proto je na čase, aby převzal zodpovědnost, začal chránit Lví říši a ctil zákony přírody. Na tento náročný úkol ovšem není sám. Po jeho boku stojí jeho věrní přátelé a oddaní spolubojovníci, členové Lví hlídky. Příběh začíná ve chvíli, kdy král Simba zvolí za vůdce nové lví hlídky svého druhorozeného lvíčka Kiona. Ten dostává za úkol sestavit hlídku z těch nejstatečnějších, nejrychlejších, nejsilnějších a nejbystrozračejších v říši lvů a strážit s nimi koloběh života. Kion poruší tradici a místo lvích společníků zvolí své nejlepší přátelé, o nichž je přesvědčen, že jsou tou nejlepší volbou. Novými členy hlídky se stávají odvážný medojed Bunga, rychlonohá gepardice Fuli, horší silák Beshte a... bystrozraká volavka Ono. Společně si budou muset získat důvěru celé říše a dokázat, že přichází čas nové lv í hlídky."
-    },
-    {
-      "start": "20261011154600 +0200",
-      "stop": "20261011160800 +0200",
-      "title": "Kung Fu Panda: Dračí rytíř",
-      "desc": "Přísežný ochránce Údolí míru panda Po je vysoce kvalifikovaný a vždy ostražitý Dračí bojovník, který lační po spravedlnosti... a knedlíčcích. Společně s Pěti postrachy Po brání Nefritový palác před všemi vetřelci. Dračí bojovník panda Po vede Pět postrachů do boje o zachování klidu v Údolí míru. S tygřicí, opičákem, kudlankou, jeřábem, zmijí a mistrem Šifu po svém boku Po brání Nefritový palác před všemi vetřelci, zneškodňuje zlotřilce svými typicky pandími chvaty a zároveň si nechává dostatek času na své milované knedlíčky."
-    },
-    {
-      "start": "20261011160800 +0200",
-      "stop": "20261011161500 +0200",
-      "title": "Zvědavci",
-      "desc": "Lloyd žije se svými rodiči, malou sestrou a jejich 225 červími sourozenci v kompostovacím koši, kterému říkají domov. Loyd je mladý muší sameček, který žije se svými rodiči, malou sestrou a jejich 225 červími sourozenci v kompostovacím koši, kterému říkají domov."
-    },
-    {
-      "start": "20261011161500 +0200",
-      "stop": "20261011162700 +0200",
-      "title": "City: Dobrodružství",
-      "desc": "Vítejte v tom nejbláznivějším městě, kde nic není nemožné. LEGO City Dobrodružství je seriál představující vtipný, chytrý a akcí nabitý městský život, sledující naděje, sny a nehody stále se rozšiřující komunity postav."
-    },
-    {
-      "start": "20261011162700 +0200",
-      "stop": "20261011163700 +0200",
-      "title": "City: Dobrodružství",
-      "desc": "Vítejte v tom nejbláznivějším městě, kde nic není nemožné. LEGO City Dobrodružství je seriál představující vtipný, chytrý a akcí nabitý městský život, sledující naděje, sny a nehody stále se rozšiřující komunity postav."
-    },
-    {
-      "start": "20261011163700 +0200",
-      "stop": "20261011164800 +0200",
-      "title": "Zvoní",
-      "desc": "Stará dáma Penelope se seznámí s Antonií, která přišla o oba rodiče, a vypráví jí svůj pohnutý životní příběh. Paní Baileyová má dvě dospělá vnoučata, Sinclair žije s ní v Anglii a Jane po matčině smrti žije se svým otcem v Americe a už léta babičce neodpovídá na dopisy. Ta chce tedy sídlo odkázat Sinclairovi, i když tomu jde jen o její peníze. Jane váhá, ale když zjistí, že se k nim nastěhovala otcova milenka Linda, a navíc že jí otec schovával babiččiny dopisy, sbalí se a s Davidem odjede. Mezitím Sinclairovi jeho milenka Tessa sdělí, že s ním čeká dítě. Sinclair přemýšlí, jak má situaci řešit,... navíc se topí kvůli hazardu v dluzích, a tak se začne dvořit Jane."
-    },
-    {
-      "start": "20261011164800 +0200",
-      "stop": "20261011170700 +0200",
-      "title": "Tajemství pana",
-      "desc": ""
-    },
-    {
-      "start": "20261011170700 +0200",
-      "stop": "20261011171500 +0200",
-      "title": "Ovečka Shaun",
-      "desc": "Zdálo by se, že Shaun je běžná ovce ze stáda - avšak ve skutečnosti je právě ona vede do malérů a rvaček a mír, který na louce v údolí vládne, mění ve zmatek. Shaun a ostatní ovečky hlídá ovčák Bitzer. Každý den přináší Shaun nová dobrodružství. Se Shaunem vládne na farmě chaos! Shaun rozhodně nejde se stádem - právě naopak, stádo se pod jeho vedením pouští do různých činností, které klidné údolí mění na pastvinu plnou zmatků. Shaun s kamarády nedávají šanci pasteveckému psu Bitzerovi, který se snaží utajit, co všechno se děje za farmárovými zády. Každý den přináší nové dobrodružství se Shaunem."
-    },
-    {
-      "start": "20261011171500 +0200",
-      "stop": "20261011173000 +0200",
-      "title": "Grace a úžasné stroje V",
-      "desc": "Nadšená motorkářka Grace představuje ze sedadla řidiče ty nejúžasnější stroje – malé i velké, sloužící k přepravě, na závodění, pro těžkou práci nebo jen tak pro zábavu. Cyklus BBC."
-    },
-    {
-      "start": "20261011173000 +0200",
-      "stop": "20261011175300 +0200",
-      "title": "Sněžný kluk a neviditelné město",
-      "desc": "Yi, Jin, Peng a jejich roztomilý kamarád yeti Everest zjistí, že existuje celý kouzelný svět, a že je blíž, než si myslí."
-    },
-    {
-      "start": "20261011175300 +0200",
-      "stop": "20261011181600 +0200",
-      "title": "Kung Fu Panda: Dračí rytíř",
-      "desc": "Přísežný ochránce Údolí míru panda Po je vysoce kvalifikovaný a vždy ostražitý Dračí bojovník, který lační po spravedlnosti... a knedlíčcích. Společně s Pěti postrachy Po brání Nefritový palác před všemi vetřelci. Dračí bojovník panda Po vede Pět postrachů do boje o zachování klidu v Údolí míru. S tygřicí, opičákem, kudlankou, jeřábem, zmijí a mistrem Šifu po svém boku Po brání Nefritový palác před všemi vetřelci, zneškodňuje zlotřilce svými typicky pandími chvaty a zároveň si nechává dostatek času na své milované knedlíčky."
-    },
-    {
-      "start": "20261011181600 +0200",
-      "stop": "20261011184000 +0200",
-      "title": "Plamínek a čtyřkoláci",
-      "desc": "Seriál, který učí děti myslet a logicky uvažovat. Příběhy o Plamínkovi, červeném terénním autu, a partě čtyřkoláků, čtyřech autech, kterým Plamínek vždy pomáhá dostat se zpět na závodní dráhu po tom, co se je zlý Bourák pokusí ze závodu nějakým podvodem vyřadit. Seriál Plamínek a čtyřkoláci je interaktivní animovaný seriál pro předškolní děti, který diváky seznamuje se vzrušujícím světem přírodních věd, techniky, strojírenství a matematiky (STEM). První televizní seriál pro předškoláky, který v každé epizodě obsáhle pokrývá všechny tyto obory, sleduje úžasné terénní auto jménem Plamínek a jeho osmiletého řidiče AJe. Oba společně zažívají dobrodružství, která zkoumají aspekty toho, jak se věci pohybují, řeší problémy prostřednictvím vědeckých výzkumů... a matematiky a objevují součástky potřebné k tomu, aby technologie v každodenním životě fungovaly. Každá akční epizoda je nabitá terénními auty, fyzikálním humorem a veselými písničkami, jejichž texty vyzdvihují témata oborů STEM, jako jsou například přilnavost, tření, síla, dráha a přitažlivost."
-    },
-    {
-      "start": "20261011184000 +0200",
-      "stop": "20261011184500 +0200",
-      "title": "Zprávičky",
-      "desc": "Denní zpravodajství pro děti."
-    },
-    {
-      "start": "20261011184500 +0200",
-      "stop": "20261011185700 +0200",
-      "title": "Večerníček",
-      "desc": "Krkonošská pohádka Jak Trautenberk vyměnil Krakonošovi fajfku Večerníčkový televizní seriál o bájném vládci Krakonošovi natočený režisérkou Věrou Jordánovou (1977)."
-    },
-    {
-      "start": "20261011185700 +0200",
-      "stop": "20261011192000 +0200",
-      "title": "Nová dobrodružství medvídka Pú",
-      "desc": ""
-    },
-    {
-      "start": "20261011192000 +0200",
-      "stop": "20261011194400 +0200",
-      "title": "Lví hlídka",
-      "desc": "Simbův synek Kion pomalu dospívá, proto je na čase, aby převzal zodpovědnost, začal chránit Lví říši a ctil zákony přírody. Na tento náročný úkol ovšem není sám. Po jeho boku stojí jeho věrní přátelé a oddaní spolubojovníci, členové Lví hlídky."
-    },
-    {
-      "start": "20261011194400 +0200",
-      "stop": "20261011194800 +0200",
-      "title": "Zvířáci",
-      "desc": "Praštěná zvířecí dobrodružství, která se mohou stát jen v kresleném světě. V každém díle seriálu potkáme jiné zvířátko. Všechna však mají jedno společné: zažívají pošetilá dobrodružství, která se mohou stát jenom a pouze jim. Zebře se například pomíchají pruhy. Když si chobotnice chce upéct dort, jedno z jejích chapadel má úplně jiné plány. Krokodýlovi se zase nevejde do pusy preclíková hůl, kterou chce sníst. Snaha zvířátek problém vyřešit je vždy naučí něco užitečného a nového o životě."
-    },
-    {
-      "start": "20261011194800 +0200",
-      "stop": "20261012060000 +0200",
-      "title": "Pat a Mat",
-      "desc": "A bike tour can become a nightmare if you wanna take too much with a you and if you're not able to ride a bike."
-    },
-    {
-      "start": "20261011200000 +0200",
-      "stop": "20261011201300 +0200",
-      "title": "Události v kultuře",
-      "desc": "Každodenní souhrn nejdůležitějšího a nejzajímavějšího dění v naší i světové kultuře."
-    },
-    {
-      "start": "20261011201300 +0200",
-      "stop": "20261011201500 +0200",
-      "title": "Jedna báseň",
-      "desc": "Autorky čtou - Magdalena Šipka."
-    },
-    {
-      "start": "20261011201500 +0200",
-      "stop": "20261011211500 +0200",
-      "title": "Semafor atd",
-      "desc": "Spletitá cesta legendárního autorského divadla, jehož zakladatel a dlouholetý ředitel Jiří Suchý nedávno oslavil 95. narozeniny, v cyklu scenáristy J. D. Novotného a režiséra V. Polesného (1999). Spletitá cesta legendárního autorského divadla, jehož zakladatel a dlouholetý ředitel Jiří Suchý nedávno oslavil 95. narozeniny, v cyklu scenáristy J. D. Novotného a režiséra V. Polesného (1999) Na léta normalizace si ještě pamatuje většina z nás. Naštěstí. Byly to roky, kdy nebylo snadné téměř nic, ani nakoupit na neděli. Lidé si chodili pro duševní posilu do divadel a byli vděčni i za sebemenší náznak odporu proti režimu. S povděkem přijímali každou poznámku, každý pohled či možný... dvojsmysl. Diváci byli zvyklí číst mezi řádky a sdělení tímto způsobem přečtené mělo sílu přinášet ra dost i krátkodobou vzpruhu. V této atmosféře se v Semaforu museli vyrovnat s tím, že všechno bude jinak. Nejenom politicky; umřel Jiří Šlitr a Jiří Grossmann. Pod nové písničky se začíná podepisovat Ferdinand Havlík, s Miloslavem Šimkem začíná autorsky spolupracovat Luděk Sobota (na scéně s Petrem Nárožným) a později Jiří Krampol. Pokus utvořit komickou trojici Suchý + Dvořák + Molavcová se rozplynul po druhé premiéře a v Semaforu vzniká další samostatná skupina kolem Josefa Dvořáka. Státní divadelní studio, v jehož svazku Semafor působí, bylo v roce 1980 zrušeno, a jednotlivé scény převedeny pod správu velkých divadel - v případě Semaforu toho největšího - Hudebního divadla v Karlíně. Jiří Suchý vytváří typ stárnoucího komika Jonáše, vzpomínajícího na zašlou slávu, po jehož boku se pohybuje nešikovná a nešťastně oddaná hospodyně Žofie Melicharová. Komika Jitky Molavcové v tomto typu, jak se zdá, dosahuje svého dosavadního vrcholu. Ne zrovna harmonické působení tří samostatných skupin a dílčích pokusů o vznik dalších aktivit nezávislých na původní poetice Semaforu přeruší až sametová revoluce."
-    },
-    {
-      "start": "20261011211500 +0200",
-      "stop": "20261011223500 +0200",
-      "title": "Jonáš a Melicharová",
-      "desc": "Osu filmu Vladimíra Síse Jonáš a Melicharová vytváří semaforské představení Jonáš dejme tomu v úterý s Jiřím Suchým - zestárlým komikem a Jitkou Molavcovou - uklízečkou Melicharovou. Tvůrci využili stavební adaptace divadla Semafor a zasadili děj, v němž pochopitelně dominuje hudba, zpěv, inteligentní komika a sestříhané archivní materiály, na jeviště i do zákulisí přestavovaného divadla. Dobové snímky jsou použity poměrně střídmě a přesvědčivě dokreslují atmosféru. Jsou to úryvky z filmu... Bylo nás deset, televizní písničky, části televizních pořadů i záběry ze semaforského archivu. Díky ji m se na plátně objeví Jiří Šlitr, Jan Werich a další známí lidé, spjatí s érou Semaforu. Oba protagonisté dostávají zároveň dostatek prostoru, aby znovu přesvědčili o svých uměleckých schopnostech, čímž přispěli k sympatické podívané. Se stárnoucím komikem Jonášem se seznamujeme v okamžiku, kdy se prochází Prahou a dostane se až k divadlu Semafor, které je právě rekonstruováno. Vejde, nostalgicky prochází zákulisím a narazí na uklízečku Melicharovou. Ta omdlí, jakmile ho zahlédne. Bývalého slavného komika totiž bezmezně zbožňuje a s bezprostředností sobě vlastní mu to dává neustále najevo. Jonáš její obdiv odmítá, ale staré doby se najednou vrátí, když v rekvizitárně najde svůj slamák s červenou vestou. Rázem se... ocitá v době své celoevropské slávy. Stoupne si na jeviště a zazpívá píseň o kabaretu. Poté Melicha rové vypráví o první štaci v baru v Honolulu, o první lásce Veronice i o dívkách, se kterými se v divadle setkal. Když se k němu Melicharová při jedné písničce nesměle přidá, všimne si starý kabaretiér jejího talentu a ožije. Věří, že kdyby vystupovali spolu, měli by úspěch. Začne jí proto vysvětlovat základy řemesla. Melicharová se pomalu mění z uklízečky ve zpěvačku. Ovšem šťastným koncem podle představ Melicharové není společná sláva, ale vyznání lásky. Na tom však musí nová zpěvačka ještě zapracovat.."
-    },
-    {
-      "start": "20261011223500 +0200",
-      "stop": "20261011232200 +0200",
-      "title": "Hvězdy stříbrného plátna I",
-      "desc": "(Stars of the Silver Screen I) Laurence Olivier Divadelní a filmová legenda. Britský dokumentární cyklus."
-    },
-    {
-      "start": "20261011232200 +0200",
-      "stop": "20261012002200 +0200",
-      "title": "Elvis Presley",
-      "desc": "(Elvis '56 Special) Časosběrný portrét krále rock’n’rollu jehož příběh začal v bájném roce 1956. Unikátní britsko-americký dokument. Časosběrný portrét krále rock´n´rollu jehož příběh začal v bájném roce 1956. Unikátní britsko-americký dokument Elvis Aaron Presley (8. 1. 1935 - 16. 8. 1977) se už během svého života stal americkou legendou. Přitom nikdo z jeho rodiny neměl muzikantské buňky. Elvis se učil poslechem rádia. Brzy si oblíbil gospel, blues, spirituály, rhythm and blues, ale zajímal ho také žánr country. Uvedl se \"podmanivým hlasem bělocha, který zpíval jako černoch\". Natočil celkem třicet převážně... slabých filmů a více než čtyři sta dodnes působivých hitů. Nakonec se stal ve světě rocku a popu světovou jedničkou. Později jeho autoritu uznali i Beatles, Rolling Stones, Bob Dylan a další. Měl vzrušující hlas a jeho vliv na generace zpěváků i stoupenců rock´n´rollu trvá dál."
-    },
     {
       "start": "20261012002200 +0200",
       "stop": "20261012005000 +0200",
@@ -8192,138 +5738,6 @@
   ],
   "Barrandov Krimi": [
     {
-      "start": "20261011023000 +0200",
-      "stop": "20261011040000 +0200",
-      "title": "Exkluziv!",
-      "desc": "S Kateřinou Brožovou do světa hvězd (skryté titulky)."
-    },
-    {
-      "start": "20261011040000 +0200",
-      "stop": "20261011045000 +0200",
-      "title": "Ostříháno",
-      "desc": "Čtyři kadeřníci v soutěži na ostří nůžek (skryté titulky)."
-    },
-    {
-      "start": "20261011045000 +0200",
-      "stop": "20261011053200 +0200",
-      "title": "Na plac!",
-      "desc": "Šance pro herce z ulice (skryté titulky)."
-    },
-    {
-      "start": "20261011053200 +0200",
-      "stop": "20261011060000 +0200",
-      "title": "Konec vysílání",
-      "desc": ""
-    },
-    {
-      "start": "20261011060000 +0200",
-      "stop": "20261011062500 +0200",
-      "title": "Co bude dnes k večeři?",
-      "desc": "Kuchařku zahoďte, vařte s televizí Barrandov."
-    },
-    {
-      "start": "20261011062500 +0200",
-      "stop": "20261011070000 +0200",
-      "title": "Kutil Adam",
-      "desc": "Rady, tipy a triky, které použijete nejen v domácnosti, na chatě, nebo na zahradě. Aneb zkušený kutil učí nešikovného neumětela jak na to."
-    },
-    {
-      "start": "20261011070000 +0200",
-      "stop": "20261011102000 +0200",
-      "title": "Nejvyšší soud",
-      "desc": "Nezdá se Vám rozhodnutí soudu? Nejste spokojeni s rozsudkem? Mělo podle Vás všechno dopadnout jinak. Pak se odvolejte. Zasedá Nejvyšší soud."
-    },
-    {
-      "start": "20261011102000 +0200",
-      "stop": "20261011105500 +0200",
-      "title": "Kutil Adam",
-      "desc": "Rady, tipy a triky, které použijete nejen v domácnosti, na chatě, nebo na zahradě. Aneb zkušený kutil učí nešikovného neumětela jak na to."
-    },
-    {
-      "start": "20261011105500 +0200",
-      "stop": "20261011121000 +0200",
-      "title": "Politická střelnice",
-      "desc": "Satirický pořad Zuzany Bubílkové."
-    },
-    {
-      "start": "20261011121000 +0200",
-      "stop": "20261011125000 +0200",
-      "title": "Česká tajenka",
-      "desc": "Pro všechny příznivce přísloví a slovních hříček startuje každý všední den odpoledne zábavná soutěž Česká tajenka. Na soutěžící čekají nejen záludné hádanky, které si připravil moderátor Vlasta Korec, ale také řada zajímavých cen."
-    },
-    {
-      "start": "20261011125000 +0200",
-      "stop": "20261011143000 +0200",
-      "title": "LuxusStore",
-      "desc": "Zábavný prodejní pořad, který přináší výběr elegantních zlatých šperků, bižuterie, potravin, parfémů, produktů pro domácnost, sad na tvoření a spousty dalších nečekaných a počtem omezených i výhodných produktů. Dívat se nemusí jen ten, kdo nakupuje. Přímý přenos."
-    },
-    {
-      "start": "20261011143000 +0200",
-      "stop": "20261011144500 +0200",
-      "title": "Co bude dnes k večeři?",
-      "desc": "Jak vyřešit každodenní problém mnoha domácností \"Co bude dnes k večeři?\" Recept na webových stránkách TV Barrandov, suroviny na stole a může se začít. Rychlý, praktický a cenově dostupný způsob, jak bezstarostně uvařit originalní a dobrou večeři pro celou rodinu. Světová i domácí kuchyně a pravidelné sladké zpestření. Do kuchyně se postaví mistr kuchař Radek Kašpárek. V pondělí - pátek na Barrandově."
-    },
-    {
-      "start": "20261011144500 +0200",
-      "stop": "20261011153500 +0200",
-      "title": "Šťastná 7",
-      "desc": "Nová zábavná soutěž plná zajímavých otázek a ještě zajímavějších odpovědí. Pořadem vás provede Vlasta Korec."
-    },
-    {
-      "start": "20261011153500 +0200",
-      "stop": "20261011163000 +0200",
-      "title": "Šťastná 7",
-      "desc": "Nová zábavná soutěž plná zajímavých otázek a ještě zajímavějších odpovědí. Pořadem vás provede Vlasta Korec."
-    },
-    {
-      "start": "20261011163000 +0200",
-      "stop": "20261011174000 +0200",
-      "title": "Šťastná 7",
-      "desc": "Nová zábavná soutěž plná zajímavých otázek a ještě zajímavějších odpovědí. Pořadem vás provede Vlasta Korec."
-    },
-    {
-      "start": "20261011174000 +0200",
-      "stop": "20261011184000 +0200",
-      "title": "Soudce Alexandr",
-      "desc": "Na obrazovky přichází spravedlnost, tentokrát v mužské podobě soudce Alexandra. A řešit se budou především peníze. Dluhy, exekuce, zpronevěry a podvody."
-    },
-    {
-      "start": "20261011184000 +0200",
-      "stop": "20261011200500 +0200",
-      "title": "Nejvyšší soud",
-      "desc": "Nezdá se Vám rozhodnutí soudu? Nejste spokojeni s rozsudkem? Mělo podle Vás všechno dopadnout jinak. Pak se odvolejte. Zasedá Nejvyšší soud."
-    },
-    {
-      "start": "20261011200500 +0200",
-      "stop": "20261011211000 +0200",
-      "title": "Stopy života",
-      "desc": "Neobyčejné příběhy, které přivedly obyčejné lidi až do ordinace psychiatra. Český seriál Hrají K. Brožová, I. Andrlová, M. Vladyka, M. Vašut, J. Kačer, J. Abrhám, L. Šafránková, J. Přeučil a další."
-    },
-    {
-      "start": "20261011211000 +0200",
-      "stop": "20261011222500 +0200",
-      "title": "Zločin III",
-      "desc": "Sarah Lundová má za sebou pětadvacet let u policie, které jí přinesly několik rozvrácených partnerství a disfunkční vztah s nyní již dospělým synem Markem. Ale to vše se má změnit: Lundová usiluje o přeložení z oddělení vražd na poklidné kancelářské místo u Útvaru plánování a analýzy, od něhož si mimo jiné slibuje více času na rodinné chvíle se synem a jeho novou partnerkou. K útvaru vražd nastupuje energický mladík Juncker, kterého má Lundová zaškolit."
-    },
-    {
-      "start": "20261011222500 +0200",
-      "stop": "20261011232000 +0200",
-      "title": "SeXoňa",
-      "desc": "Nová noční show plná erotiky, intimity, kuriozit a hlavně zábavy. Poučí i pobaví zkušené i panice, na své si přijdou ženy i muži. Divoká moderátorka balancuje na ostří nože, ale nikde nepřepadne do nevkusu. Exkurze do světa za zrcadlem, pohled pod peřiny lidí takzvaně normálních, ale i těch co jsou považovány za devianty. Dále samozřejmě neortodoxní zpovídání V.I.P. hostů. Takže láska, sex, něžnosti, ale také pěkně čuňačinky."
-    },
-    {
-      "start": "20261011232000 +0200",
-      "stop": "20261011235500 +0200",
-      "title": "Intim s Heidi Janků",
-      "desc": "Stačí mít vyvinutý instinkt... O lidské intimitě a všem, u čeho se možná trochu začervenáte."
-    },
-    {
-      "start": "20261011235500 +0200",
-      "stop": "20261012024000 +0200",
-      "title": "Kdopak by se Čecha bál",
-      "desc": "Kdo se bojí, nesmí k Čechovi! František Ringo Čech a jeho pořad plný odvážných dotazů a zajímavých hostů."
-    },
-    {
       "start": "20261012024000 +0200",
       "stop": "20261012034000 +0200",
       "title": "Exkluziv!",
@@ -8718,147 +6132,135 @@
       "stop": "20261015034000 +0200",
       "title": "Badatelé",
       "desc": "Reportér Jaroslav Mareš je na stopách největších záhad, nevysvětlených jevů a zapomenutých příběhů (skryté titulky)."
+    },
+    {
+      "start": "20261015034000 +0200",
+      "stop": "20261015041000 +0200",
+      "title": "Exkluziv!",
+      "desc": "S Kateřinou Brožovou do světa hvězd (skryté titulky)."
+    },
+    {
+      "start": "20261015041000 +0200",
+      "stop": "20261015052900 +0200",
+      "title": "Ostříháno",
+      "desc": "Čtyři kadeřníci v soutěži na ostří nůžek (skryté titulky)."
+    },
+    {
+      "start": "20261015052900 +0200",
+      "stop": "20261015060000 +0200",
+      "title": "Konec vysílání",
+      "desc": ""
+    },
+    {
+      "start": "20261015060000 +0200",
+      "stop": "20261015070500 +0200",
+      "title": "Soudkyně Barbara",
+      "desc": "Skutečné příběhy ze soudních síní. Nesmlouvavá, neomylná a spravedlivá - soudkyně Barbara rozhoduje, kde je pravda."
+    },
+    {
+      "start": "20261015070500 +0200",
+      "stop": "20261015080000 +0200",
+      "title": "Šťastná 7",
+      "desc": "Nová zábavná soutěž plná zajímavých otázek a ještě zajímavějších odpovědí. Pořadem vás provede Vlasta Korec."
+    },
+    {
+      "start": "20261015080000 +0200",
+      "stop": "20261015090500 +0200",
+      "title": "Záchranáři",
+      "desc": "Nikdo nezná tenkou hranici mezi životem a smrtí tak dobře jako oni. Záchranáři. V situacích, kdy jde doslova o všechno. Čtyři příběhy, čtyři výjezdy. Buďte s námi u toho."
+    },
+    {
+      "start": "20261015090500 +0200",
+      "stop": "20261015112500 +0200",
+      "title": "Soudce Alexandr",
+      "desc": "Na obrazovku se vrací spravedlnost v mužské podobě soudce Alexandra. Řešit se budou především peníze. Dluhy, exekuce, zpronevěry, podvody a již brzy také vážnější případy trestního práva. Ublížení na zdraví, krádeže a jiné trestné činy."
+    },
+    {
+      "start": "20261015112500 +0200",
+      "stop": "20261015121000 +0200",
+      "title": "Badatelé",
+      "desc": "Reportér Jaroslav Mareš je na stopách největších záhad, nevysvětlených jevů a zapomenutých příběhů (skryté titulky)."
+    },
+    {
+      "start": "20261015121000 +0200",
+      "stop": "20261015125000 +0200",
+      "title": "Česká tajenka",
+      "desc": "Pro všechny příznivce přísloví a slovních hříček startuje každý všední den odpoledne zábavná soutěž Česká tajenka. Na soutěžící čekají nejen záludné hádanky, které si připravil moderátor Vlasta Korec, ale také řada zajímavých cen."
+    },
+    {
+      "start": "20261015125000 +0200",
+      "stop": "20261015142500 +0200",
+      "title": "LuxusStore",
+      "desc": "Zábavný prodejní pořad, který přináší výběr elegantních zlatých šperků, bižuterie, potravin, parfémů, produktů pro domácnost, sad na tvoření a spousty dalších nečekaných a počtem omezených i výhodných produktů. Dívat se nemusí jen ten, kdo nakupuje. Přímý přenos."
+    },
+    {
+      "start": "20261015142500 +0200",
+      "stop": "20261015145000 +0200",
+      "title": "Co bude dnes k večeři?",
+      "desc": "Kuchařku zahoďte, vařte s televizí Barrandov."
+    },
+    {
+      "start": "20261015145000 +0200",
+      "stop": "20261015155500 +0200",
+      "title": "Soudce Alexandr",
+      "desc": "Na obrazovku se vrací spravedlnost v mužské podobě soudce Alexandra. Řešit se budou především peníze. Dluhy, exekuce, zpronevěry, podvody a již brzy také vážnější případy trestního práva. Ublížení na zdraví, krádeže a jiné trestné činy."
+    },
+    {
+      "start": "20261015155500 +0200",
+      "stop": "20261015170000 +0200",
+      "title": "Soudkyně Barbara",
+      "desc": "Skutečné příběhy ze soudních síní. Nesmlouvavá, neomylná a spravedlivá - soudkyně Barbara rozhoduje, kde je pravda."
+    },
+    {
+      "start": "20261015170000 +0200",
+      "stop": "20261015180000 +0200",
+      "title": "Soudce Alexandr",
+      "desc": "Na obrazovku se vrací spravedlnost v mužské podobě soudce Alexandra. Řešit se budou především peníze. Dluhy, exekuce, zpronevěry, podvody a již brzy také vážnější případy trestního práva. Ublížení na zdraví, krádeže a jiné trestné činy."
+    },
+    {
+      "start": "20261015180000 +0200",
+      "stop": "20261015190500 +0200",
+      "title": "Záchranáři",
+      "desc": "Nikdo nezná tenkou hranici mezi životem a smrtí tak dobře jako oni. Záchranáři. V situacích, kdy jde doslova o všechno. Čtyři příběhy, čtyři výjezdy. Buďte s námi u toho."
+    },
+    {
+      "start": "20261015190500 +0200",
+      "stop": "20261015200500 +0200",
+      "title": "Česká tajenka",
+      "desc": "Pro všechny příznivce přísloví a slovních hříček startuje každý všední den odpoledne zábavná soutěž Česká tajenka. Na soutěžící čekají nejen záludné hádanky, které si připravil moderátor Vlasta Korec, ale také řada zajímavých cen."
+    },
+    {
+      "start": "20261015200500 +0200",
+      "stop": "20261015204000 +0200",
+      "title": "Badatelé",
+      "desc": "Reportér Jaroslav Mareš je na stopách největších záhad, nevysvětlených jevů a zapomenutých příběhů (skryté titulky)."
+    },
+    {
+      "start": "20261015204000 +0200",
+      "stop": "20261015214500 +0200",
+      "title": "Stopy života",
+      "desc": "Neobyčejné příběhy, které přivedly obyčejné lidi až do ordinace psychiatra. Český seriál Hrají K. Brožová, I. Andrlová, M. Vladyka, M. Vašut, J. Kačer, J. Abrhám, L. Šafránková, J. Přeučil a další."
+    },
+    {
+      "start": "20261015214500 +0200",
+      "stop": "20261015224000 +0200",
+      "title": "Policie Delta",
+      "desc": "Napínavý seriál z policejního prostředí. Rodinná dramata, akční momenty i nečekané zápletky. Oblíbení policisté opět v akci. Příběhy, které se můžou stát i vám. Sledujte na TV Barrandov."
+    },
+    {
+      "start": "20261015224000 +0200",
+      "stop": "20261015234000 +0200",
+      "title": "Aféry - neuvěřitelné životní příběhy",
+      "desc": "Šokující partnerské vztahy, nevěry, podrazy. Jak daleko se dá zajít ve vztahu a jak moc si partneři dokážou ublížit."
+    },
+    {
+      "start": "20261015234000 +0200",
+      "stop": "20261016033500 +0200",
+      "title": "Badatelé",
+      "desc": "Reportér Jaroslav Mareš je na stopách největších záhad, nevysvětlených jevů a zapomenutých příběhů (skryté titulky)."
     }
   ],
   "AXN White": [
-    {
-      "start": "20261011002000 +0200",
-      "stop": "20261011011000 +0200",
-      "title": "K poctě zbraň",
-      "desc": ""
-    },
-    {
-      "start": "20261011011000 +0200",
-      "stop": "20261011020000 +0200",
-      "title": "K poctě zbraň",
-      "desc": ""
-    },
-    {
-      "start": "20261011020000 +0200",
-      "stop": "20261011025000 +0200",
-      "title": "K poctě zbraň",
-      "desc": ""
-    },
-    {
-      "start": "20261011025000 +0200",
-      "stop": "20261011040000 +0200",
-      "title": "Vzpomínky",
-      "desc": "Potom čo sa Carrie dozvie, že zatkli muža, ktorý by mohol byť vrahom jeho sestry, vyberie sa spolu s Alom do rodného mesta Syracuse. Carrie s Alem se vydávají do jejich rodného města, kde byl údajně zadržen muž, který je podezřelý ze zabití další dívky. Při výslechu se Carrie pokusí Sama donutit k přiznání k vraždě její sestry. Obviněný nic nepřizná a později musí být pro nedostatek důkazů propuštěn. Alovi se přesto podaří získat povolení k domovní prohlídce jeho bytu. Sam mezitím unese Carrie a odvede ji na místo, kde byla její sestra nalezena mrtvá. Tady si Carrie vzpomene, že Sam její sestru nezavraždil. Dokonce ji,... když byla malá, před vrahem zachránil. Vrah tehdy z místa činu unikl a on celou tu dobu po něm pátral na vlastní pěst. Carriiny vzpomínky nakonec jeho verzi potvrdí. Současně se ukáže nová stopa. Na oblečení nedávno nalezené zavražděné holčičky byl nalezen kamenný prach, který používal jeden z místních na opravy své příjezdové cesty. Policisté zjistí, že se sem přiženil a žije tady s manželkou a její malou dcerou."
-    },
-    {
-      "start": "20261011040000 +0200",
-      "stop": "20261011060000 +0200",
-      "title": "Teleshop",
-      "desc": "Český teleshopping (2026)."
-    },
-    {
-      "start": "20261011060000 +0200",
-      "stop": "20261011073500 +0200",
-      "title": "Grand Hotel",
-      "desc": "Každá izba má svoje tajomstvá.."
-    },
-    {
-      "start": "20261011073500 +0200",
-      "stop": "20261011084000 +0200",
-      "title": "Komisař Rex",
-      "desc": "Marc Hoffman je sympatický a inteligentní mladý muž. Přerušil studium práv aby mohl pracovat jako policejní specialista - analytik. Niki Herzogová se po maturitě vydala na policejní dráhu, protože když byla ještě malá její otec, vyšetřovatel byl zabit při výkonu služby a malá Niki si z něho časem vytvořila téměř mýtickou postavu hrdiny. V jejím boji se zločinci všeho druhu jí pomáhá i speciální výcvik v bojových uměních, kterým prošla. Oba mladí lidé se brzy sblížili a začali spolu chodit.... To ale ještě ani jeden z nich netušil, že souhrou náhod se stanou i kolegy v práci a že jejich dalším kolegou v oddělení vražd bude huňatý komisař Rex! Otázka je, zda si Rex na svého nového pána zvykne, aby společně mohli opět tvořit tým, který zločincům pěkně zatopí.. V jedné vídeňské restauraci vybuchne nástražná puma a kromě moha lidí zabije i ruského zástupce ministerstva obchodu pro Evropu - Žukova. Policie je na místě téměř okamžitě a také se jí brzy podaří identifikovat útočníka. Ten se snaží utéci, ale v patách má policistu - psovoda a jeho psa Rexe. Policista je však zastřelen a pes zraněn. Na místě zasahuje i komisař Richard Moser, který atentátníka těžce zraní. Rozbíhá se vyšetřování, ale Mosera navíc zajímá i osud Rexe. Pokud pes nebude... akceptovat nového pána, bude zřejmě utracen. Rex teskní po pánovi, nežere nepije a nikoho nechce poslouchat . Moser však ví, jak na něj, a tak ho Rex přijímá jako svého pána. Komisař bere psa s sebou na místo činu a Rex ho navede na důležitou stopu a pak dokonce pronásleduje i skutečného pachatele. Záhada je vyřešena a Rex se stává plnohodnotným členem policejního oddělení."
-    },
-    {
-      "start": "20261011084000 +0200",
-      "stop": "20261011094000 +0200",
-      "title": "Komisař Rex",
-      "desc": "Chlupatý komisař Rex se pomalu sžívá se svým novým pánem Markem Hoffmanem a zvyká si i na jeho půvabnou kolegyni a přítelkyni Niki Herzogovou. Zločinci ale nečekají - dochází k vraždě mladého manažera, který po návratu do svého luxusního sídla přistihl lupiče. To se mu stalo osudným. Teď je na Markovi a Niki, aby s pomocí Rexe odhalili složité pozadí případu.. V jedné vídeňské restauraci vybuchne nástražná puma a kromě moha lidí zabije i ruského zástupce ministerstva obchodu pro Evropu - Žukova. Policie je na místě téměř okamžitě a také se jí brzy podaří identifikovat útočníka. Ten se snaží utéci, ale v patách má policistu - psovoda a jeho psa Rexe. Policista je však zastřelen a pes zraněn. Na místě zasahuje i komisař Richard Moser, který atentátníka těžce zraní. Rozbíhá se vyšetřování, ale Mosera navíc zajímá i osud Rexe. Pokud pes nebude... akceptovat nového pána, bude zřejmě utracen. Rex teskní po pánovi, nežere nepije a nikoho nechce poslouchat . Moser však ví, jak na něj, a tak ho Rex přijímá jako svého pána. Komisař bere psa s sebou na místo činu a Rex ho navede na důležitou stopu a pak dokonce pronásleduje i skutečného pachatele. Záhada je vyřešena a Rex se stává plnohodnotným členem policejního oddělení."
-    },
-    {
-      "start": "20261011094000 +0200",
-      "stop": "20261011104000 +0200",
-      "title": "Komisař Rex",
-      "desc": "Riskantní noční šplhání na radniční věž končí smrtí jednoho z horolezců po tragickém pádu do hlubiny. Pitvou se zjistí, že v těle mrtvého byly látky, které způsobily jeho křeče před dokončením výstupu. Skupina odvážných horolezců se vsadí, že se jim podaří pokořit budovu vídeňské radnice. Toto dobrodružství není bez nebezpečí, což se bohužel vzápětí potvrdí: Jeden ze sportovců riskantní závod nepřežije. Teď už je na komisaři Marku Hoffmanovi a jeho půvabné kolegyni Niki Herzogové, aby s pomocí svého nepostradatelného čtyřnohého kolegy zjistili skutečnou příčinu jeho smrti.."
-    },
-    {
-      "start": "20261011104000 +0200",
-      "stop": "20261011114000 +0200",
-      "title": "Komisař Rex",
-      "desc": "Malý toulavý pejsek, kterého Rex najde v blízkosti místa činu, přivede vyšetřovatele na stopu vraha mladé ženy.. Komisař Marc Hoffman se svojí půvabnou kolegyní Niki Herzogovou dostávají další případ: tentokrát jde o vraždu mladé ženy. Vydatnou pomoc při vyšetřování jim opět poskytuje huňatý Rex. Ten totiž objeví v blízkosti místa činu malého toulavého pejska. Zpočátku tomu nikdo nevěnuje větší pozornost, ale pejsek se ukáže být důležitým svědkem, který přivede vyšetřovatele na stopu vraha.."
-    },
-    {
-      "start": "20261011114000 +0200",
-      "stop": "20261011123500 +0200",
-      "title": "Komisař Rex",
-      "desc": "Marc, Niki a Rex postupně odkrývají děsivé souvislosti mezi sebevraždou mladé dívenky a vraždou psycholožky, kterou děvče navštěvovalo.. Komisař Marc společně se svou kolegyní Niki vyšetřuje případ podivné sebevraždy mladé dívenky. Zjistí, že dívka navštěvovala psycholožku - ta však byla zavražděna. Mohla vědět něco, co má se sebevraždou holčičky nějakou spojitost? Vyšetřování postupně odkrývá děsivé souvislosti. A opět se huňatý vlčák Rex ukazuje jako neocenitelný pomocník.."
-    },
-    {
-      "start": "20261011123500 +0200",
-      "stop": "20261011133000 +0200",
-      "title": "Vzpomínky",
-      "desc": "Potom čo sa Carrie dozvie, že zatkli muža, ktorý by mohol byť vrahom jeho sestry, vyberie sa spolu s Alom do rodného mesta Syracuse. Carrie s Alem se vydávají do jejich rodného města, kde byl údajně zadržen muž, který je podezřelý ze zabití další dívky. Při výslechu se Carrie pokusí Sama donutit k přiznání k vraždě její sestry. Obviněný nic nepřizná a později musí být pro nedostatek důkazů propuštěn. Alovi se přesto podaří získat povolení k domovní prohlídce jeho bytu. Sam mezitím unese Carrie a odvede ji na místo, kde byla její sestra nalezena mrtvá. Tady si Carrie vzpomene, že Sam její sestru nezavraždil. Dokonce ji,... když byla malá, před vrahem zachránil. Vrah tehdy z místa činu unikl a on celou tu dobu po něm pátral na vlastní pěst. Carriiny vzpomínky nakonec jeho verzi potvrdí. Současně se ukáže nová stopa. Na oblečení nedávno nalezené zavražděné holčičky byl nalezen kamenný prach, který používal jeden z místních na opravy své příjezdové cesty. Policisté zjistí, že se sem přiženil a žije tady s manželkou a její malou dcerou."
-    },
-    {
-      "start": "20261011133000 +0200",
-      "stop": "20261011142500 +0200",
-      "title": "Vzpomínky",
-      "desc": "Carrie s Alem se vydávají do jejich rodného města, kde byl údajně zadržen muž, který je podezřelý ze zabití další dívky. Při výslechu se Carrie pokusí Sama donutit k přiznání k vraždě její sestry. Obviněný nic nepřizná a později musí být pro nedostatek důkazů propuštěn. Alovi se přesto podaří získat povolení k domovní prohlídce jeho bytu. Sam mezitím unese Carrie a odvede ji na místo, kde byla její sestra nalezena mrtvá. Tady si Carrie vzpomene, že Sam její sestru nezavraždil. Dokonce ji,... když byla malá, před vrahem zachránil. Vrah tehdy z místa činu unikl a on celou tu dobu po něm pátral na vlastní pěst. Carriiny vzpomínky nakonec jeho verzi potvrdí. Současně se ukáže nová stopa. Na oblečení nedávno nalezené zavražděné holčičky byl nalezen kamenný prach, který používal jeden z místních na opravy své příjezdové cesty. Policisté zjistí, že se sem přiženil a žije tady s manželkou a její malou dcerou. Žena se při setkání s policisty zhroutí a řekne jim, že její partner právě unesl dceru a že s ní míří ke kanadské hranici."
-    },
-    {
-      "start": "20261011142500 +0200",
-      "stop": "20261011152000 +0200",
-      "title": "Vzpomínky",
-      "desc": "Ve městě řádí tajemný muž, který si říká Kilborn. Dává dohromady týmy zločinců a společně s nimi pak páchá loupeže v bankách. Tým skládá z mužů, kteří se navzájem neznají, a jakékoliv prozrazení či chování proti jeho příkazům trestá smrtí. Policie zjistí, že pozvání k jedné takové loupeži dostala i známá zlodějka Eve. Carrie a Al ji zatknou, a protože se jí Carrie podobá, rozhodne se za ni vydávat. Lupičský tým včetně Carrie dostane od Kilborna za úkol vyloupit banku. V době přesunu ale... dostanou nový cíl a sponka Carrie, ve které je sledovací zařízení, je jedním z lupičů zničena. Carrie pr oto musí improvizovat. To se jí daří až do chvíle, kdy se ukáže, že mladý hacker je ve skutečnosti Kilborn. Carrie se rázem ocitá před hlavní jeho pistole."
-    },
-    {
-      "start": "20261011152000 +0200",
-      "stop": "20261011161500 +0200",
-      "title": "Zelenáč",
-      "desc": "Harperová zapochybuje o nováčikovi v tíme. Nolan a Chenová zistia, že sa chystá lúpež. Nolan naberie odvahu a pozve Baileyovú na rande. Kým sa Bradford vyrovnáva s novými povinnosťami seržanta, Harperová dostáva do tímu policajného nováčika, ktorého sprevádza veľmi nelichotivá povesť. Hoci dôstojník Thorsen prešiel akadémiou s najlepšími známkami, má nálepku vraha. Harperová konfrontuje Thorsena s krutou realitou policajnej práce. Teraz musí Thorsen dokázať, či má na to, aby sa stal policajtom. Bradford sa s pomocou seržanta Greya prepracuje na nové miesto seržanta a Nolan sa náhodne stretne s Claire Ivy - známou... majstrovskou zlodejov, ktorá sa znovu vrátila do mesta. Čo chystá? Vo veku, keď ostatní chcú odísť do dôchodku, 45-ročný John Nolan vymení svoj pokojný život v malom mestečku za nový začiatok v Los Angeles, kde si chce splniť svoj životný sen a stať sa policajtom. Aby to dokázal, musí sa presadiť ako najstarší nováčik v policajnom zbore medzi dvadsaťročnými kolegami. Jeho nadriadení sú však skeptickí, pretože ho považujú za chodiacu krízu stredného veku. Ak Nolan nedokáže udržať krok s mladými policajtmi v boji proti zločinu, riskuje životy mnohých kolegov, vrátane vlastného. Pokiaľ však dokáže využiť svoje životné skúsenosti, odhodlanie a zmysel pre humor, môže otvoriť úplne novú kapitolu svojho života."
-    },
-    {
-      "start": "20261011161500 +0200",
-      "stop": "20261011171000 +0200",
-      "title": "Zelenáč",
-      "desc": "Dôstojníci Nolan a Chenová zasahujú pri požiari domu, kde situáciu vážne skomplikuje desivý nález. Útoky neznámeho ostreľovača vrhnú podozrenie na jedného člena policajného tímu. Spolu sme silnejší! Dôstojník John Nolan a jeho mladí kolegovia z losangeleskej polície bojujú proti zločinu a vyšetrujú zamotané prípady, ktoré sa bezprostredne týkajú ich tímu. A nebude to žiadna prechádzka ružovou záhradou! Vo veku, keď ostatní chcú odísť do dôchodku, 45-ročný John Nolan vymení svoj pokojný život v malom mestečku za nový začiatok v Los Angeles, kde si chce splniť svoj životný sen a stať sa policajtom. Aby to dokázal, musel sa presadiť ako najstarší nováčik v policajnom... zbore medzi dvadsaťročnými regrútmi. Ak by nedokázal udržať krok s mladými policajtmi v boji proti zlo činu, riskoval by životy kolegov vrátane svojho vlastného."
-    },
-    {
-      "start": "20261011171000 +0200",
-      "stop": "20261011180500 +0200",
-      "title": "Zelenáč",
-      "desc": "Dnes bude horúco! Lopezová s Haperovovu pátrajú po sériovom podpaľačovi. Pri pátraní po nezvestnej žene odhalia Nolan a Chenová temné a nebezpečné tajomstvo. Hľadaná osoba môže byť napojená na ruskú tajnú službu! Angele Lopezovej neunikne súvislosť medzi rôznymi prípadmi požiarov a Nyla Harperová pátra po sériovom podpaľačovi. Dôstojník Wesley Evers dostane brutálne varovanie a musí zvládnuť nesplniteľnú úlohu. Spolu sme silnejší! Dôstojník John Nolan a jeho mladí kolegovia z losangeleskej polície bojujú proti zločinu a vyšetrujú zamotané prípady, ktoré sa... bezprostredne týkajú ich tímu. A nebude to žiadna prechádzka ružovou záhradou! Vo veku, keď ostatní chcú o dísť do dôchodku, 45-ročný John Nolan vymení svoj pokojný život v malom mestečku za nový začiatok v Los Angeles, kde si chce splniť svoj životný sen a stať sa policajtom. Aby to dokázal, musel sa presadiť ako najstarší nováčik v policajnom zbore medzi dvadsaťročnými regrútmi. Ak by nedokázal udržať krok s mladými policajtmi v boji proti zločinu, riskoval by životy kolegov vrátane svojho vlastného."
-    },
-    {
-      "start": "20261011180500 +0200",
-      "stop": "20261011190000 +0200",
-      "title": "Zelenáč",
-      "desc": "Na tento Halloween bude Los Angeles ešte dlho spomínať. Po tom, čo v uliciach začali vyčíňať agresívni zombíci, Nolan s kolegami hľadajú nejaké racionálne vysvetlenie podivného javu. Zrejme má všetko na svedomí neznáma nová droga. Je Halloween, a preto sa polícia pripravuje na množstvo bláznivých misií. Nikto by však nečakal, čo Nolan zažije na svojej obchôdzke. Zdá sa, že na ľudí čoraz viac útočia posadnutí zombíci. Čoskoro sa však ukáže, že ľudia nie sú posadnutí, ale užili nebezpečnú párty drogu. Keďže sa útoky sfetovaných ľudí stávajú čoraz častejšími, polícia musí konať. S pomocou svojho brata a seržanta Bradforda sa dôstojník John Nolan vydáva skoncovať so strašením sfetovaných zombíkov v uliciach. Spolu sme... silnejší! Dôstojník John Nolan a jeho mladí kolegovia z losangeleskej polície bojujú proti zločinu a vy šetrujú zamotané prípady, ktoré sa bezprostredne týkajú ich tímu. A nebude to žiadna prechádzka ružovou záhradou! Vo veku, keď ostatní chcú odísť do dôchodku, 45-ročný John Nolan vymení svoj pokojný život v malom mestečku za nový začiatok v Los Angeles, kde si chce splniť svoj životný sen a stať sa policajtom. Aby to dokázal, musel sa presadiť ako najstarší nováčik v policajnom zbore medzi dvadsaťročnými regrútmi. Ak by nedokázal udržať krok s mladými policajtmi v boji proti zločinu, riskoval by životy kolegov vrátane svojho vlastného."
-    },
-    {
-      "start": "20261011190000 +0200",
-      "stop": "20261011200000 +0200",
-      "title": "Zelenáč",
-      "desc": "Po zverejnení záhadnej básničky o zlatom poklade ukrytom v Los Angeles vypukne v meste zlatá horúčka a všetci obyvatelia chcú mince nájsť. Policajti musia konať rýchlo, aby zastavili chaos a násilie v uliciach. Nolan má dôvodné podozrenie, že do prípadov podpaľačstva je zapletený niekto ďalší. Po zverejnení hádanky, ktorá poodhaľuje úkryt ukradnutých zlatých mincí, vypukne v celom Los Angeles zlatá horúčka. Obyvatelia zaplavili ulice a všetci po poklade pátrajú. Keďže losangeleská polícia... musí upokojiť situáciu a nájsť poklad skôr než ktokoľvek iný, sú vytvorené dva tímy. A pátranie sa zač ína. Čas je veľmi dôležitý, pretože chaos pri masovom pátraní obyvateľov si už vyžiadal dva ľudské životy. Spolu sme silnejší! Dôstojník John Nolan a jeho mladí kolegovia z losangeleskej polície bojujú proti zločinu a vyšetrujú zamotané prípady, ktoré sa bezprostredne týkajú ich tímu. A nebude to žiadna prechádzka ružovou záhradou! Vo veku, keď ostatní chcú odísť do dôchodku, 45-ročný John Nolan vymení svoj pokojný život v malom mestečku za nový začiatok v Los Angeles, kde si chce splniť svoj životný sen a stať sa policajtom. Aby to dokázal, musel sa presadiť ako najstarší nováčik v policajnom zbore medzi dvadsaťročnými regrútmi. Ak by nedokázal udržať krok s mladými policajtmi v boji proti zločinu, riskoval by životy kolegov vrátane svojho vlastného."
-    },
-    {
-      "start": "20261011200000 +0200",
-      "stop": "20261011205500 +0200",
-      "title": "Vzpomínky",
-      "desc": "Nález mrtvoly v hotelovém apartmá přivede policisty a Carrie na stopu politického aktivisty dr. Dimka ze západní Afriky, na kterého má být spáchán atentát. Ruská profesionální skupina vyslala do New Yorku svou nejlepší vražedkyni Jackie. Policistům se podaří vystopovat pomocí sledovacího zařízení motel, ve kterém se Jackie schovává. Carrie si tam uvědomí, že stopa, kterou Jackie v motelu nechala, je nastražená a že chce na svou oběť zaútočit na veřejném vystoupení."
-    },
-    {
-      "start": "20261011205500 +0200",
-      "stop": "20261011215000 +0200",
-      "title": "Vzpomínky",
-      "desc": "Carrie vyšetřuje vraždu profesora, který jí kdysi pomohl vyrovnat se se zjištěním, jak pracuje její fenomenální mozek. Stopy ji zavedou do terapeutické skupiny jí podobných lidí. Tady už musí Carrie začít řešit i vraždu bývalé asistentky zavražděného profesora. Carrie zjistí, že se ztratila nahrávka jednoho ze skupinových sezení. Naštěstí si celé tehdejší sezení pamatuje, a tak pro ni není problém zjistit, že jeden z účastníků lhal. Je jím milovník umění Parsons. Když policisté začnou... prověřovat mužovy lži, narazí na dávnou vraždu, kterou zřejmě v ten daný den spáchal."
-    },
-    {
-      "start": "20261011215000 +0200",
-      "stop": "20261011224500 +0200",
-      "title": "Vzpomínky",
-      "desc": "Tým vyšetřuje vraždu taxikáře, který pocházel z Afghánistánu a byl policejním informátorem. Muž byl zabit způsobem, který mohl spáchat pouze voják. Podezřelým je veterán z Afghánistánu, desátník Curtis. Při poslední misi přišel o svého přítele, když sebevražedný atentátník odpálil jeho auto. Carrie zjistí, že Curtis trpí posttraumatickým stresem a občas vidí teroristy všude okolo sebe."
-    },
-    {
-      "start": "20261011224500 +0200",
-      "stop": "20261012001500 +0200",
-      "title": "Grand Hotel",
-      "desc": "Každá izba má svoje tajomstvá.."
-    },
     {
       "start": "20261012001500 +0200",
       "stop": "20261012011000 +0200",
@@ -9132,141 +6534,141 @@
   ],
   "FilmBox Stars Czech": [
     {
-      "start": "20261011012500 +0200",
-      "stop": "20261011025000 +0200",
-      "title": "Alex z Venice",
+      "start": "20261012011500 +0200",
+      "stop": "20261012024500 +0200",
+      "title": "Lilly Schönauer: Paulin sen",
       "desc": ""
     },
     {
-      "start": "20261011025000 +0200",
-      "stop": "20261011030000 +0200",
+      "start": "20261012024500 +0200",
+      "stop": "20261012035500 +0200",
       "title": "Noční tabule (5)",
       "desc": ""
     },
     {
-      "start": "20261011030000 +0200",
-      "stop": "20261011043500 +0200",
-      "title": "Vražda na ambasádě",
-      "desc": ""
-    },
-    {
-      "start": "20261011043500 +0200",
-      "stop": "20261011061500 +0200",
-      "title": "Záhady Ainsley McGregor: Případ pro přádelníka",
-      "desc": ""
-    },
-    {
-      "start": "20261011055500 +0200",
-      "stop": "20261011075500 +0200",
-      "title": "Slečna Marplová III (3)",
-      "desc": ""
-    },
-    {
-      "start": "20261011061500 +0200",
-      "stop": "20261011081500 +0200",
-      "title": "Případ mrtvého nebožtíka",
-      "desc": ""
-    },
-    {
-      "start": "20261011075500 +0200",
-      "stop": "20261011090000 +0200",
-      "title": "Slečna Scarletová III (5)",
-      "desc": ""
-    },
-    {
-      "start": "20261011081500 +0200",
-      "stop": "20261011101000 +0200",
-      "title": "Zločiny z vřesovišť XI (6)",
-      "desc": ""
-    },
-    {
-      "start": "20261011090000 +0200",
-      "stop": "20261011105500 +0200",
-      "title": "Vraždy v Oxfordu VIII (2)",
-      "desc": ""
-    },
-    {
-      "start": "20261011101000 +0200",
-      "stop": "20261011120500 +0200",
-      "title": "Zločiny z vřesovišť XII (1)",
-      "desc": ""
-    },
-    {
-      "start": "20261011105500 +0200",
-      "stop": "20261011125500 +0200",
-      "title": "Slečna Marplová III (4)",
-      "desc": ""
-    },
-    {
-      "start": "20261011120500 +0200",
-      "stop": "20261011140000 +0200",
-      "title": "Zločiny z vřesovišť XII (2)",
-      "desc": ""
-    },
-    {
-      "start": "20261011125500 +0200",
-      "stop": "20261011150000 +0200",
-      "title": "Hercule Poirot XI (1)",
-      "desc": ""
-    },
-    {
-      "start": "20261011140000 +0200",
-      "stop": "20261011160000 +0200",
-      "title": "Hercule Poirot X (3)",
-      "desc": ""
-    },
-    {
-      "start": "20261011150000 +0200",
-      "stop": "20261011160500 +0200",
-      "title": "Slečna Scarletová III (6)",
-      "desc": ""
-    },
-    {
-      "start": "20261011160000 +0200",
-      "stop": "20261011180000 +0200",
+      "start": "20261012035500 +0200",
+      "stop": "20261012055500 +0200",
       "title": "Hercule Poirot X (4)",
       "desc": ""
     },
     {
-      "start": "20261011160500 +0200",
-      "stop": "20261011180000 +0200",
+      "start": "20261012055500 +0200",
+      "stop": "20261012075500 +0200",
+      "title": "Slečna Marplová III (3)",
+      "desc": ""
+    },
+    {
+      "start": "20261012060000 +0200",
+      "stop": "20261012080000 +0200",
+      "title": "Slečna Marplová III (4)",
+      "desc": ""
+    },
+    {
+      "start": "20261012075500 +0200",
+      "stop": "20261012090000 +0200",
+      "title": "Slečna Scarletová III (5)",
+      "desc": ""
+    },
+    {
+      "start": "20261012080000 +0200",
+      "stop": "20261012090500 +0200",
+      "title": "Slečna Scarletová III (6)",
+      "desc": ""
+    },
+    {
+      "start": "20261012090000 +0200",
+      "stop": "20261012105500 +0200",
+      "title": "Vraždy v Oxfordu VIII (2)",
+      "desc": ""
+    },
+    {
+      "start": "20261012090500 +0200",
+      "stop": "20261012110000 +0200",
+      "title": "Vraždy v Oxfordu VIII (3)",
+      "desc": ""
+    },
+    {
+      "start": "20261012105500 +0200",
+      "stop": "20261012125500 +0200",
+      "title": "Slečna Marplová III (4)",
+      "desc": ""
+    },
+    {
+      "start": "20261012110000 +0200",
+      "stop": "20261012130000 +0200",
+      "title": "Slečna Marplová IV (1)",
+      "desc": ""
+    },
+    {
+      "start": "20261012125500 +0200",
+      "stop": "20261012150000 +0200",
+      "title": "Hercule Poirot XI (1)",
+      "desc": ""
+    },
+    {
+      "start": "20261012130000 +0200",
+      "stop": "20261012150000 +0200",
+      "title": "Hercule Poirot XI (2)",
+      "desc": ""
+    },
+    {
+      "start": "20261012150000 +0200",
+      "stop": "20261012160500 +0200",
+      "title": "Slečna Scarletová III (6)",
+      "desc": ""
+    },
+    {
+      "start": "20261012150000 +0200",
+      "stop": "20261012160500 +0200",
+      "title": "Slečna Scarletová (1)",
+      "desc": ""
+    },
+    {
+      "start": "20261012160500 +0200",
+      "stop": "20261012180000 +0200",
       "title": "Zločiny z vřesovišť XII (3)",
       "desc": ""
     },
     {
-      "start": "20261011180000 +0200",
-      "stop": "20261011200500 +0200",
-      "title": "Holka na zabití",
+      "start": "20261012160500 +0200",
+      "stop": "20261012180000 +0200",
+      "title": "Zločiny z vřesovišť XII (4)",
       "desc": ""
     },
     {
-      "start": "20261011180000 +0200",
-      "stop": "20261011195000 +0200",
+      "start": "20261012180000 +0200",
+      "stop": "20261012195000 +0200",
       "title": "Záhady Ainsley McGregor: Případ pro hodináře",
       "desc": ""
     },
     {
-      "start": "20261011195000 +0200",
-      "stop": "20261011214000 +0200",
+      "start": "20261012180000 +0200",
+      "stop": "20261012200500 +0200",
+      "title": "Martin a Venuše",
+      "desc": ""
+    },
+    {
+      "start": "20261012195000 +0200",
+      "stop": "20261012214000 +0200",
       "title": "Vaření s láskou",
       "desc": ""
     },
     {
-      "start": "20261011200500 +0200",
-      "stop": "20261011215500 +0200",
-      "title": "Láska na čtyřech tlapkách",
+      "start": "20261012200500 +0200",
+      "stop": "20261012221500 +0200",
+      "title": "Vražda na Blackwater Lane",
       "desc": ""
     },
     {
-      "start": "20261011214000 +0200",
-      "stop": "20261011234000 +0200",
+      "start": "20261012214000 +0200",
+      "stop": "20261012060000 +0200",
       "title": "Přijatelná oběť",
       "desc": ""
     },
     {
-      "start": "20261011215500 +0200",
-      "stop": "20261011055500 +0200",
-      "title": "Čintamani a podvodník",
+      "start": "20261012221500 +0200",
+      "stop": "20261012001500 +0200",
+      "title": "Divoké srdce",
       "desc": ""
     }
   ]
