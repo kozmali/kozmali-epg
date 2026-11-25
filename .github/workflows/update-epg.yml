@@ -32,8 +32,11 @@ jobs:
         git config --global user.name "GitHub Action Bot"
         git config --global user.email "action@github.com"
         git add epg.json
-        git diff --quiet && git diff --staged --quiet || git commit -m "Aktualizácia EPG dát"
-        git push
+        if ! git diff --staged --quiet; then
+          git commit -m "Aktualizácia EPG dát"
+          git pull --rebase origin main
+          git push
+        fi
 
     - name: 🛠️ Nastavenie GitHub Pages
       uses: actions/configure-pages@v5
